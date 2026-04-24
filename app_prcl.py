@@ -14,7 +14,7 @@ st.set_page_config(
 # ── Load data ───────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    clients = pd.read_csv('clients_cleaned_.csv')
+    clients = pd.read_csv('clients_cleaned.csv')
     props   = pd.read_csv('properties_cleaned.csv')
     clients['satisfaction_score'] = pd.to_numeric(
         clients['satisfaction_score'], errors='coerce')
