@@ -1,0 +1,2001 @@
+﻿client_id,client_type,company_flag,first_name,last_name,date_of_birth,age,gender,country,region,acquisition_purpose,invest_flag,satisfaction_score,loan_applied,loan_num,referral_channel,segment
+C0001,Individual,0,Kareem,Liu,11-05-1968,57,F,USA,California,Home,0,4,Yes,1,Website,Other
+C0002,Individual,0,Trystan,Oconnor,26-11-1962,63,M,USA,California,Home,0,1,No,0,Website,Other
+C0003,Individual,0,Kale,Gay,07-04-1959,67,M,USA,California,Home,0,4,Yes,1,Agency,Other
+C0004,Individual,0,Russell,Gross,25-11-1959,66,M,USA,California,Home,0,5,No,0,Website,Other
+C0005,Company,0,Marleez,Co,28-02-1976,50,M,USA,California,Investment,1,5,No,0,Website,Corporate Buyer
+C0006,Individual,0,Yurem,Wright,06-03-1957,69,M,USA,California,Home,0,3,Yes,1,Website,Other
+C0007,Individual,0,Xavier,Faulkner,24-05-1947,78,M,Canada,Quebec,Investment,1,5,No,0,Website,Luxury Investor
+C0008,Individual,0,Kayden,Olsen,17-10-1969,56,F,USA,California,Home,0,5,No,0,Website,Other
+C0009,Individual,0,Joaquin,Mullins,05-10-1975,50,M,USA,California,Investment,1,5,No,0,Agency,Luxury Investor
+C0010,Individual,0,Nicolas,Navarro,17-06-1966,59,M,USA,Oregon,Investment,1,3,No,0,Agency,Other
+C0011,Individual,0,Laci,Guerra,17-06-1956,69,F,USA,California,Home,0,2,Yes,1,Website,Other
+C0012,Company,0,Kylax,Co,25-04-1975,50,M,USA,California,Investment,1,5,No,0,Website,Corporate Buyer
+C0013,Individual,0,Harley,Lucero,10-08-1962,63,M,USA,California,Home,0,1,Yes,1,Website,Other
+C0014,Company,0,Esther,Co,10-07-1980,45,M,USA,California,Home,0,`,Yes,1,Website,Corporate Buyer
+C0015,Individual,0,Jaylynn,Hickman,19-08-1941,84,F,USA,California,Home,0,5,No,0,Client,Other
+C0016,Individual,0,Olivia,Oconnell,03-09-1939,86,F,USA,California,Investment,1,5,No,0,Website,Luxury Investor
+C0017,Individual,0,Antonio,Porter,08-01-1977,49,M,USA,Arizona,Home,0,3,No,0,Client,Other
+C0018,Individual,0,Luke,Lynn,07-02-1967,59,M,USA,California,Home,0,2,Yes,1,Agency,Other
+C0019,Individual,0,Anahi,Curry,09-09-1957,68,M,USA,California,Home,0,5,Yes,1,Client,Other
+C0020,Individual,0,Camille,Sharp,17-10-1967,58,F,USA,California,Home,0,5,No,0,Website,Other
+C0021,Individual,0,Jesus,Obrien,09-06-1938,87,M,USA,Oregon,Investment,1,3,No,0,Website,Other
+C0022,Individual,0,Araceli,Nelson,14-09-1966,59,M,Germany,Berlin,Investment,1,5,No,0,Agency,Luxury Investor
+C0023,Individual,0,Cole,Taylor,06-12-1958,67,M,USA,California,Home,0,3,Yes,1,Website,Other
+C0024,Individual,0,Alonso,Terrell,05-11-1963,62,M,USA,California,Investment,1,4,No,0,Website,Other
+C0025,Individual,0,Rodolfo,Gibson,20-01-1937,89,M,USA,Nevada,Home,0,2,Yes,1,Website,Other
+C0026,Individual,0,Joseph,Reeves,23-09-1962,63,M,USA,California,Investment,1,5,No,0,Website,Luxury Investor
+C0027,Individual,0,Grant,Weber,08-09-1968,57,M,USA,California,Home,0,5,Yes,1,Website,Other
+C0028,Individual,0,Ava,Phelps,15-04-1958,68,F,USA,California,Home,0,3,No,0,Client,Other
+C0029,Individual,0,Kyla,Walker,26-02-1976,50,F,USA,Colorado,Home,0,4,Yes,1,Agency,Other
+C0030,Individual,0,Alanna,Hess,19-06-1952,73,F,USA,Nevada,Home,0,3,No,0,Website,Other
+C0031,Individual,0,Skylar,Buchanan,25-12-1977,48,M,USA,Nevada,Home,0,4,Yes,1,Website,Other
+C0032,Individual,0,Rodrigo,Robinson,11-08-1966,59,M,USA,California,Home,0,4,No,0,Website,Other
+C0033,Individual,0,Lydia,Tate,14-08-1968,57,F,USA,California,Home,0,3,Yes,1,Website,Other
+C0034,Individual,0,Lauryn,Patrick,30-10-1969,56,F,Belgium,Brussels,Home,0,2,No,0,Agency,Other
+C0035,Individual,0,Diego,Mendez,12-05-1965,60,M,Mexico,Mexico City,Home,0,3,No,0,Agency,Other
+C0036,Individual,0,Victor,Jensen,01-09-1973,52,M,USA,California,Home,0,4,No,0,Website,Other
+C0037,Individual,0,Scarlet,Hendricks,20-01-1962,64,F,USA,California,Home,0,5,Yes,1,Website,Other
+C0038,Individual,0,Janelle,Espinoza,25-12-1974,51,F,USA,California,Investment,1,4,No,0,Client,Other
+C0039,Individual,0,Aleksandra,Karenina,13-06-1967,58,F,Russia,Krasnodar Krai,Home,0,1,No,0,Agency,Other
+C0040,Individual,0,Conner,Huff,22-03-1975,51,M,USA,Nevada,Home,0,5,No,0,Website,Other
+C0041,Individual,0,Zain,Horne,13-04-1967,59,M,USA,Arizona,Home,0,1,Yes,1,Website,Other
+C0042,Individual,0,Maia,Chandler,12-08-1975,50,F,USA,Utah,Home,0,1,Yes,1,Website,Other
+C0043,Individual,0,Jordyn,Park,04-04-1965,61,M,USA,Nevada,Investment,1,3,Yes,1,Website,Other
+C0044,Individual,0,Diana,Hunt,13-02-1931,95,F,USA,Arizona,Home,0,3,No,0,Website,Other
+C0045,Individual,0,Kevin,Mata,12-10-1968,57,M,USA,Colorado,Investment,1,2,No,0,Agency,Other
+C0046,Individual,0,Brisa,Mckee,24-09-1964,61,F,USA,California,Home,0,5,No,0,Client,Other
+C0047,Individual,0,Mason,Gilbert,31-07-1970,55,M,USA,Colorado,Home,0,2,No,0,Agency,Other
+C0048,Individual,0,Derick,Li,20-03-1957,69,M,USA,California,Home,0,3,Yes,1,Agency,Other
+C0049,Individual,0,Jace,Riggs,20-08-1971,54,F,USA,California,Home,0,1,No,0,Website,Other
+C0050,Individual,0,Jair,Johns,05-03-1940,86,M,USA,California,Home,0,5,No,0,Website,Other
+C0051,Individual,0,Matilda,Madden,03-03-1941,85,F,USA,Colorado,Home,0,3,No,0,Agency,Other
+C0052,Individual,0,Myla,Ewing,03-02-1967,59,F,USA,Oregon,Investment,1,2,No,0,Client,Other
+C0053,Individual,0,Miguel,Walter,07-01-1954,72,M,USA,Arizona,Home,0,4,No,0,Agency,Other
+C0054,Company,0,Bridger CAL,Co,15-02-1967,59,M,USA,Nevada,Investment,1,5,No,0,Website,Corporate Buyer
+C0055,Individual,0,Mara,Franco,07-06-1973,52,F,USA,California,Home,0,5,Yes,1,Agency,Other
+C0056,Individual,0,Erik,Mora,07-12-1964,61,M,USA,Oregon,Investment,1,5,No,0,Agency,Luxury Investor
+C0057,Individual,0,Henry,Kennedy,08-06-1933,92,M,USA,California,Home,0,4,Yes,1,Agency,Other
+C0058,Company,0,Kenyon,Co,03-05-1969,56,F,USA,California,Investment,1,1,Yes,1,Website,Corporate Buyer
+C0059,Individual,0,Oswaldo,Palmer,16-06-1960,65,M,USA,California,Home,0,2,No,0,Website,Other
+C0060,Individual,0,Kassidy,Vega,07-05-1972,53,F,USA,California,Home,0,5,No,0,Website,Other
+C0061,Individual,0,Morgan,Glass,12-05-1967,58,M,USA,Utah,Home,0,5,No,0,Agency,Other
+C0062,Individual,0,Tyler,Carr,27-03-1974,52,M,USA,California,Home,0,5,Yes,1,Client,Other
+C0063,Individual,0,Yesenia,Marquez,23-07-1942,83,F,USA,Arizona,Home,0,4,No,0,Website,Other
+C0064,Individual,0,Gordon,Brown,10-02-1974,52,M,UK,Northern Ireland,Investment,1,4,No,0,Agency,Global Investor
+C0065,Individual,0,Rodrigo,Ramirez,26-03-1972,54,M,USA,California,Home,0,1,No,0,Agency,Other
+C0066,Individual,0,Melanie,Holland,25-12-1974,51,F,USA,California,Investment,1,3,No,0,Client,Other
+C0067,Individual,0,Enrique,Cardenas,10-06-1977,48,M,USA,California,Home,0,2,No,0,Website,Other
+C0068,Individual,0,Helen,Williamson,26-02-1966,60,F,USA,Colorado,Home,0,5,Yes,1,Agency,Other
+C0069,Individual,0,Isis,Rios,01-04-1970,56,M,USA,California,Investment,1,4,No,0,Website,Other
+C0070,Individual,0,Kayley,Nielsen,27-04-1947,78,F,USA,Arizona,Home,0,4,Yes,1,Website,Other
+C0071,Individual,0,Donavan,Flowers,27-12-1985,40,M,USA,California,Home,0,1,Yes,1,Client,Other
+C0072,Individual,0,Augustus,Hinton,03-02-1953,73,M,USA,Nevada,Investment,1,2,No,0,Website,Other
+C0073,Individual,0,Alejandra,Greer,11-01-1965,61,F,Denmark,Capital Region,Investment,1,1,No,0,Agency,Global Investor
+C0074,Individual,0,Violet,Nixon,01-01-1959,67,F,USA,Oregon,Investment,1,5,No,0,Client,Luxury Investor
+C0075,Individual,0,Jaelyn,Berger,05-05-1970,55,F,USA,California,Home,0,3,No,0,Website,Other
+C0076,Individual,0,Tristian,Fuller,13-03-1956,70,M,USA,California,Home,0,5,No,0,Agency,Other
+C0077,Individual,0,Christian,Costa,14-09-1980,45,M,USA,California,Home,0,5,No,0,Website,Other
+C0078,Individual,0,Nora,Lynch,23-04-1948,77,F,USA,California,Home,0,5,No,0,Website,Other
+C0079,Individual,0,Dangelo,Shea,27-02-1954,72,M,Belgium,Brussels,Investment,1,4,No,0,Website,Global Investor
+C0080,Individual,0,Aiyana,Christensen,16-01-1949,77,F,USA,California,Investment,1,3,No,0,Website,Other
+C0081,Individual,0,Sidney,Cline,24-07-1943,82,F,USA,California,Home,0,4,Yes,1,Website,Other
+C0082,Individual,0,Kaitlin,Owen,26-12-1981,44,F,USA,Virginia,Investment,1,5,No,0,Client,Luxury Investor
+C0083,Individual,0,Issac,Edwards,29-10-1938,87,M,USA,California,Home,0,5,No,0,Website,Other
+C0084,Individual,0,Zaiden,Merritt,23-02-1948,78,M,USA,Wyoming,Home,0,3,No,0,Agency,Other
+C0085,Individual,0,Iris,Larsen,14-09-1966,59,M,USA,California,Home,0,4,Yes,1,Agency,Other
+C0086,Individual,0,Grace,Stein,20-12-1968,57,F,USA,California,Home,0,3,Yes,1,Website,Other
+C0087,Individual,0,Alessandra,Perry,15-05-1979,46,F,USA,California,Home,0,4,No,0,Agency,Other
+C0088,Individual,0,Jamal,Mueller,13-08-1936,89,M,USA,Oregon,Investment,1,2,No,0,Website,Other
+C0089,Individual,0,Irvin,Ellis,14-11-1949,76,M,USA,California,Home,0,3,No,0,Agency,Other
+C0090,Individual,0,Terry,Forbes,27-05-1982,43,M,USA,California,Home,0,5,No,0,Client,Other
+C0091,Individual,0,Jacqueline,Grant,13-11-1959,66,F,USA,California,Home,0,4,No,0,Website,Other
+C0092,Individual,0,Brock,Fischer,29-05-1971,54,M,USA,Kansas,Home,0,3,No,0,Website,Other
+C0093,Individual,0,Curtis,Howard,11-09-1962,63,M,USA,California,Home,0,2,No,0,Agency,Other
+C0094,Individual,0,Avah,Huang,23-04-1948,77,F,USA,California,Home,0,5,No,0,Website,Other
+C0095,Individual,0,Frank,Meyer,16-03-1964,62,M,USA,California,Home,0,3,Yes,1,Agency,Other
+C0096,Individual,0,Darien,Dorsey,27-12-1985,40,M,USA,California,Investment,1,3,Yes,1,Website,Other
+C0097,Individual,0,Franklin,Mack,18-06-1943,82,M,USA,Virginia,Home,0,5,Yes,1,Website,Other
+C0098,Individual,0,Elena,Petrova,22-06-1949,76,F,Russia,Saint Petersburg,Home,0,3,Yes,1,Agency,Other
+C0099,Individual,0,Jack,Hanson,01-12-1941,84,M,USA,California,Investment,1,4,No,0,Website,Other
+C0100,Individual,0,Emmett,Estes,05-06-1969,56,M,USA,California,Home,0,3,No,0,Website,Other
+C0101,Individual,0,Aniya,Miller,02-03-1951,75,F,USA,Nevada,Home,0,3,No,0,Website,Other
+C0102,Individual,0,Jack,Anderson,13-02-1947,79,M,USA,California,Investment,1,5,Yes,1,Website,Other
+C0103,Individual,0,Kael,Hurley,15-12-1973,52,M,USA,Colorado,Home,0,3,No,0,Website,Other
+C0104,Individual,0,Kamden,Stewart,14-09-1978,47,M,USA,California,Home,0,5,No,0,Website,Other
+C0105,Individual,0,Aniyah,Ali,03-11-1959,66,F,USA,California,Investment,1,2,Yes,1,Website,Other
+C0106,Individual,0,Simon,Bennett,09-06-1953,72,M,USA,Colorado,Home,0,4,No,0,Website,Other
+C0107,Individual,0,Laurel,Benitez,06-08-1959,66,M,USA,California,Home,0,4,Yes,1,Agency,Other
+C0108,Individual,0,Trey,Strong,20-12-1958,67,M,USA,California,Home,0,4,No,0,Agency,Other
+C0109,Individual,0,Myah,Roman,05-05-1933,92,F,USA,California,Investment,1,5,Yes,1,Agency,Other
+C0110,Individual,0,Nyla,Blake,05-06-1959,66,F,USA,California,Investment,1,5,Yes,1,Agency,Other
+C0111,Individual,0,Kole,Shannon,27-06-1979,46,M,USA,Arizona,Home,0,2,Yes,1,Website,Other
+C0112,Individual,0,Melany,Glover,01-10-1960,65,F,USA,California,Investment,1,1,Yes,1,Agency,Other
+C0113,Individual,0,Arthur,Bray,14-07-1949,76,M,USA,Utah,Investment,1,4,No,0,Agency,Other
+C0114,Individual,0,Kamila,Collier,21-01-1962,64,F,USA,California,Home,0,1,Yes,1,Website,Other
+C0115,Individual,0,Amanda,Simon,03-12-1978,47,F,USA,California,Home,0,5,No,0,Agency,Other
+C0116,Individual,0,Erika,Steward,07-08-1955,70,F,USA,California,Investment,1,4,No,0,Website,Other
+C0117,Individual,0,Jakobe,Bailey,06-10-1964,61,M,UK,Scotland,Investment,1,4,No,0,Agency,Global Investor
+C0118,Individual,0,Sonia,Choi,09-11-1948,77,F,USA,Oregon,Investment,1,5,No,0,Agency,Luxury Investor
+C0119,Individual,0,Erika,Gallagher,19-07-1942,83,F,USA,California,Home,0,1,Yes,1,Website,Other
+C0120,Individual,0,Madeline,Michael,30-07-1953,72,F,USA,California,Home,0,4,Yes,1,Website,Other
+C0121,Individual,0,Bennett,Chen,18-07-1950,75,M,USA,Nevada,Home,0,2,No,0,Website,Other
+C0122,Individual,0,Belinda,Hogan,18-08-1973,52,F,USA,California,Home,0,1,Yes,1,Agency,Other
+C0123,Individual,0,Johanna,Fisher,25-08-1962,63,F,USA,California,Home,0,4,Yes,1,Website,Other
+C0124,Individual,0,Jaylen,Turner,15-07-1963,62,F,USA,California,Home,0,4,No,0,Agency,Other
+C0125,Individual,0,Michael,Juarez,25-12-1976,49,M,USA,Colorado,Home,0,4,Yes,1,Agency,Other
+C0126,Individual,0,Adriana,Shaffer,11-07-1972,53,F,USA,California,Investment,1,2,No,0,Agency,Other
+C0127,Individual,0,Julio,Leonard,18-07-1974,51,M,USA,Nevada,Home,0,2,Yes,1,Website,Other
+C0128,Company,0,Abdiel,Co,22-05-1963,62,M,USA,Nevada,Investment,1,5,Yes,1,Website,Corporate Buyer
+C0129,Individual,0,Warren,Pugh,17-07-1973,52,M,USA,Arizona,Investment,1,5,No,0,Website,Luxury Investor
+C0130,Individual,0,Luis,Crane,20-04-1959,67,M,USA,Nevada,Home,0,3,Yes,1,Website,Other
+C0131,Individual,0,Mohammad,Irwin,02-12-1971,54,M,USA,California,Home,0,1,No,0,Website,Other
+C0132,Individual,0,Davion,Stout,20-07-1965,60,M,USA,Nevada,Home,0,1,Yes,1,Agency,Other
+C0133,Individual,0,Logan,Simmons,14-09-1946,79,M,USA,California,Investment,1,4,No,0,Agency,Other
+C0134,Individual,0,Kaylin,Villarreal,13-06-1932,93,F,Russia,Novosibirsk,Investment,1,3,No,0,Website,Global Investor
+C0135,Individual,0,Ruben,Melton,05-03-1939,87,M,USA,Utah,Investment,1,2,No,0,Agency,Other
+C0136,Individual,0,Gianni,Fritz,15-09-1973,52,M,USA,California,Home,0,3,No,0,Website,Other
+C0137,Individual,0,Emilie,Morrison,29-10-1957,68,F,USA,California,Home,0,3,Yes,1,Website,Other
+C0138,Individual,0,Crystal,Wyatt,30-06-1939,86,F,USA,Oregon,Investment,1,3,Yes,1,Website,Other
+C0139,Individual,0,Annabel,Robles,14-10-1969,56,F,USA,California,Home,0,5,Yes,1,Website,Other
+C0140,Individual,0,Rachel,Cross,18-06-1952,73,F,USA,California,Home,0,3,No,0,Website,Other
+C0141,Individual,0,Madalyn,Mercer,21-06-1986,39,F,USA,California,Home,0,5,No,0,Website,Other
+C0142,Individual,0,Michelle,Cameron,04-06-1978,47,F,USA,Nevada,Home,0,3,Yes,1,Website,Other
+C0143,Individual,0,Ezra,Lozano,24-02-1958,68,M,USA,California,Home,0,1,No,0,Website,Other
+C0144,Individual,0,Ramiro,Oneill,29-09-1954,71,M,USA,California,Home,0,4,No,0,Agency,Other
+C0145,Individual,0,Emely,Watts,30-11-1964,61,F,USA,California,Home,0,4,No,0,Website,Other
+C0146,Individual,0,Hazel,Ayers,01-02-1963,63,M,USA,Colorado,Home,0,2,No,0,Website,Other
+C0147,Individual,0,Cedric,Goodwin,20-02-1948,78,M,USA,Utah,Home,0,4,No,0,Client,Other
+C0148,Individual,0,Dayton,Hatfield,19-04-1969,57,M,USA,Colorado,Investment,1,4,Yes,1,Agency,Other
+C0149,Individual,0,Piotr,Aleksandrov,02-12-1955,70,M,Russia,Krasnodar Krai,Investment,1,3,No,0,Agency,Global Investor
+C0150,Individual,0,Memphis,Mcconnell,25-08-1968,57,M,USA,California,Home,0,2,Yes,1,Website,Other
+C0151,Individual,0,Arabella,Ferrell,17-08-1976,49,F,USA,Oregon,Home,0,1,No,0,Agency,Other
+C0152,Individual,0,Sincere,Hansen,19-01-1967,59,F,USA,California,Investment,1,2,Yes,1,Agency,Other
+C0153,Individual,0,Lara,Carrillo,24-02-1983,43,F,USA,California,Home,0,5,No,0,Website,Other
+C0154,Individual,0,Valentina,Simpson,24-01-1965,61,F,USA,California,Home,0,4,Yes,1,Agency,Other
+C0155,Company,0,Kamd,Co,18-08-1975,50,M,USA,California,Investment,1,5,No,0,Agency,Corporate Buyer
+C0156,Individual,0,Case,Sanchez,26-05-1966,59,F,USA,California,Home,0,5,No,0,Website,Other
+C0157,Individual,0,Van,Charles,15-05-1952,73,M,USA,Colorado,Home,0,2,Yes,1,Client,Other
+C0158,Individual,0,Emmy,Singh,03-12-1979,46,F,USA,Virginia,Investment,1,3,Yes,1,Agency,Other
+C0159,Individual,0,Colin,Campos,14-04-1942,84,M,USA,California,Home,0,3,No,0,Website,Other
+C0160,Individual,0,Anya,Stephenson,11-06-1959,66,F,USA,California,Home,0,4,No,0,Website,Other
+C0161,Individual,0,Parker,Poole,10-11-1951,74,M,USA,California,Home,0,5,No,0,Website,Other
+C0162,Individual,0,Ivan,Bright,15-09-1953,72,M,USA,California,Home,0,4,No,0,Website,Other
+C0163,Individual,0,Larry,Turner,24-03-1986,40,M,USA,Utah,Investment,1,5,Yes,1,Agency,Other
+C0164,Individual,0,Matthew,Nelson,20-09-1986,39,M,USA,Arizona,Home,0,5,No,0,Website,Other
+C0165,Individual,0,Mary,Hall,11-07-1956,69,F,USA,California,Home,0,3,Yes,1,Website,Other
+C0166,Individual,0,Carolyn,Weaver,24-01-1984,42,F,USA,Arizona,Home,0,4,Yes,1,Agency,Other
+C0167,Individual,0,Grace,Green,02-02-1955,71,F,UK,Scotland,Home,0,3,Yes,1,Website,Other
+C0168,Individual,0,Pamela,Sanders,06-06-1960,65,F,USA,Nevada,Home,0,3,No,0,Agency,Other
+C0169,Individual,0,Terry,Turner,13-08-1990,35,M,USA,Ohio,Investment,1,5,Yes,1,Agency,Other
+C0170,Individual,0,Jacob,Jones,13-06-1949,76,M,USA,California,Home,0,5,No,0,Website,Other
+C0171,Individual,0,Julie,Sanders,05-05-1991,34,F,USA,Washington,Investment,1,5,Yes,1,Client,Other
+C0172,Individual,0,Catherine,Carter,16-09-1992,33,F,USA,Washington,Home,0,1,Yes,1,Agency,First-Time Buyer
+C0173,Individual,0,Amber,Wilson,20-07-1976,49,F,USA,Arizona,Home,0,5,Yes,1,Agency,Other
+C0174,Individual,0,Rachel,Harris,06-07-1982,43,F,USA,California,Investment,1,3,No,0,Client,Other
+C0175,Individual,0,Brandon,Alexander,05-04-1962,64,M,USA,Washington,Home,0,5,No,0,Agency,Other
+C0176,Individual,0,Hannah,Williams,27-06-1993,32,F,USA,California,Home,0,2,No,0,Website,Other
+C0177,Individual,0,Sarah,Hansen,05-03-1951,75,F,UK,England,Home,0,5,Yes,1,Website,Other
+C0178,Individual,0,Laura,Chavez,23-12-1952,73,F,USA,Virginia,Home,0,4,No,0,Agency,Other
+C0179,Individual,0,Ashley,Turner,11-02-1986,40,F,USA,Oregon,Investment,1,2,No,0,Website,Other
+C0180,Individual,0,Jacob,Wilson,28-01-1943,83,M,USA,California,Home,0,2,Yes,1,Agency,Other
+C0181,Individual,0,Lawrence,Peterson,26-04-1970,55,M,USA,Texas,Home,0,2,Yes,1,Website,Other
+C0182,Individual,0,Virginia,Bennett,02-12-1971,54,F,Germany,North Rhine-Westphalia,Investment,1,1,Yes,1,Website,Global Investor
+C0183,Individual,0,Nicholas,Green,15-09-1988,37,M,USA,Nevada,Home,0,3,No,0,Website,Other
+C0184,Individual,0,Peter,Pierce,21-01-1994,32,M,USA,Florida,Home,0,1,No,0,Website,Other
+C0185,Individual,0,Andrea,Nelson,02-07-1945,80,F,USA,Nevada,Home,0,4,Yes,1,Agency,Other
+C0186,Individual,0,Carol,Green,02-04-1982,44,F,USA,Virginia,Home,0,1,No,0,Website,Other
+C0187,Individual,0,Cheryl,Kim,17-01-1990,36,F,USA,Florida,Home,0,1,No,0,Website,Other
+C0188,Individual,0,Jose,Martin,08-10-1940,85,M,USA,Oregon,Home,0,5,Yes,1,Website,Other
+C0189,Individual,0,Anna,Adams,11-12-1958,67,F,USA,California,Home,0,2,No,0,Agency,Other
+C0190,Individual,0,Karen,Johnson,19-10-1971,54,F,USA,California,Home,0,2,No,0,Website,Other
+C0191,Individual,0,Sarah,Turner,06-05-1977,48,F,USA,Florida,Home,0,3,No,0,Agency,Other
+C0192,Individual,0,Margaret,Moore,04-02-1984,42,F,Belgium,Brussels,Investment,1,2,Yes,1,Website,Global Investor
+C0193,Individual,0,Sharon,Campbell,09-08-1968,57,F,USA,California,Investment,1,4,Yes,1,Website,Other
+C0194,Individual,0,Jonathan,Hall,18-08-1953,72,M,France,Ile-de-France,Home,0,5,Yes,1,Website,Other
+C0195,Individual,0,Sean,Jones,19-06-1947,78,M,USA,California,Home,0,2,Yes,1,Website,Other
+C0196,Individual,0,Alexander,Adams,22-04-1957,68,M,USA,Nevada,Investment,1,5,No,0,Agency,Luxury Investor
+C0197,Individual,0,Kevin,Wright,01-07-1944,81,M,USA,Virginia,Home,0,4,No,0,Client,Other
+C0198,Individual,0,Michelle,White,28-01-1976,50,F,USA,California,Home,0,4,No,0,Website,Other
+C0199,Individual,0,Ryan,Brown,13-04-1958,68,M,USA,California,Home,0,3,No,0,Agency,Other
+C0200,Individual,0,Linda,Harris,06-05-1944,81,F,USA,California,Home,0,1,No,0,Agency,Other
+C0201,Individual,0,Lauren,Weaver,13-02-1968,58,F,USA,California,Home,0,1,No,0,Agency,Other
+C0202,Individual,0,Jack,Reyes,11-11-1996,29,M,Canada,British Columbia,Home,0,1,No,0,Website,Other
+C0203,Individual,0,Christine,Brooks,18-05-1956,69,F,USA,California,Home,0,4,No,0,Client,Other
+C0204,Individual,0,Joyce,Pierce,10-01-1947,79,F,USA,California,Home,0,5,No,0,Agency,Other
+C0205,Individual,0,Kelly,Nelson,26-08-1968,57,F,Mexico,Puebla,Home,0,1,Yes,1,Agency,Other
+C0206,Individual,0,Nancy,Roberts,08-05-1957,68,F,USA,California,Home,0,1,Yes,1,Agency,Other
+C0207,Individual,0,Kyle,Gray,19-11-1944,81,M,USA,Virginia,Investment,1,4,No,0,Website,Other
+C0208,Individual,0,Mark,James,26-03-1986,40,M,France,Provence,Home,0,4,Yes,1,Agency,Other
+C0209,Individual,0,Kyle,Moore,22-08-1949,76,M,USA,Arizona,Investment,1,3,No,0,Agency,Other
+C0210,Individual,0,Janice,Price,24-03-1943,83,F,USA,Colorado,Home,0,2,No,0,Website,Other
+C0211,Individual,0,Amy,Evans,23-02-1972,54,F,USA,California,Home,0,3,No,0,Agency,Other
+C0212,Individual,0,Jacob,Wood,23-03-1956,70,M,USA,California,Home,0,4,No,0,Agency,Other
+C0213,Individual,0,Jason,Gray,23-10-1976,49,M,USA,Florida,Investment,1,5,No,0,Agency,Luxury Investor
+C0214,Individual,0,Helen,Wood,18-07-1946,79,F,Belgium,Brussels,Investment,1,5,No,0,Website,Luxury Investor
+C0215,Individual,0,Lauren,Foster,11-07-1999,26,F,Germany,Hamburg,Investment,1,4,No,0,Website,Global Investor
+C0216,Individual,0,Albert,Hansen,19-07-1999,26,M,USA,Utah,Home,0,1,No,0,Website,Other
+C0217,Individual,0,Deborah,Miller,11-07-1984,41,F,USA,Colorado,Home,0,3,No,0,Website,Other
+C0218,Individual,0,Shirley,Anderson,24-01-1970,56,F,USA,California,Home,0,2,No,0,Website,Other
+C0219,Individual,0,William,Turner,20-01-1988,38,M,USA,California,Home,0,4,No,0,Website,Other
+C0220,Individual,0,Walter,Phillips,06-06-1951,74,M,Canada,Ontario,Investment,1,1,No,0,Website,Global Investor
+C0221,Company,0,Atlas,Co,14-05-1987,38,F,USA,California,Home,0,5,No,0,Website,Corporate Buyer
+C0222,Individual,0,Christopher,Stone,08-11-1956,69,M,USA,Utah,Investment,1,3,No,0,Agency,Other
+C0223,Individual,0,Patrick,Hansen,12-11-1973,52,M,USA,Colorado,Investment,1,3,Yes,1,Website,Other
+C0224,Individual,0,Nathan,Richardson,23-08-1960,65,M,USA,Colorado,Home,0,5,No,0,Website,Other
+C0225,Individual,0,Evelyn,Reyes,19-12-1948,77,F,USA,California,Home,0,1,Yes,1,Agency,Other
+C0226,Individual,0,Julia,Jordan,11-07-1958,67,F,USA,Colorado,Home,0,2,No,0,Website,Other
+C0227,Individual,0,Rachel,Evans,23-10-1944,81,F,USA,Arizona,Home,0,5,Yes,1,Website,Other
+C0228,Individual,0,Hannah,Owens,23-04-1952,73,F,USA,Oregon,Investment,1,4,No,0,Website,Other
+C0229,Individual,0,Jose,Turner,19-11-1981,44,M,USA,Colorado,Investment,1,5,No,0,Website,Luxury Investor
+C0230,Company,0,Forsyte,Co,22-07-1977,48,M,USA,Nevada,Investment,1,4,Yes,1,Website,Corporate Buyer
+C0231,Individual,0,Ronald,Rogers,18-12-1993,32,M,Denmark,Central Denmark,Investment,1,2,Yes,1,Website,Global Investor
+C0232,Individual,0,Megan,Kim,04-05-1962,63,F,USA,California,Home,0,3,Yes,1,Website,Other
+C0233,Individual,0,Larry,Garcia,10-09-1997,28,M,France,Provence,Home,0,4,Yes,1,Website,First-Time Buyer
+C0234,Individual,0,Andrea,Hughes,02-03-1979,47,F,USA,New York,Home,0,1,Yes,1,Website,Other
+C0235,Individual,0,Kenneth,Allen,10-10-1949,76,M,USA,California,Home,0,5,No,0,Website,Other
+C0236,Individual,0,Gerald,Howard,10-08-1972,53,M,Canada,Manitoba,Home,0,3,No,0,Agency,Other
+C0237,Individual,0,Jason,Nelson,03-11-1984,41,M,USA,California,Home,0,5,Yes,1,Website,Other
+C0238,Individual,0,Amber,Patterson,08-01-1982,44,F,USA,Virginia,Home,0,4,Yes,1,Agency,Other
+C0239,Individual,0,Megan,Baker,18-02-1973,53,F,USA,Oregon,Home,0,3,Yes,1,Website,Other
+C0240,Individual,0,Amber,Morales,15-05-1942,83,F,USA,Colorado,Investment,1,3,No,0,Website,Other
+C0241,Individual,0,Kelly,Anderson,14-01-1962,64,F,Mexico,Nuevo Leon,Home,0,5,Yes,1,Website,Other
+C0242,Individual,0,Stephen,Peterson,16-03-1998,28,M,USA,Utah,Home,0,3,Yes,1,Agency,First-Time Buyer
+C0243,Individual,0,Nancy,Patterson,11-07-1978,47,F,USA,Utah,Home,0,2,No,0,Website,Other
+C0244,Individual,0,Joyce,Pierce,03-08-1998,27,F,USA,California,Home,0,1,No,0,Website,Other
+C0245,Individual,0,Sean,Long,07-01-1974,52,M,USA,Nevada,Investment,1,4,No,0,Agency,Other
+C0246,Individual,0,Stephen,Pierce,15-05-1992,33,M,France,Normandy,Home,0,1,Yes,1,Agency,First-Time Buyer
+C0247,Individual,0,Kevin,Morris,18-01-1965,61,M,USA,California,Home,0,1,No,0,Website,Other
+C0248,Individual,0,Carl,Collins,09-12-1968,57,M,USA,Florida,Home,0,4,Yes,1,Agency,Other
+C0249,Individual,0,Stephanie,Montgomery,05-12-1968,57,F,USA,California,Investment,1,4,No,0,Agency,Other
+C0250,Individual,0,Justin,Stewart,19-10-1947,78,M,UK,England,Home,0,2,No,0,Agency,Other
+C0251,Individual,0,Janice,Chavez,11-08-1976,49,F,USA,Utah,Home,0,5,No,0,Website,Other
+C0252,Individual,0,Elizabeth,Rogers,23-08-1953,72,F,USA,Nevada,Investment,1,2,No,0,Website,Other
+C0253,Individual,0,Betty,Hughes,15-09-1994,31,F,USA,Virginia,Home,0,4,No,0,Website,Other
+C0254,Individual,0,Rachel,Freeman,21-07-1956,69,F,USA,Florida,Home,0,5,No,0,Website,Other
+C0255,Individual,0,Sara,Jones,08-02-1961,65,F,UK,England,Investment,1,3,Yes,1,Client,Global Investor
+C0256,Individual,0,Anthony,Hughes,10-12-1990,35,M,USA,California,Home,0,1,Yes,1,Website,First-Time Buyer
+C0257,Individual,0,Nicholas,Kim,22-10-1974,51,M,USA,California,Home,0,1,No,0,Website,Other
+C0258,Individual,0,Carl,Murray,15-04-1991,35,M,UK,Northern Ireland,Home,0,4,Yes,1,Agency,First-Time Buyer
+C0259,Individual,0,Emma,Chavez,15-02-1990,36,F,USA,Oregon,Home,0,4,No,0,Website,Other
+C0260,Individual,0,Rebecca,Wood,04-08-1946,79,F,USA,Nevada,Investment,1,3,No,0,Website,Other
+C0261,Company,0,Celera,Co,13-05-1985,40,F,USA,Florida,Investment,1,4,Yes,1,Website,Corporate Buyer
+C0262,Individual,0,Billy,Bryant,25-05-1947,78,M,USA,Oregon,Home,0,2,No,0,Website,Other
+C0263,Individual,0,Anthony,Garcia,02-08-1981,44,M,USA,Nevada,Investment,1,2,Yes,1,Website,Other
+C0264,Individual,0,Melissa,Baker,12-09-1992,33,F,USA,Colorado,Home,0,2,Yes,1,Agency,First-Time Buyer
+C0265,Company,0,Celera,Co,13-04-1967,59,M,Belgium,Flanders,Home,0,1,No,0,Website,Corporate Buyer
+C0266,Individual,0,Aaron,Owens,26-02-1977,49,M,USA,California,Home,0,5,Yes,1,Agency,Other
+C0267,Individual,0,Judy,Howard,12-11-1948,77,F,USA,Utah,Home,0,4,Yes,1,Agency,Other
+C0268,Individual,0,Danielle,Carter,21-02-1959,67,F,USA,Georgia,Investment,1,3,No,0,Website,Other
+C0269,Individual,0,David,Stewart,04-02-1969,57,M,USA,New York,Home,0,2,No,0,Agency,Other
+C0270,Individual,0,Megan,Allen,21-07-1944,81,F,USA,Florida,Home,0,5,No,0,Website,Other
+C0271,Individual,0,Laura,Hughes,28-04-1972,53,F,USA,California,Investment,1,3,No,0,Agency,Other
+C0272,Individual,0,Pamela,Green,03-08-1993,32,F,UK,Scotland,Home,0,5,Yes,1,Website,First-Time Buyer
+C0273,Individual,0,Paul,Morales,27-02-1987,39,M,Denmark,Zealand,Investment,1,2,No,0,Website,Global Investor
+C0274,Individual,0,Raymond,Young,01-10-1950,75,M,USA,Florida,Home,0,2,No,0,Website,Other
+C0275,Individual,0,William,Thompson,26-06-2000,25,M,USA,Oregon,Home,0,1,Yes,1,Website,First-Time Buyer
+C0276,Individual,0,Gloria,Harris,16-02-1953,73,F,USA,Washington,Home,0,5,No,0,Website,Other
+C0277,Individual,0,Jordan,Garcia,17-11-1954,71,M,USA,Colorado,Investment,1,1,Yes,1,Agency,Other
+C0278,Individual,0,Margaret,Foster,03-08-1955,70,F,USA,California,Investment,1,2,Yes,1,Website,Other
+C0279,Individual,0,Heather,Montgomery,15-05-1967,58,F,USA,Oregon,Home,0,1,No,0,Website,Other
+C0280,Individual,0,Nathan,Price,14-04-1944,82,M,USA,Florida,Home,0,4,No,0,Client,Other
+C0281,Individual,0,Katherine,Phillips,22-03-1977,49,F,USA,California,Home,0,1,Yes,1,Agency,Other
+C0282,Individual,0,Emily,Owens,18-10-1997,28,F,USA,California,Investment,1,1,No,0,Website,Other
+C0283,Individual,0,Susan,Edwards,12-05-1962,63,F,USA,Arizona,Home,0,2,Yes,1,Agency,Other
+C0284,Individual,0,Patrick,Owens,25-02-1977,49,M,USA,Arizona,Home,0,4,No,0,Client,Other
+C0285,Individual,0,Billy,Parker,09-03-1999,27,M,France,Ile-de-France,Investment,1,3,No,0,Website,Global Investor
+C0286,Individual,0,Noah,Brooks,24-03-1996,30,M,UK,Scotland,Home,0,1,No,0,Agency,Other
+C0287,Individual,0,Joan,Bell,10-06-1990,35,F,Australia,New South Wales,Home,0,5,No,0,Website,Other
+C0288,Individual,0,Kevin,Freeman,03-11-1997,28,M,USA,Colorado,Investment,1,4,No,0,Agency,Other
+C0289,Individual,0,Laura,Hayes,14-06-1993,32,F,USA,California,Investment,1,5,No,0,Agency,Luxury Investor
+C0290,Individual,0,Ryan,Watson,01-01-1962,64,M,USA,California,Home,0,2,No,0,Website,Other
+C0291,Individual,0,James,Bryant,06-07-1953,72,M,USA,Nevada,Home,0,2,No,0,Agency,Other
+C0292,Individual,0,Karen,Watson,02-12-1945,80,F,USA,California,Home,0,1,No,0,Agency,Other
+C0293,Individual,0,Ruth,Collins,01-07-1993,32,F,USA,California,Investment,1,4,No,0,Website,Other
+C0294,Individual,0,Nicholas,Reyes,17-07-1963,62,M,USA,Nevada,Home,0,3,Yes,1,Website,Other
+C0295,Individual,0,Roger,Harris,07-09-1967,58,M,Russia,Tatarstan,Home,0,3,No,0,Agency,Other
+C0296,Individual,0,Mark,Young,06-04-1984,42,M,Canada,Manitoba,Home,0,1,Yes,1,Client,Other
+C0297,Individual,0,Julia,Murray,19-11-1972,53,F,UK,Wales,Investment,1,5,No,0,Agency,Luxury Investor
+C0298,Individual,0,Sarah,Patterson,10-11-1972,53,F,USA,Oregon,Home,0,3,No,0,Website,Other
+C0299,Individual,0,Barbara,Davis,03-05-1977,48,F,UK,Wales,Home,0,5,No,0,Agency,Other
+C0300,Individual,0,Zachary,Peterson,11-04-1959,67,M,Canada,Alberta,Home,0,5,Yes,1,Website,Other
+C0301,Individual,0,Lisa,Alexander,02-03-1959,67,F,USA,Virginia,Home,0,4,No,0,Agency,Other
+C0302,Individual,0,Maria,Edwards,25-07-1976,49,F,USA,Utah,Investment,1,1,No,0,Agency,Other
+C0303,Individual,0,Betty,Owens,10-07-1957,68,F,USA,Virginia,Investment,1,5,Yes,1,Website,Other
+C0304,Individual,0,Patrick,Morris,22-12-1959,66,M,USA,California,Investment,1,1,No,0,Agency,Other
+C0305,Individual,0,Emily,Kim,22-11-1995,30,F,USA,Arizona,Home,0,1,No,0,Website,Other
+C0306,Individual,0,Samuel,Foster,05-04-1988,38,M,USA,California,Home,0,1,No,0,Client,Other
+C0307,Individual,0,Samuel,Freeman,13-10-1992,33,M,USA,California,Home,0,5,Yes,1,Client,First-Time Buyer
+C0308,Individual,0,Catherine,Roberts,10-10-1972,53,F,Belgium,Flanders,Investment,1,4,Yes,1,Agency,Global Investor
+C0309,Individual,0,Stephanie,Cox,15-10-1957,68,F,USA,Washington,Home,0,4,No,0,Agency,Other
+C0310,Individual,0,Edward,Weaver,02-05-1992,33,M,UK,Northern Ireland,Home,0,3,No,0,Website,Other
+C0311,Individual,0,Justin,Anderson,09-03-1952,74,M,USA,Georgia,Home,0,2,No,0,Website,Other
+C0312,Individual,0,Zachary,Cooper,14-01-1941,85,M,USA,Nevada,Home,0,3,Yes,1,Website,Other
+C0313,Company,0,Stratos,Co,12-04-1974,52,M,USA,California,Home,0,1,No,0,Agency,Corporate Buyer
+C0314,Individual,0,Andrew,Jones,23-08-1982,43,M,USA,Washington,Investment,1,4,No,0,Agency,Other
+C0315,Individual,0,Michael,Phillips,18-03-1987,39,M,Mexico,Baja California,Investment,1,5,No,0,Website,Luxury Investor
+C0316,Individual,0,Brandon,Martin,14-04-1997,29,M,UK,Scotland,Investment,1,4,Yes,1,Website,Global Investor
+C0317,Individual,0,Amber,Hansen,17-11-1999,26,F,USA,California,Investment,1,2,Yes,1,Website,Other
+C0318,Individual,0,Amy,Peterson,22-03-1974,52,F,Germany,Berlin,Home,0,5,No,0,Website,Other
+C0319,Company,0,Zynex,Co,12-11-1995,30,F,USA,Texas,Home,0,5,Yes,1,Website,Corporate Buyer
+C0320,Individual,0,Tyler,Cox,01-12-1984,41,M,USA,Texas,Home,0,3,Yes,1,Client,Other
+C0321,Individual,0,Jesse,Cook,12-01-1992,34,M,USA,California,Investment,1,2,No,0,Agency,Other
+C0322,Individual,0,Deborah,Moore,25-12-1996,29,F,USA,California,Home,0,2,Yes,1,Website,First-Time Buyer
+C0323,Individual,0,Samantha,Hayes,16-09-1975,50,F,USA,California,Investment,1,2,Yes,1,Website,Other
+C0324,Individual,0,Raymond,Parker,14-06-1993,32,M,USA,Washington,Home,0,4,No,0,Website,Other
+C0325,Individual,0,Maria,Flores,24-02-1983,43,F,USA,California,Home,0,5,Yes,1,Agency,Other
+C0326,Individual,0,Daniel,Reed,10-05-1958,67,M,USA,Oregon,Investment,1,4,Yes,1,Agency,Other
+C0327,Individual,0,Elizabeth,Ward,09-07-1961,64,F,UK,Scotland,Home,0,1,No,0,Agency,Other
+C0328,Individual,0,William,Young,22-10-1946,79,M,USA,California,Home,0,1,Yes,1,Client,Other
+C0329,Individual,0,Diane,Morales,05-10-1998,27,F,Germany,Hesse,Home,0,3,No,0,Agency,Other
+C0330,Individual,0,Christian,Richardson,21-06-1975,50,M,USA,California,Home,0,1,No,0,Website,Other
+C0331,Individual,0,Ann,Martin,23-05-1984,41,F,USA,California,Investment,1,3,No,0,Agency,Other
+C0332,Individual,0,Christopher,Price,15-12-1989,36,M,USA,Texas,Investment,1,3,No,0,Website,Other
+C0333,Individual,0,Helen,Hall,23-12-1955,70,F,UK,Wales,Home,0,3,No,0,Website,Other
+C0334,Individual,0,Andrew,Roberts,01-08-1950,75,M,USA,Arizona,Investment,1,3,No,0,Agency,Other
+C0335,Individual,0,Charles,Morris,24-12-1975,50,M,USA,Arizona,Home,0,4,No,0,Website,Other
+C0336,Individual,0,Karen,Price,17-11-1971,54,F,USA,California,Investment,1,5,No,0,Agency,Luxury Investor
+C0337,Individual,0,Nathan,Alexander,27-01-1942,84,M,USA,Arizona,Home,0,3,Yes,1,Website,Other
+C0338,Individual,0,Patrick,Flores,28-05-1943,82,M,USA,California,Home,0,5,Yes,1,Website,Other
+C0339,Individual,0,Keith,King,05-10-1963,62,M,USA,Utah,Investment,1,5,No,0,Agency,Luxury Investor
+C0340,Individual,0,Daniel,Garcia,25-11-1940,85,M,USA,California,Investment,1,2,No,0,Agency,Other
+C0341,Individual,0,Carl,Chavez,10-11-1982,43,M,USA,California,Investment,1,4,No,0,Agency,Other
+C0342,Individual,0,Kevin,Hughes,15-08-1974,51,M,USA,California,Investment,1,2,No,0,Client,Other
+C0343,Individual,0,Joyce,Thompson,17-06-1952,73,F,USA,California,Home,0,2,No,0,Website,Other
+C0344,Individual,0,Joshua,Jackson,13-05-1997,28,M,Canada,British Columbia,Home,0,2,Yes,1,Website,First-Time Buyer
+C0345,Individual,0,Stephanie,Hall,15-09-1969,56,F,USA,New York,Home,0,4,Yes,1,Website,Other
+C0346,Individual,0,Amy,Nelson,02-06-1963,62,F,USA,California,Home,0,5,No,0,Agency,Other
+C0347,Individual,0,Mark,Reyes,24-05-1992,33,M,USA,Washington,Home,0,3,Yes,1,Website,First-Time Buyer
+C0348,Individual,0,Jack,Pierce,13-02-1982,44,M,USA,Colorado,Investment,1,5,Yes,1,Agency,Other
+C0349,Individual,0,Paul,Jackson,26-06-1975,50,M,USA,Arizona,Home,0,2,Yes,1,Agency,Other
+C0350,Individual,0,Richard,Jones,11-12-1992,33,M,USA,Arizona,Home,0,2,No,0,Agency,Other
+C0351,Individual,0,Michelle,Watson,27-12-1961,64,F,USA,Oregon,Home,0,5,No,0,Agency,Other
+C0352,Individual,0,Judith,Williams,22-06-1977,48,F,USA,Nevada,Investment,1,3,No,0,Agency,Other
+C0353,Individual,0,Anna,Murray,24-04-1964,61,F,USA,Arizona,Home,0,2,No,0,Agency,Other
+C0354,Individual,0,Kimberly,Turner,23-10-1998,27,F,USA,California,Home,0,4,No,0,Website,Other
+C0355,Individual,0,Henry,Alexander,16-10-1951,74,M,Mexico,Baja California,Investment,1,1,No,0,Website,Global Investor
+C0356,Individual,0,Andrea,Kim,06-06-1976,49,F,USA,Georgia,Home,0,3,No,0,Website,Other
+C0357,Individual,0,Danielle,Griffin,09-04-1988,38,F,USA,California,Home,0,3,No,0,Website,Other
+C0358,Individual,0,Katherine,Griffin,26-09-1978,47,F,Australia,New South Wales,Home,0,3,Yes,1,Agency,Other
+C0359,Individual,0,Julie,Cooper,10-03-1951,75,F,USA,California,Investment,1,1,No,0,Agency,Other
+C0360,Individual,0,Laura,Baker,09-09-1948,77,F,USA,Utah,Home,0,2,Yes,1,Agency,Other
+C0361,Individual,0,Nicholas,Miller,08-09-1958,67,M,UK,England,Home,0,1,Yes,1,Website,Other
+C0362,Individual,0,Betty,Moore,06-09-2000,25,F,USA,Utah,Home,0,4,No,0,Website,Other
+C0363,Individual,0,Christine,Edwards,25-01-1959,67,F,USA,Utah,Investment,1,2,No,0,Client,Other
+C0364,Individual,0,George,Gray,02-03-1944,82,M,USA,Texas,Home,0,2,No,0,Website,Other
+C0365,Individual,0,Brandon,Morales,11-02-1962,64,M,USA,Colorado,Investment,1,5,No,0,Agency,Luxury Investor
+C0366,Individual,0,Keith,Long,26-04-1983,42,M,USA,California,Home,0,4,No,0,Website,Other
+C0367,Individual,0,Samuel,Collins,25-11-1964,61,M,USA,California,Investment,1,4,No,0,Agency,Other
+C0368,Individual,0,Betty,Scott,11-08-1992,33,F,USA,California,Home,0,4,Yes,1,Agency,First-Time Buyer
+C0369,Individual,0,Helen,Murray,01-10-1954,71,F,USA,Utah,Home,0,2,Yes,1,Agency,Other
+C0370,Individual,0,Michelle,Brooks,23-09-1957,68,F,Russia,Krasnodar Krai,Home,0,1,No,0,Website,Other
+C0371,Individual,0,Ryan,Moore,15-03-1970,56,M,Belgium,Wallonia,Investment,1,3,No,0,Agency,Global Investor
+C0372,Individual,0,Teresa,Nelson,22-04-1952,73,F,Belgium,Flanders,Investment,1,1,No,0,Agency,Global Investor
+C0373,Individual,0,Karen,Morales,27-01-1993,33,F,USA,Georgia,Home,0,2,No,0,Agency,Other
+C0374,Individual,0,Madison,Hughes,07-11-1993,32,F,Australia,New South Wales,Investment,1,4,Yes,1,Agency,Global Investor
+C0375,Individual,0,Kyle,Thompson,15-07-1968,57,M,USA,California,Investment,1,4,No,0,Website,Other
+C0376,Individual,0,Shirley,Smith,19-04-1953,73,F,USA,California,Home,0,3,No,0,Website,Other
+C0377,Individual,0,Charles,Patterson,14-05-1998,27,M,USA,Washington,Home,0,4,No,0,Website,Other
+C0378,Individual,0,Heather,Anderson,28-11-1957,68,F,USA,California,Investment,1,3,Yes,1,Website,Other
+C0379,Company,0,Optima,Co,22-04-1977,48,M,USA,California,Investment,1,2,Yes,1,Client,Corporate Buyer
+C0380,Individual,0,Evelyn,Chavez,13-09-1973,52,F,USA,California,Home,0,3,Yes,1,Website,Other
+C0381,Individual,0,David,Gray,08-01-1961,65,M,USA,California,Home,0,5,Yes,1,Agency,Other
+C0382,Individual,0,Nicholas,Garcia,08-08-1975,50,M,USA,California,Investment,1,1,Yes,1,Agency,Other
+C0383,Company,0,Novex,Co,09-11-1985,40,F,Mexico,Mexico City,Investment,1,3,No,0,Agency,Corporate Buyer
+C0384,Individual,0,Amy,Stewart,22-03-1944,82,F,USA,California,Home,0,3,Yes,1,Website,Other
+C0385,Individual,0,Douglas,Owens,12-01-1969,57,M,UK,Northern Ireland,Investment,1,4,No,0,Website,Global Investor
+C0386,Individual,0,Carol,Stewart,25-03-1976,50,F,USA,Colorado,Home,0,2,No,0,Client,Other
+C0387,Individual,0,Jessica,Owens,18-07-1974,51,F,USA,California,Home,0,2,Yes,1,Website,Other
+C0388,Individual,0,Zachary,Cox,24-09-1995,30,M,USA,California,Home,0,4,No,0,Agency,Other
+C0389,Individual,0,Ronald,Stone,18-11-1954,71,M,USA,Colorado,Home,0,3,No,0,Website,Other
+C0390,Individual,0,Steven,Griffin,23-04-1942,83,M,Canada,Quebec,Investment,1,2,No,0,Website,Global Investor
+C0391,Individual,0,Heather,Long,12-11-1966,59,F,USA,California,Home,0,5,No,0,Agency,Other
+C0392,Individual,0,Katherine,Adams,14-06-1977,48,F,USA,Arizona,Home,0,2,Yes,1,Website,Other
+C0393,Individual,0,Nicole,Allen,08-06-1988,37,F,USA,Arizona,Home,0,4,No,0,Agency,Other
+C0394,Individual,0,Shirley,Foster,24-11-1954,71,F,USA,Colorado,Home,0,3,Yes,1,Website,Other
+C0395,Individual,0,Deborah,Chavez,17-01-1959,67,F,USA,Florida,Home,0,1,No,0,Website,Other
+C0396,Individual,0,Charles,Allen,17-04-2000,26,M,USA,Nevada,Home,0,5,No,0,Agency,Other
+C0397,Individual,0,Hannah,Williams,18-09-2000,25,F,USA,California,Home,0,5,No,0,Website,Other
+C0398,Individual,0,Jennifer,Alexander,22-12-1948,77,F,USA,Texas,Home,0,1,Yes,1,Agency,Other
+C0399,Individual,0,Albert,Kim,09-06-1984,41,M,USA,California,Home,0,4,No,0,Agency,Other
+C0400,Individual,0,Brandon,Anderson,25-11-1959,66,M,USA,California,Home,0,4,No,0,Agency,Other
+C0401,Individual,0,Brian,Anderson,21-07-1969,56,M,USA,Arizona,Home,0,5,Yes,1,Website,Other
+C0402,Individual,0,Brenda,Garcia,22-02-1941,85,F,USA,Georgia,Home,0,5,No,0,Website,Other
+C0403,Individual,0,Jennifer,Adams,25-03-1963,63,F,Australia,New South Wales,Home,0,1,No,0,Website,Other
+C0404,Individual,0,Sara,Cook,05-12-1976,49,F,France,Normandy,Investment,1,1,No,0,Client,Global Investor
+C0405,Company,0,Horizon,Co,25-12-1969,56,M,USA,Colorado,Home,0,1,No,0,Agency,Corporate Buyer
+C0406,Individual,0,Christine,Brown,26-05-1960,65,F,USA,Colorado,Home,0,3,No,0,Website,Other
+C0407,Individual,0,Lisa,Freeman,23-04-1982,43,F,USA,California,Home,0,2,No,0,Client,Other
+C0408,Individual,0,Tyler,Rogers,03-02-1977,49,M,USA,California,Home,0,3,No,0,Website,Other
+C0409,Individual,0,Timothy,Reyes,18-09-1972,53,M,USA,Nevada,Home,0,1,Yes,1,Website,Other
+C0410,Individual,0,Diane,Johnson,13-07-1982,43,F,Russia,Saint Petersburg,Home,0,5,Yes,1,Agency,Other
+C0411,Individual,0,Amanda,Moore,09-05-1983,42,F,USA,California,Home,0,2,No,0,Website,Other
+C0412,Individual,0,Karen,Richardson,24-04-1984,41,F,UK,Scotland,Home,0,5,No,0,Website,Other
+C0413,Individual,0,Brandon,Smith,11-07-1940,85,M,Canada,British Columbia,Home,0,3,No,0,Website,Other
+C0414,Individual,0,Brandon,Reed,07-12-1962,63,M,USA,California,Home,0,4,No,0,Website,Other
+C0415,Individual,0,Grace,Turner,09-07-1980,45,F,USA,Nevada,Home,0,5,Yes,1,Agency,Other
+C0416,Company,0,Bravada,Co,28-07-1981,44,M,Germany,North Rhine-Westphalia,Investment,1,5,Yes,1,Client,Corporate Buyer
+C0417,Individual,0,Peter,Collins,03-12-1947,78,M,USA,Utah,Home,0,2,No,0,Website,Other
+C0418,Individual,0,Douglas,Howard,20-08-1996,29,M,USA,Arizona,Home,0,5,No,0,Agency,Other
+C0419,Individual,0,Jack,Hansen,03-11-1962,63,M,USA,Washington,Home,0,3,Yes,1,Agency,Other
+C0420,Individual,0,Debra,Reyes,04-01-1994,32,F,USA,California,Home,0,5,No,0,Agency,Other
+C0421,Individual,0,Zachary,Cox,25-08-1975,50,M,Germany,Hesse,Investment,1,5,Yes,1,Website,Global Investor
+C0422,Company,0,Telnox,Co,13-11-1973,52,F,USA,California,Home,0,1,Yes,1,Client,Corporate Buyer
+C0423,Individual,0,Rachel,Sanders,17-04-1950,76,F,USA,California,Home,0,1,No,0,Client,Other
+C0424,Individual,0,Sarah,Stewart,04-12-1998,27,F,USA,Florida,Home,0,1,No,0,Website,Other
+C0425,Individual,0,Gerald,Wright,11-03-1965,61,M,USA,Nevada,Home,0,2,No,0,Agency,Other
+C0426,Individual,0,Julie,Brown,07-10-1953,72,F,USA,Oregon,Home,0,4,Yes,1,Client,Other
+C0427,Individual,0,Sarah,Peterson,06-09-1994,31,F,USA,California,Home,0,4,Yes,1,Website,First-Time Buyer
+C0428,Individual,0,Gloria,Rogers,20-07-1962,63,F,USA,Oregon,Home,0,3,No,0,Agency,Other
+C0429,Individual,0,Danielle,Stone,05-11-1995,30,F,USA,California,Home,0,3,Yes,1,Website,First-Time Buyer
+C0430,Individual,0,Roger,Wood,05-10-1974,51,M,USA,Nevada,Home,0,2,No,0,Agency,Other
+C0431,Individual,0,Austin,King,05-05-1969,56,M,USA,California,Home,0,5,Yes,1,Website,Other
+C0432,Company,0,Grandis,Co,17-02-1995,31,M,USA,California,Home,0,5,No,0,Agency,Corporate Buyer
+C0433,Individual,0,Ruth,Hughes,03-03-1969,57,F,USA,California,Investment,1,2,Yes,1,Website,Other
+C0434,Individual,0,Amanda,Sanders,25-12-1964,61,F,Russia,Tatarstan,Home,0,5,No,0,Website,Other
+C0435,Individual,0,Sara,Richardson,25-01-1966,60,F,Australia,New South Wales,Home,0,5,Yes,1,Website,Other
+C0436,Individual,0,Brandon,Jones,12-05-1972,53,M,USA,Colorado,Home,0,2,Yes,1,Client,Other
+C0437,Individual,0,Danielle,James,05-10-1990,35,F,USA,Texas,Home,0,1,No,0,Website,Other
+C0438,Individual,0,Gregory,Collins,09-10-1982,43,M,USA,Georgia,Investment,1,1,Yes,1,Client,Other
+C0439,Individual,0,Larry,Thompson,08-03-1956,70,M,USA,Virginia,Home,0,2,No,0,Agency,Other
+C0440,Individual,0,Lawrence,Parker,13-07-1960,65,M,USA,California,Investment,1,1,No,0,Agency,Other
+C0441,Individual,0,Joan,Foster,01-10-1980,45,F,Russia,Krasnodar Krai,Investment,1,1,No,0,Agency,Global Investor
+C0442,Individual,0,Sarah,Hansen,14-04-1975,51,F,USA,Colorado,Home,0,3,Yes,1,Website,Other
+C0443,Individual,0,Noah,Foster,22-06-1950,75,M,Denmark,Capital Region,Home,0,1,Yes,1,Agency,Other
+C0444,Individual,0,Jennifer,Martin,15-03-1941,85,F,USA,California,Home,0,2,No,0,Website,Other
+C0445,Individual,0,Michelle,Evans,12-11-1995,30,F,USA,California,Home,0,2,Yes,1,Website,First-Time Buyer
+C0446,Individual,0,Douglas,Thomas,01-02-1955,71,M,USA,Colorado,Home,0,2,No,0,Website,Other
+C0447,Individual,0,Patricia,Johnson,27-06-1956,69,F,USA,New York,Home,0,2,No,0,Website,Other
+C0448,Individual,0,Mark,White,10-06-1980,45,M,USA,Nevada,Investment,1,2,No,0,Agency,Other
+C0449,Individual,0,Jordan,King,24-06-1972,53,M,USA,Oregon,Investment,1,2,No,0,Agency,Other
+C0450,Individual,0,Matthew,Jackson,19-02-1992,34,M,Mexico,Nuevo Leon,Home,0,3,No,0,Website,Other
+C0451,Individual,0,Larry,Anderson,20-09-1985,40,M,Canada,Alberta,Investment,1,5,Yes,1,Client,Global Investor
+C0452,Individual,0,Brandon,Adams,17-10-1967,58,M,USA,Washington,Home,0,3,No,0,Website,Other
+C0453,Individual,0,Carl,Wood,16-04-1993,33,M,UK,Scotland,Investment,1,1,No,0,Website,Global Investor
+C0454,Company,0,Altira,Co,01-04-1961,65,F,USA,Nevada,Investment,1,4,No,0,Agency,Corporate Buyer
+C0455,Individual,0,Karen,Williams,01-02-1963,63,F,USA,California,Home,0,1,No,0,Agency,Other
+C0456,Individual,0,Virginia,Brooks,18-11-1995,30,F,USA,Oregon,Home,0,3,Yes,1,Website,First-Time Buyer
+C0457,Individual,0,Kenneth,Hansen,19-07-1980,45,M,UK,Wales,Investment,1,1,No,0,Agency,Global Investor
+C0458,Individual,0,Thomas,Turner,04-07-1995,30,M,USA,Oregon,Investment,1,1,No,0,Agency,Other
+C0459,Individual,0,Steven,Johnson,23-03-1955,71,M,USA,California,Home,0,3,No,0,Agency,Other
+C0460,Individual,0,Amanda,Cox,25-12-1992,33,F,USA,Virginia,Home,0,1,No,0,Website,Other
+C0461,Individual,0,Jonathan,Peterson,16-02-1960,66,M,USA,Arizona,Home,0,1,No,0,Agency,Other
+C0462,Individual,0,Eric,White,22-10-1943,82,M,Australia,Victoria,Home,0,2,No,0,Agency,Other
+C0463,Individual,0,Nicholas,Garcia,13-06-1970,55,M,USA,California,Home,0,5,No,0,Client,Other
+C0464,Individual,0,Gregory,Turner,11-12-1974,51,M,USA,Florida,Home,0,5,No,0,Website,Other
+C0465,Individual,0,George,Carter,02-09-1949,76,M,USA,California,Home,0,3,No,0,Website,Other
+C0466,Individual,0,Patricia,Cox,19-05-1988,37,F,USA,Virginia,Investment,1,2,No,0,Website,Other
+C0467,Individual,0,Rebecca,Chavez,05-04-1952,74,F,USA,Ohio,Home,0,1,Yes,1,Agency,Other
+C0468,Individual,0,Raymond,Smith,13-11-1952,73,M,Mexico,Jalisco,Investment,1,3,Yes,1,Website,Global Investor
+C0469,Individual,0,Adam,Foster,23-03-1997,29,M,USA,California,Home,0,2,No,0,Website,Other
+C0470,Individual,0,Joan,Anderson,17-02-1963,63,F,USA,Oregon,Home,0,1,No,0,Agency,Other
+C0471,Individual,0,Gary,Collins,26-06-1984,41,M,USA,Utah,Investment,1,3,No,0,Agency,Other
+C0472,Individual,0,Edward,Moore,04-10-1951,74,M,USA,California,Home,0,4,No,0,Website,Other
+C0473,Individual,0,Sharon,Price,09-08-1981,44,F,USA,California,Home,0,3,No,0,Agency,Other
+C0474,Individual,0,Gregory,Young,08-12-1995,30,M,USA,Nevada,Home,0,1,No,0,Website,Other
+C0475,Individual,0,William,Brooks,18-08-1946,79,M,Belgium,Wallonia,Investment,1,2,Yes,1,Agency,Global Investor
+C0476,Individual,0,Steven,Johnson,05-04-1997,29,M,USA,Florida,Home,0,3,No,0,Agency,Other
+C0477,Individual,0,Jesse,Stone,01-02-1984,42,M,USA,California,Investment,1,4,Yes,1,Website,Other
+C0478,Individual,0,Ashley,Garcia,02-08-1940,85,F,USA,Ohio,Investment,1,4,No,0,Website,Other
+C0479,Individual,0,Virginia,Wright,06-04-1978,48,F,USA,California,Home,0,2,Yes,1,Agency,Other
+C0480,Individual,0,Scott,Bryant,16-09-1974,51,M,USA,California,Home,0,4,Yes,1,Website,Other
+C0481,Individual,0,Sean,Williams,12-12-1976,49,M,USA,Arizona,Home,0,3,No,0,Agency,Other
+C0482,Individual,0,Deborah,Brown,08-10-1980,45,F,USA,New York,Investment,1,3,Yes,1,Agency,Other
+C0483,Individual,0,Kevin,Jackson,08-11-1985,40,M,USA,Arizona,Investment,1,1,No,0,Website,Other
+C0484,Individual,0,Janet,Wright,19-04-1989,37,F,USA,Texas,Investment,1,3,No,0,Website,Other
+C0485,Individual,0,Julia,Morales,07-10-1991,34,F,USA,Arizona,Home,0,2,No,0,Website,Other
+C0486,Individual,0,Billy,Carter,16-09-1999,26,M,USA,California,Investment,1,2,Yes,1,Website,Other
+C0487,Individual,0,Jessica,Williams,23-10-1991,34,F,USA,Washington,Home,0,5,No,0,Website,Other
+C0488,Individual,0,Megan,Jackson,11-05-1979,46,F,USA,California,Investment,1,4,No,0,Agency,Other
+C0489,Individual,0,Austin,Jordan,08-06-1950,75,M,Germany,Berlin,Investment,1,2,No,0,Website,Global Investor
+C0490,Individual,0,Emily,Wright,23-01-1954,72,F,USA,Nevada,Investment,1,5,Yes,1,Website,Other
+C0491,Individual,0,Noah,White,05-08-1941,84,M,USA,Washington,Home,0,2,No,0,Website,Other
+C0492,Individual,0,Raymond,Price,07-05-2000,25,M,USA,Utah,Home,0,3,Yes,1,Website,First-Time Buyer
+C0493,Individual,0,Tyler,Hughes,06-07-1954,71,M,USA,Colorado,Home,0,3,No,0,Website,Other
+C0494,Individual,0,Grace,Carter,03-08-1990,35,F,USA,California,Home,0,3,Yes,1,Website,First-Time Buyer
+C0495,Individual,0,Jerry,Hall,18-02-1954,72,M,USA,California,Investment,1,5,No,0,Client,Luxury Investor
+C0496,Individual,0,Billy,Reyes,04-01-1990,36,M,USA,California,Home,0,4,No,0,Agency,Other
+C0497,Individual,0,Emma,Stewart,02-02-1985,41,F,USA,Arizona,Investment,1,4,Yes,1,Website,Other
+C0498,Individual,0,Nancy,Collins,21-11-1948,77,F,Canada,Alberta,Home,0,2,Yes,1,Website,Other
+C0499,Individual,0,Lisa,Patterson,10-02-1946,80,F,USA,Colorado,Home,0,3,Yes,1,Agency,Other
+C0500,Individual,0,Dennis,Howard,15-03-1977,49,M,USA,California,Home,0,4,Yes,1,Website,Other
+C0501,Individual,0,Kenneth,Jackson,12-11-1995,30,M,USA,Nevada,Investment,1,5,Yes,1,Agency,Other
+C0502,Individual,0,Madison,Gray,28-11-1966,59,F,USA,Arizona,Home,0,4,No,0,Website,Other
+C0503,Individual,0,Keith,Peterson,26-09-1943,82,M,USA,Utah,Investment,1,2,Yes,1,Client,Other
+C0504,Individual,0,Jeffrey,Green,14-01-1992,34,M,USA,Utah,Home,0,2,No,0,Website,Other
+C0505,Individual,0,Katherine,Wilson,18-07-1995,30,F,USA,Arizona,Home,0,3,No,0,Agency,Other
+C0506,Individual,0,Albert,Stone,04-07-1967,58,M,USA,California,Home,0,5,No,0,Agency,Other
+C0507,Individual,0,Mark,Morales,26-02-1951,75,M,USA,New York,Home,0,3,No,0,Website,Other
+C0508,Individual,0,Grace,Weaver,06-01-1970,56,F,USA,Nevada,Home,0,5,No,0,Agency,Other
+C0509,Individual,0,Aaron,Cook,02-04-1956,70,M,Belgium,Wallonia,Home,0,3,No,0,Website,Other
+C0510,Individual,0,Samantha,Evans,28-08-1947,78,F,France,Brittany,Investment,1,1,Yes,1,Website,Global Investor
+C0511,Individual,0,Christine,Parker,20-07-1954,71,F,UK,England,Home,0,2,No,0,Website,Other
+C0512,Individual,0,Hannah,Flores,27-06-1945,80,F,USA,Arizona,Home,0,1,No,0,Client,Other
+C0513,Individual,0,Christian,Morales,07-03-1999,27,M,USA,Florida,Home,0,2,Yes,1,Agency,First-Time Buyer
+C0514,Individual,0,Rebecca,Evans,17-08-1977,48,F,USA,Oregon,Home,0,1,Yes,1,Website,Other
+C0515,Individual,0,Melissa,Patterson,12-09-1963,62,F,USA,California,Home,0,1,Yes,1,Website,Other
+C0516,Individual,0,Lawrence,Nelson,21-04-1946,79,M,USA,Utah,Home,0,3,No,0,Website,Other
+C0517,Individual,0,Harold,Thompson,20-03-1959,67,M,USA,California,Home,0,5,No,0,Client,Other
+C0518,Company,0,Lumina,Co,22-05-1962,63,F,USA,New York,Home,0,3,No,0,Website,Corporate Buyer
+C0519,Individual,0,Madison,Freeman,04-10-1975,50,F,USA,Arizona,Investment,1,3,No,0,Agency,Other
+C0520,Individual,0,Helen,White,11-02-1970,56,F,USA,Oregon,Home,0,3,Yes,1,Agency,Other
+C0521,Individual,0,Stephanie,Allen,02-04-1967,59,F,Canada,British Columbia,Home,0,3,No,0,Website,Other
+C0522,Individual,0,Nicole,Campbell,13-07-1942,83,F,USA,Virginia,Home,0,5,No,0,Agency,Other
+C0523,Individual,0,Cynthia,Hansen,22-08-1960,65,F,USA,Colorado,Home,0,2,No,0,Agency,Other
+C0524,Individual,0,Harold,Thompson,24-05-1953,72,M,USA,Washington,Home,0,3,No,0,Website,Other
+C0525,Individual,0,Frank,Gray,12-06-1950,75,M,USA,Arizona,Home,0,4,Yes,1,Agency,Other
+C0526,Individual,0,Harold,Green,28-02-1968,58,M,Germany,Bavaria,Home,0,5,No,0,Website,Other
+C0527,Individual,0,Andrew,Baker,19-07-1979,46,M,USA,California,Home,0,2,No,0,Website,Other
+C0528,Individual,0,Benjamin,Davis,09-08-2000,25,M,USA,Washington,Investment,1,2,No,0,Client,Other
+C0529,Individual,0,Paul,Jordan,14-11-1973,52,M,USA,Nevada,Home,0,4,Yes,1,Website,Other
+C0530,Individual,0,Patricia,Reed,07-09-1952,73,F,USA,Utah,Home,0,2,Yes,1,Agency,Other
+C0531,Individual,0,Emily,White,19-09-1976,49,F,USA,California,Home,0,1,No,0,Website,Other
+C0532,Individual,0,Lauren,Moore,12-08-1979,46,F,Belgium,Flanders,Home,0,2,No,0,Website,Other
+C0533,Individual,0,Jeffrey,Williams,06-09-1963,62,M,USA,Nevada,Investment,1,1,No,0,Agency,Other
+C0534,Individual,0,Bryan,Miller,21-02-1958,68,M,USA,California,Investment,1,1,No,0,Agency,Other
+C0535,Individual,0,Judith,Allen,22-12-1987,38,F,UK,Wales,Home,0,3,No,0,Agency,Other
+C0536,Individual,0,Brittany,Weaver,14-03-1956,70,F,USA,Arizona,Investment,1,5,Yes,1,Website,Other
+C0537,Individual,0,Carl,Baker,25-04-1962,63,M,USA,Florida,Home,0,2,No,0,Client,Other
+C0538,Individual,0,Richard,Pierce,23-04-1969,56,M,USA,California,Home,0,1,Yes,1,Agency,Other
+C0539,Individual,0,Lawrence,Bryant,25-02-1991,35,M,USA,California,Investment,1,1,Yes,1,Agency,Other
+C0540,Individual,0,Anna,Long,27-02-1997,29,F,USA,New York,Home,0,3,No,0,Agency,Other
+C0541,Individual,0,Anthony,Garcia,22-03-2000,26,M,UK,Northern Ireland,Home,0,3,No,0,Agency,Other
+C0542,Company,0,Lumina,Co,26-09-1985,40,M,Mexico,Mexico City,Home,0,3,No,0,Website,Corporate Buyer
+C0543,Individual,0,Joan,Parker,23-07-1947,78,F,USA,Texas,Home,0,2,Yes,1,Website,Other
+C0544,Individual,0,Kevin,White,16-10-1974,51,M,USA,Utah,Home,0,2,No,0,Website,Other
+C0545,Individual,0,Paul,Griffin,04-08-1942,83,M,USA,Colorado,Home,0,1,Yes,1,Agency,Other
+C0546,Individual,0,Samuel,Flores,23-12-1967,58,M,Canada,Manitoba,Home,0,4,No,0,Client,Other
+C0547,Individual,0,Diane,Allen,20-09-1947,78,F,USA,California,Investment,1,2,No,0,Agency,Other
+C0548,Individual,0,Christopher,Foster,11-04-1980,46,M,USA,California,Home,0,2,No,0,Agency,Other
+C0549,Individual,0,Daniel,Sanders,15-10-1972,53,M,USA,Florida,Home,0,4,No,0,Website,Other
+C0550,Company,0,Vertex,Co,09-04-1967,59,F,USA,Nevada,Home,0,1,No,0,Agency,Corporate Buyer
+C0551,Individual,0,Billy,Freeman,17-05-1960,65,M,USA,California,Investment,1,4,No,0,Website,Other
+C0552,Individual,0,Kyle,Cook,20-10-1965,60,M,USA,Virginia,Investment,1,3,No,0,Agency,Other
+C0553,Individual,0,James,Bell,26-11-1978,47,M,USA,Arizona,Home,0,3,No,0,Website,Other
+C0554,Individual,0,Carl,Moore,24-12-1948,77,M,Australia,Victoria,Home,0,1,Yes,1,Agency,Other
+C0555,Individual,0,Aaron,Nelson,23-04-1971,54,M,USA,California,Investment,1,4,Yes,1,Agency,Other
+C0556,Individual,0,Zachary,Sanders,17-10-1958,67,M,USA,Colorado,Home,0,5,No,0,Website,Other
+C0557,Individual,0,Judy,Griffin,25-09-1941,84,F,USA,Utah,Investment,1,2,No,0,Website,Other
+C0558,Individual,0,Cheryl,Wood,23-10-1974,51,F,Denmark,North Denmark,Home,0,3,No,0,Website,Other
+C0559,Company,0,Corvus,Co,18-08-1969,56,M,USA,California,Home,0,5,No,0,Client,Corporate Buyer
+C0560,Individual,0,Janice,Nelson,20-04-1988,38,F,Australia,South Australia,Home,0,3,No,0,Website,Other
+C0561,Company,0,Bravada,Co,20-11-1962,63,F,USA,Arizona,Investment,1,3,No,0,Website,Corporate Buyer
+C0562,Individual,0,Judy,Peterson,23-11-1940,85,F,USA,Utah,Investment,1,5,Yes,1,Website,Other
+C0563,Individual,0,William,Howard,22-01-1991,35,M,USA,California,Home,0,2,Yes,1,Agency,First-Time Buyer
+C0564,Individual,0,Scott,Adams,02-09-1952,73,M,USA,Texas,Home,0,1,No,0,Agency,Other
+C0565,Individual,0,Austin,Wood,26-09-1985,40,M,France,Brittany,Home,0,1,No,0,Website,Other
+C0566,Individual,0,Janice,Miller,09-12-2000,25,F,USA,Oregon,Investment,1,4,Yes,1,Agency,Other
+C0567,Individual,0,Megan,Chavez,07-10-1953,72,F,Russia,Saint Petersburg,Investment,1,2,Yes,1,Agency,Global Investor
+C0568,Individual,0,Timothy,Wright,04-09-1953,72,M,USA,California,Home,0,3,No,0,Website,Other
+C0569,Individual,0,Mary,Cook,05-12-1971,54,F,USA,California,Home,0,5,Yes,1,Client,Other
+C0570,Individual,0,Hannah,Peterson,03-06-1965,60,F,France,Occitanie,Home,0,5,Yes,1,Website,Other
+C0571,Individual,0,Adam,Chavez,03-07-1966,59,M,USA,California,Home,0,3,No,0,Website,Other
+C0572,Individual,0,Ann,Johnson,12-11-1993,32,F,USA,California,Investment,1,5,No,0,Website,Luxury Investor
+C0573,Company,0,Altira,Co,24-04-1977,48,M,USA,Georgia,Home,0,4,Yes,1,Agency,Corporate Buyer
+C0574,Individual,0,Gerald,Cox,15-09-1968,57,M,USA,California,Home,0,2,No,0,Agency,Other
+C0575,Individual,0,Brian,Hansen,21-01-1966,60,M,USA,California,Investment,1,2,No,0,Website,Other
+C0576,Individual,0,Terry,Reyes,24-02-1959,67,M,Germany,Hamburg,Home,0,1,No,0,Client,Other
+C0577,Individual,0,Christopher,Miller,18-05-1989,36,M,USA,Arizona,Home,0,3,No,0,Website,Other
+C0578,Individual,0,Lauren,Rogers,22-07-1999,26,F,USA,Arizona,Home,0,5,Yes,1,Client,First-Time Buyer
+C0579,Individual,0,Christopher,Ward,04-09-1941,84,M,USA,Texas,Investment,1,3,No,0,Website,Other
+C0580,Individual,0,Heather,Watson,01-11-1948,77,F,USA,California,Home,0,2,Yes,1,Client,Other
+C0581,Individual,0,Kimberly,Stewart,21-12-1957,68,F,USA,California,Investment,1,5,Yes,1,Website,Other
+C0582,Individual,0,Teresa,Pierce,10-02-1940,86,F,USA,Washington,Investment,1,3,Yes,1,Website,Other
+C0583,Individual,0,Kevin,Scott,27-10-1986,39,M,USA,California,Home,0,2,No,0,Agency,Other
+C0584,Individual,0,Janice,Taylor,03-11-1982,43,F,USA,California,Home,0,5,No,0,Website,Other
+C0585,Individual,0,Anthony,Edwards,07-02-1961,65,M,USA,Colorado,Home,0,3,No,0,Agency,Other
+C0586,Individual,0,Noah,Morales,14-06-1977,48,M,USA,California,Home,0,2,Yes,1,Client,Other
+C0587,Individual,0,Pamela,Richardson,24-11-1992,33,F,USA,New York,Home,0,4,No,0,Website,Other
+C0588,Individual,0,Janice,White,20-11-1989,36,F,USA,Florida,Home,0,2,No,0,Website,Other
+C0589,Individual,0,Christopher,Williams,21-09-1946,79,M,USA,Texas,Investment,1,5,No,0,Client,Luxury Investor
+C0590,Individual,0,Arthur,Campbell,16-09-1966,59,M,UK,Scotland,Investment,1,2,No,0,Website,Global Investor
+C0591,Individual,0,Dorothy,Long,03-09-1968,57,F,USA,Nevada,Home,0,1,No,0,Website,Other
+C0592,Individual,0,Roger,Moore,06-03-1972,54,M,USA,Arizona,Investment,1,2,No,0,Client,Other
+C0593,Individual,0,Elizabeth,Carter,08-08-1952,73,F,USA,California,Home,0,2,Yes,1,Agency,Other
+C0594,Individual,0,Diane,Patterson,02-08-1942,83,F,USA,Utah,Home,0,1,No,0,Agency,Other
+C0595,Individual,0,Anna,Murray,06-10-1966,59,F,USA,Utah,Home,0,3,No,0,Agency,Other
+C0596,Individual,0,Gerald,Phillips,17-04-1976,50,M,USA,Nevada,Home,0,4,No,0,Agency,Other
+C0597,Individual,0,Peter,King,17-02-1986,40,M,UK,Northern Ireland,Home,0,2,Yes,1,Website,Other
+C0598,Individual,0,Jacob,Gray,24-06-1949,76,M,USA,Colorado,Investment,1,4,No,0,Website,Other
+C0599,Individual,0,Jennifer,Turner,19-03-1998,28,F,Canada,Alberta,Home,0,2,No,0,Agency,Other
+C0600,Individual,0,Thomas,King,17-03-1984,42,M,USA,Oregon,Investment,1,1,No,0,Client,Other
+C0601,Individual,0,Lisa,Nelson,16-10-1972,53,F,USA,California,Home,0,4,No,0,Website,Other
+C0602,Individual,0,Albert,Hayes,24-03-1984,42,M,Germany,Bavaria,Home,0,4,No,0,Agency,Other
+C0603,Individual,0,Diane,Thompson,07-01-1994,32,F,USA,New York,Home,0,4,Yes,1,Agency,First-Time Buyer
+C0604,Individual,0,Danielle,Montgomery,17-09-1998,27,F,Belgium,Wallonia,Home,0,1,No,0,Agency,Other
+C0605,Individual,0,Nathan,Flores,28-06-1974,51,M,USA,Utah,Home,0,4,Yes,1,Agency,Other
+C0606,Individual,0,Carolyn,Stone,25-12-1949,76,F,France,Ile-de-France,Investment,1,1,No,0,Website,Global Investor
+C0607,Individual,0,Daniel,Edwards,14-09-1962,63,M,USA,California,Home,0,1,No,0,Agency,Other
+C0608,Individual,0,Jerry,Adams,14-06-1956,69,M,USA,California,Home,0,4,No,0,Agency,Other
+C0609,Individual,0,Julia,Richardson,22-05-1961,64,F,USA,Washington,Home,0,4,No,0,Agency,Other
+C0610,Individual,0,Ann,Owens,10-05-1970,55,F,USA,California,Investment,1,4,No,0,Website,Other
+C0611,Individual,0,Jacob,Price,06-12-1950,75,M,USA,California,Home,0,4,No,0,Agency,Other
+C0612,Individual,0,Kevin,Wood,26-01-1960,66,M,USA,Florida,Home,0,4,No,0,Agency,Other
+C0613,Individual,0,Cynthia,Cox,02-10-1995,30,F,Australia,Victoria,Home,0,4,No,0,Agency,Other
+C0614,Individual,0,George,Bryant,07-01-1972,54,M,UK,Wales,Home,0,3,Yes,1,Website,Other
+C0615,Individual,0,Jordan,King,12-01-1957,69,M,USA,Utah,Home,0,2,Yes,1,Website,Other
+C0616,Individual,0,Julie,Brooks,17-04-1963,63,F,USA,Virginia,Investment,1,1,Yes,1,Agency,Other
+C0617,Individual,0,Carolyn,Evans,07-10-1986,39,F,USA,Ohio,Home,0,5,Yes,1,Website,First-Time Buyer
+C0618,Individual,0,Austin,Taylor,11-05-1968,57,M,USA,Texas,Home,0,3,No,0,Agency,Other
+C0619,Individual,0,Heather,Morales,25-04-1970,55,F,USA,Washington,Home,0,4,No,0,Website,Other
+C0620,Individual,0,Sarah,Howard,22-04-1960,65,F,France,Brittany,Home,0,3,No,0,Website,Other
+C0621,Individual,0,Jonathan,Turner,13-02-1982,44,M,Germany,Bavaria,Investment,1,3,Yes,1,Agency,Global Investor
+C0622,Individual,0,Katherine,Ward,09-10-1987,38,F,USA,Washington,Investment,1,2,No,0,Client,Other
+C0623,Individual,0,Jonathan,Adams,27-04-1986,39,M,USA,Florida,Investment,1,3,Yes,1,Client,Other
+C0624,Individual,0,Carl,Jordan,02-09-2000,25,M,USA,Nevada,Investment,1,3,No,0,Agency,Other
+C0625,Individual,0,Deborah,Hayes,08-07-1983,42,F,Belgium,Flanders,Investment,1,2,Yes,1,Agency,Global Investor
+C0626,Individual,0,Sara,Jones,13-06-1968,57,F,Germany,Hamburg,Investment,1,2,No,0,Website,Global Investor
+C0627,Individual,0,Katherine,Johnson,07-11-2000,25,F,USA,Arizona,Home,0,3,No,0,Agency,Other
+C0628,Individual,0,Arthur,Campbell,16-05-1985,40,M,Canada,British Columbia,Home,0,3,Yes,1,Agency,Other
+C0629,Individual,0,Maria,Richardson,09-07-1946,79,F,USA,California,Investment,1,2,No,0,Agency,Other
+C0630,Individual,0,Stephen,Roberts,28-07-1965,60,M,USA,California,Home,0,2,No,0,Website,Other
+C0631,Individual,0,Dorothy,Flores,11-12-1966,59,F,USA,California,Home,0,5,No,0,Website,Other
+C0632,Individual,0,Thomas,Nelson,16-05-1948,77,M,UK,Northern Ireland,Home,0,4,No,0,Website,Other
+C0633,Individual,0,Ann,Owens,12-05-1941,84,F,USA,Nevada,Home,0,3,No,0,Agency,Other
+C0634,Individual,0,Justin,Ward,17-11-1980,45,M,USA,Washington,Investment,1,4,Yes,1,Website,Other
+C0635,Individual,0,Kimberly,King,14-06-1960,65,F,UK,Scotland,Investment,1,5,No,0,Website,Luxury Investor
+C0636,Individual,0,Kathleen,Rogers,10-11-1980,45,F,France,Brittany,Home,0,5,No,0,Website,Other
+C0637,Individual,0,Catherine,Stone,14-08-1967,58,F,USA,California,Home,0,2,No,0,Website,Other
+C0638,Individual,0,Jason,King,04-02-1975,51,M,USA,Ohio,Home,0,5,Yes,1,Website,Other
+C0639,Individual,0,Mark,Campbell,03-03-1961,65,M,UK,Scotland,Home,0,3,Yes,1,Website,Other
+C0640,Individual,0,Emily,Thompson,01-03-1967,59,F,USA,Utah,Home,0,3,No,0,Agency,Other
+C0641,Company,0,Zynex,Co,26-02-1994,32,M,USA,Arizona,Home,0,2,No,0,Agency,Corporate Buyer
+C0642,Individual,0,Julia,Reyes,21-11-1967,58,F,USA,California,Home,0,4,No,0,Website,Other
+C0643,Individual,0,Samantha,Richardson,05-05-1974,51,F,USA,California,Home,0,5,No,0,Website,Other
+C0644,Individual,0,Teresa,Johnson,25-08-1956,69,F,USA,California,Home,0,4,Yes,1,Agency,Other
+C0645,Individual,0,Arthur,Cox,18-07-1988,37,M,USA,Nevada,Home,0,2,No,0,Client,Other
+C0646,Individual,0,Cynthia,Campbell,21-07-1995,30,F,USA,Arizona,Investment,1,5,No,0,Agency,Luxury Investor
+C0647,Individual,0,Victoria,Green,06-02-1946,80,F,USA,California,Home,0,4,No,0,Agency,Other
+C0648,Individual,0,Stephanie,Reed,02-03-1999,27,F,USA,California,Home,0,1,Yes,1,Website,First-Time Buyer
+C0649,Individual,0,Patricia,Mitchell,01-03-1995,31,F,USA,California,Home,0,4,No,0,Agency,Other
+C0650,Company,0,Polaris,Co,19-02-1976,50,M,France,Occitanie,Home,0,3,Yes,1,Client,Corporate Buyer
+C0651,Company,0,Horizon,Co,14-01-1993,33,M,USA,Washington,Home,0,1,No,0,Agency,Corporate Buyer
+C0652,Individual,0,Heather,Johnson,08-12-1993,32,F,USA,Washington,Home,0,2,No,0,Website,Other
+C0653,Individual,0,Gerald,Adams,22-07-1970,55,M,USA,Ohio,Home,0,2,No,0,Client,Other
+C0654,Individual,0,Eric,Griffin,07-05-1960,65,M,USA,New York,Home,0,2,Yes,1,Website,Other
+C0655,Individual,0,Patricia,King,19-05-1950,75,F,USA,Nevada,Home,0,1,Yes,1,Agency,Other
+C0656,Individual,0,Amber,Allen,08-02-1977,49,F,USA,Colorado,Home,0,5,No,0,Client,Other
+C0657,Individual,0,Alexander,Allen,26-09-1956,69,M,USA,California,Home,0,2,No,0,Agency,Other
+C0658,Individual,0,Kelly,Green,13-12-1999,26,F,USA,Virginia,Home,0,3,Yes,1,Agency,First-Time Buyer
+C0659,Individual,0,Sara,Foster,06-10-1988,37,F,USA,California,Home,0,4,Yes,1,Agency,First-Time Buyer
+C0660,Individual,0,Charles,Kim,10-08-1991,34,M,USA,Arizona,Home,0,4,Yes,1,Client,First-Time Buyer
+C0661,Individual,0,Deborah,Williams,25-06-1961,64,F,Canada,Manitoba,Home,0,3,No,0,Website,Other
+C0662,Individual,0,Stephanie,Kim,25-08-1957,68,F,USA,California,Investment,1,3,No,0,Website,Other
+C0663,Individual,0,Anthony,Flores,02-02-1958,68,M,USA,California,Home,0,2,Yes,1,Agency,Other
+C0664,Individual,0,Lawrence,Wood,17-08-1958,67,M,Canada,Alberta,Investment,1,5,Yes,1,Website,Global Investor
+C0665,Individual,0,Robert,Adams,27-08-1959,66,M,USA,Colorado,Investment,1,1,No,0,Agency,Other
+C0666,Individual,0,Maria,Davis,09-10-1948,77,F,USA,California,Investment,1,1,No,0,Website,Other
+C0667,Individual,0,Anthony,Mitchell,07-07-1966,59,M,USA,Arizona,Investment,1,2,No,0,Agency,Other
+C0668,Individual,0,Margaret,Peterson,15-11-1978,47,F,France,Ile-de-France,Investment,1,4,Yes,1,Website,Global Investor
+C0669,Individual,0,Cheryl,Bell,18-03-1958,68,F,Canada,British Columbia,Home,0,3,No,0,Agency,Other
+C0670,Company,0,Altira,Co,18-06-1976,49,M,USA,Nevada,Investment,1,4,No,0,Website,Corporate Buyer
+C0671,Individual,0,Jerry,Pierce,09-12-1941,84,M,USA,Colorado,Home,0,4,Yes,1,Client,Other
+C0672,Individual,0,Amber,Williams,10-03-1967,59,F,USA,California,Home,0,2,No,0,Website,Other
+C0673,Individual,0,Janice,Hayes,19-10-1965,60,F,USA,California,Home,0,4,No,0,Website,Other
+C0674,Individual,0,Judy,Turner,26-05-1986,39,F,USA,California,Investment,1,4,No,0,Website,Other
+C0675,Individual,0,Andrea,Wright,23-12-1969,56,F,USA,Texas,Home,0,5,No,0,Website,Other
+C0676,Individual,0,Lisa,Davis,12-06-1942,83,F,USA,Nevada,Home,0,2,No,0,Agency,Other
+C0677,Individual,0,Jerry,Miller,02-09-1981,44,M,USA,Arizona,Investment,1,2,No,0,Agency,Other
+C0678,Individual,0,Joseph,Watson,19-10-1972,53,M,USA,California,Home,0,4,Yes,1,Website,Other
+C0679,Individual,0,Lisa,Patterson,02-12-1964,61,F,USA,Nevada,Home,0,1,No,0,Agency,Other
+C0680,Individual,0,Andrew,Griffin,16-04-1965,61,M,USA,Utah,Investment,1,2,No,0,Agency,Other
+C0681,Company,0,Helios,Co,25-04-1977,48,F,USA,California,Home,0,3,No,0,Agency,Corporate Buyer
+C0682,Individual,0,Donald,Bennett,12-06-1973,52,M,USA,California,Home,0,5,No,0,Website,Other
+C0683,Individual,0,Patrick,Jordan,20-08-1948,77,M,USA,Colorado,Home,0,2,Yes,1,Agency,Other
+C0684,Individual,0,Donald,Miller,05-10-1985,40,M,USA,California,Home,0,1,No,0,Agency,Other
+C0685,Individual,0,Sharon,Hansen,18-04-1987,39,F,USA,Washington,Home,0,5,No,0,Agency,Other
+C0686,Individual,0,Michael,Howard,17-11-1963,62,M,USA,California,Home,0,1,Yes,1,Website,Other
+C0687,Individual,0,Susan,Long,03-01-1959,67,F,USA,Utah,Home,0,3,Yes,1,Website,Other
+C0688,Individual,0,Kathleen,Howard,04-12-1968,57,F,USA,Colorado,Investment,1,5,Yes,1,Website,Other
+C0689,Individual,0,Ann,Williams,17-04-1998,28,F,USA,California,Home,0,4,No,0,Website,Other
+C0690,Individual,0,Janet,Stewart,09-09-1985,40,F,USA,Oregon,Home,0,4,Yes,1,Agency,Other
+C0691,Individual,0,Kenneth,Bell,22-07-1943,82,M,USA,California,Investment,1,4,No,0,Agency,Other
+C0692,Individual,0,Adam,Roberts,14-03-1964,62,M,USA,Georgia,Investment,1,3,No,0,Agency,Other
+C0693,Individual,0,Jesse,Chavez,28-04-1957,68,M,USA,California,Investment,1,5,Yes,1,Agency,Other
+C0694,Company,0,Sterling,Co,13-07-1989,36,M,UK,Scotland,Investment,1,2,No,0,Website,Corporate Buyer
+C0695,Individual,0,Timothy,Rogers,24-03-1947,79,M,USA,Washington,Home,0,4,No,0,Website,Other
+C0696,Individual,0,Carol,Green,06-03-1994,32,F,USA,Washington,Investment,1,5,Yes,1,Agency,Other
+C0697,Individual,0,Bryan,Mitchell,01-11-1986,39,M,USA,California,Investment,1,4,Yes,1,Agency,Other
+C0698,Individual,0,Maria,Scott,16-07-1946,79,F,USA,California,Home,0,2,Yes,1,Website,Other
+C0699,Individual,0,Stephen,Bennett,22-12-1986,39,M,USA,Washington,Home,0,1,Yes,1,Agency,First-Time Buyer
+C0700,Individual,0,Christine,Sanders,14-04-1944,82,F,USA,Washington,Home,0,5,No,0,Website,Other
+C0701,Individual,0,Danielle,Peterson,17-09-1962,63,F,UK,England,Investment,1,1,No,0,Website,Global Investor
+C0702,Individual,0,Nicholas,Flores,24-07-1966,59,M,USA,Arizona,Home,0,5,No,0,Agency,Other
+C0703,Company,0,Elara,Co,15-05-1984,41,M,USA,Colorado,Home,0,3,No,0,Website,Corporate Buyer
+C0704,Individual,0,Nicole,Jordan,23-01-1942,84,F,USA,Georgia,Home,0,4,No,0,Agency,Other
+C0705,Individual,0,Timothy,Murray,18-12-1940,85,M,USA,Nevada,Home,0,3,No,0,Website,Other
+C0706,Individual,0,Kyle,Thomas,23-06-1984,41,M,UK,England,Investment,1,2,No,0,Client,Global Investor
+C0707,Individual,0,Zachary,Richardson,23-09-1995,30,M,USA,Virginia,Home,0,5,Yes,1,Website,First-Time Buyer
+C0708,Individual,0,Brian,Cook,28-11-1964,61,M,USA,California,Home,0,2,No,0,Client,Other
+C0709,Individual,0,Samantha,Price,06-11-1982,43,F,USA,Georgia,Home,0,2,Yes,1,Agency,Other
+C0710,Individual,0,Kyle,Bryant,18-08-1946,79,M,USA,Oregon,Home,0,2,Yes,1,Agency,Other
+C0711,Individual,0,Victoria,Hughes,20-10-1995,30,F,USA,California,Investment,1,3,No,0,Agency,Other
+C0712,Individual,0,Joseph,Scott,21-01-1991,35,M,USA,California,Home,0,1,No,0,Agency,Other
+C0713,Individual,0,Debra,Thomas,14-02-1997,29,F,USA,California,Investment,1,3,No,0,Agency,Other
+C0714,Individual,0,Kyle,Murray,03-01-1977,49,M,Russia,Saint Petersburg,Home,0,3,No,0,Website,Other
+C0715,Individual,0,Janice,Wilson,05-08-1982,43,F,USA,Utah,Home,0,3,No,0,Website,Other
+C0716,Individual,0,Jordan,Davis,24-10-1994,31,M,UK,Northern Ireland,Home,0,1,No,0,Client,Other
+C0717,Individual,0,Virginia,Weaver,09-06-1946,79,F,USA,Arizona,Investment,1,3,Yes,1,Agency,Other
+C0718,Individual,0,Martha,Scott,08-10-1944,81,F,France,Ile-de-France,Home,0,2,Yes,1,Website,Other
+C0719,Individual,0,Jason,Jordan,02-07-1974,51,M,USA,California,Investment,1,2,Yes,1,Agency,Other
+C0720,Individual,0,Shirley,Wilson,17-05-1981,44,F,USA,California,Investment,1,1,Yes,1,Agency,Other
+C0721,Individual,0,Julia,Jordan,07-03-1999,27,F,USA,Florida,Home,0,4,No,0,Website,Other
+C0722,Individual,0,Carol,Sanders,11-09-1943,82,F,USA,Texas,Home,0,1,No,0,Website,Other
+C0723,Individual,0,Ann,Hansen,19-04-1999,27,F,Germany,North Rhine-Westphalia,Home,0,3,Yes,1,Website,First-Time Buyer
+C0724,Individual,0,Samuel,Howard,27-09-1960,65,M,USA,Arizona,Investment,1,4,Yes,1,Agency,Other
+C0725,Individual,0,Katherine,Jones,03-07-1983,42,F,USA,New York,Home,0,3,No,0,Website,Other
+C0726,Individual,0,Melissa,Harris,25-01-1977,49,F,USA,Georgia,Home,0,4,No,0,Website,Other
+C0727,Individual,0,Ronald,Bell,24-08-1941,84,M,USA,California,Investment,1,3,Yes,1,Client,Other
+C0728,Individual,0,Jason,Jones,23-07-1971,54,M,USA,California,Home,0,3,Yes,1,Agency,Other
+C0729,Individual,0,Raymond,Long,04-01-1944,82,M,USA,Washington,Investment,1,3,Yes,1,Agency,Other
+C0730,Individual,0,Gregory,Baker,09-05-1988,37,M,USA,California,Investment,1,4,No,0,Website,Other
+C0731,Individual,0,Larry,Harris,18-10-2000,25,M,USA,California,Home,0,5,No,0,Agency,Other
+C0732,Individual,0,Justin,Peterson,03-03-1985,41,M,USA,Oregon,Home,0,5,No,0,Website,Other
+C0733,Individual,0,Susan,White,03-01-1976,50,F,USA,Nevada,Home,0,5,No,0,Agency,Other
+C0734,Individual,0,Danielle,Ward,27-06-1981,44,F,USA,Virginia,Investment,1,5,Yes,1,Client,Other
+C0735,Individual,0,Matthew,Long,10-08-1994,31,M,Germany,Hesse,Investment,1,4,No,0,Website,Global Investor
+C0736,Individual,0,Jordan,Campbell,13-06-1942,83,M,USA,Utah,Investment,1,3,No,0,Agency,Other
+C0737,Individual,0,Harold,Harris,15-08-1978,47,M,USA,California,Investment,1,3,No,0,Agency,Other
+C0738,Individual,0,Jose,White,21-09-1980,45,M,USA,Texas,Home,0,5,No,0,Website,Other
+C0739,Individual,0,Albert,Turner,16-03-1965,61,M,USA,California,Home,0,2,No,0,Agency,Other
+C0740,Individual,0,Julia,Bell,08-12-1966,59,F,USA,Utah,Investment,1,1,No,0,Client,Other
+C0741,Individual,0,Sandra,Stone,11-08-1962,63,F,USA,California,Home,0,2,No,0,Website,Other
+C0742,Individual,0,Bryan,Howard,21-08-1980,45,M,UK,Wales,Home,0,1,Yes,1,Website,Other
+C0743,Individual,0,Joshua,Allen,10-09-1972,53,M,USA,Oregon,Investment,1,4,Yes,1,Website,Other
+C0744,Individual,0,Helen,Morales,10-11-1950,75,F,USA,Virginia,Home,0,1,No,0,Website,Other
+C0745,Individual,0,Emily,Collins,18-06-1997,28,F,USA,California,Investment,1,5,No,0,Website,Luxury Investor
+C0746,Individual,0,Gary,Reyes,13-10-1956,69,M,UK,Scotland,Home,0,4,No,0,Website,Other
+C0747,Individual,0,George,Patterson,18-04-1992,34,M,USA,Florida,Home,0,4,Yes,1,Website,First-Time Buyer
+C0748,Company,0,Vantage,Co,05-03-1974,52,F,USA,California,Home,0,1,Yes,1,Client,Corporate Buyer
+C0749,Individual,0,Dorothy,Anderson,26-11-1992,33,F,USA,New York,Home,0,5,No,0,Agency,Other
+C0750,Individual,0,Janice,Price,08-06-1976,49,F,USA,Nevada,Investment,1,1,No,0,Agency,Other
+C0751,Individual,0,Keith,Parker,19-09-1974,51,M,USA,California,Home,0,5,No,0,Client,Other
+C0752,Individual,0,Lisa,Young,17-12-1954,71,F,Belgium,Brussels,Investment,1,3,No,0,Agency,Global Investor
+C0753,Individual,0,Nicholas,Patterson,22-12-1960,65,M,Germany,Hamburg,Home,0,5,No,0,Website,Other
+C0754,Individual,0,Teresa,Johnson,17-08-1970,55,F,USA,Arizona,Investment,1,3,No,0,Website,Other
+C0755,Company,0,Celera,Co,23-12-1967,58,F,USA,California,Home,0,5,No,0,Website,Corporate Buyer
+C0756,Individual,0,Jessica,Patterson,19-03-1963,63,F,USA,Utah,Home,0,5,Yes,1,Website,Other
+C0757,Individual,0,Keith,Taylor,09-05-1946,79,M,USA,Oregon,Home,0,3,Yes,1,Website,Other
+C0758,Individual,0,Joe,Allen,12-08-1958,67,M,USA,California,Investment,1,2,No,0,Website,Other
+C0759,Individual,0,Samuel,Anderson,27-10-1991,34,M,USA,Florida,Home,0,4,No,0,Website,Other
+C0760,Individual,0,Amanda,Adams,27-12-1964,61,F,USA,California,Investment,1,3,No,0,Website,Other
+C0761,Individual,0,Joyce,Patterson,24-08-1981,44,F,Belgium,Flanders,Home,0,2,No,0,Agency,Other
+C0762,Individual,0,Anna,Young,01-07-1967,58,F,USA,Ohio,Home,0,4,No,0,Website,Other
+C0763,Company,0,Summit,Co,18-07-1971,54,F,USA,Georgia,Home,0,3,No,0,Agency,Corporate Buyer
+C0764,Individual,0,Debra,Parker,09-02-1983,43,F,UK,Northern Ireland,Investment,1,4,No,0,Client,Global Investor
+C0765,Individual,0,Joe,Green,22-06-1967,58,M,France,Brittany,Home,0,3,No,0,Website,Other
+C0766,Individual,0,Robert,Bennett,04-09-1994,31,M,Germany,North Rhine-Westphalia,Home,0,3,Yes,1,Client,First-Time Buyer
+C0767,Individual,0,David,Brown,02-02-1961,65,M,Canada,British Columbia,Investment,1,2,No,0,Agency,Global Investor
+C0768,Individual,0,Matthew,Weaver,22-07-1992,33,M,Denmark,Southern Denmark,Investment,1,5,Yes,1,Website,Global Investor
+C0769,Individual,0,Nicole,Long,21-02-1958,68,F,USA,Ohio,Home,0,4,No,0,Agency,Other
+C0770,Individual,0,Shirley,Hall,09-02-1951,75,F,Russia,Krasnodar Krai,Home,0,4,No,0,Website,Other
+C0771,Company,0,Quasar,Co,09-06-1984,41,M,USA,California,Home,0,1,No,0,Website,Corporate Buyer
+C0772,Individual,0,Ethan,White,25-09-1991,34,M,USA,California,Investment,1,1,No,0,Client,Other
+C0773,Individual,0,Christopher,Taylor,09-12-1964,61,M,Russia,Saint Petersburg,Home,0,1,No,0,Website,Other
+C0774,Individual,0,David,Wood,23-03-1983,43,M,USA,Georgia,Home,0,5,Yes,1,Agency,Other
+C0775,Individual,0,Andrea,Reyes,25-12-1975,50,F,USA,Arizona,Home,0,1,No,0,Agency,Other
+C0776,Individual,0,Ashley,Morales,11-06-1966,59,F,Germany,Bavaria,Home,0,4,Yes,1,Agency,Other
+C0777,Company,0,Meridian,Co,15-05-1982,43,M,USA,Arizona,Home,0,1,No,0,Client,Corporate Buyer
+C0778,Individual,0,George,Pierce,22-07-1998,27,M,USA,California,Investment,1,4,Yes,1,Agency,Other
+C0779,Individual,0,Lisa,Hughes,05-04-1953,73,F,USA,California,Home,0,5,Yes,1,Agency,Other
+C0780,Individual,0,Martha,Hansen,01-08-1947,78,F,USA,California,Home,0,3,No,0,Website,Other
+C0781,Individual,0,Gerald,Sanders,28-11-1940,85,M,USA,California,Investment,1,5,Yes,1,Website,Other
+C0782,Individual,0,Ethan,Williams,02-10-1970,55,M,USA,Utah,Investment,1,2,Yes,1,Website,Other
+C0783,Individual,0,Betty,Sanders,27-03-1961,65,F,Canada,Alberta,Home,0,1,Yes,1,Agency,Other
+C0784,Individual,0,Charles,Baker,26-06-1973,52,M,Mexico,Baja California,Investment,1,4,No,0,Website,Global Investor
+C0785,Company,0,Rexon,Co,27-03-1971,55,F,USA,California,Home,0,2,No,0,Website,Corporate Buyer
+C0786,Individual,0,Sarah,Martin,25-03-1983,43,F,USA,California,Investment,1,3,No,0,Website,Other
+C0787,Individual,0,Andrew,Jackson,20-11-1950,75,M,USA,Washington,Home,0,1,No,0,Website,Other
+C0788,Individual,0,Matthew,Stone,14-05-1944,81,M,France,Brittany,Investment,1,4,No,0,Website,Global Investor
+C0789,Individual,0,Madison,Price,06-04-1974,52,F,Canada,Ontario,Investment,1,1,No,0,Website,Global Investor
+C0790,Individual,0,Brandon,Cooper,18-01-1974,52,M,USA,California,Home,0,5,Yes,1,Agency,Other
+C0791,Individual,0,Walter,Adams,07-01-1983,43,M,USA,Texas,Home,0,4,No,0,Website,Other
+C0792,Individual,0,Joseph,Richardson,14-04-1982,44,M,USA,California,Investment,1,4,Yes,1,Website,Other
+C0793,Individual,0,Kevin,Brown,04-09-1969,56,M,USA,New York,Home,0,4,No,0,Agency,Other
+C0794,Individual,0,Gregory,Mitchell,11-02-1951,75,M,USA,California,Home,0,4,Yes,1,Website,Other
+C0795,Individual,0,Harold,Murray,14-01-1969,57,M,USA,California,Investment,1,4,Yes,1,Website,Other
+C0796,Individual,0,Stephanie,Ward,11-04-1983,43,F,USA,California,Investment,1,5,Yes,1,Website,Other
+C0797,Individual,0,Joan,Gray,08-06-1990,35,F,USA,Oregon,Home,0,5,Yes,1,Agency,First-Time Buyer
+C0798,Company,0,Novex,Co,21-10-1965,60,M,USA,Nevada,Home,0,4,Yes,1,Agency,Corporate Buyer
+C0799,Individual,0,Pamela,Johnson,24-07-1954,71,F,USA,California,Home,0,4,No,0,Website,Other
+C0800,Individual,0,Lawrence,Smith,02-01-1974,52,M,USA,Virginia,Investment,1,5,Yes,1,Website,Other
+C0801,Individual,0,Betty,Price,03-04-1969,57,F,USA,Washington,Home,0,4,Yes,1,Website,Other
+C0802,Individual,0,Matthew,Williams,10-11-1970,55,M,USA,Virginia,Home,0,5,No,0,Agency,Other
+C0803,Individual,0,Evelyn,Moore,13-12-1945,80,F,USA,Texas,Home,0,4,No,0,Agency,Other
+C0804,Individual,0,Tyler,Cook,10-01-1967,59,M,USA,Washington,Home,0,5,No,0,Agency,Other
+C0805,Individual,0,Albert,Cook,17-01-1953,73,M,Germany,Berlin,Home,0,1,Yes,1,Website,Other
+C0806,Individual,0,Jack,Richardson,18-11-1989,36,M,France,Ile-de-France,Home,0,5,No,0,Client,Other
+C0807,Individual,0,Amy,Chavez,16-11-1993,32,F,Mexico,Mexico City,Investment,1,5,No,0,Website,Luxury Investor
+C0808,Individual,0,Gregory,Ward,17-05-1943,82,M,Germany,Berlin,Home,0,3,Yes,1,Website,Other
+C0809,Individual,0,Hannah,Alexander,16-02-1967,59,F,France,Occitanie,Home,0,5,Yes,1,Agency,Other
+C0810,Individual,0,Ronald,Sanders,13-02-1995,31,M,USA,California,Home,0,1,Yes,1,Website,First-Time Buyer
+C0811,Individual,0,Carl,Allen,17-04-1945,81,M,UK,Wales,Home,0,3,No,0,Agency,Other
+C0812,Individual,0,Harold,Cooper,24-08-1974,51,M,UK,Northern Ireland,Home,0,3,Yes,1,Website,Other
+C0813,Individual,0,Gerald,Cook,11-10-1974,51,M,UK,Scotland,Investment,1,3,No,0,Agency,Global Investor
+C0814,Individual,0,Joan,Stewart,26-03-1964,62,F,USA,California,Home,0,2,No,0,Website,Other
+C0815,Company,0,Horizon,Co,06-11-1965,60,F,USA,Nevada,Home,0,4,Yes,1,Agency,Corporate Buyer
+C0816,Individual,0,Deborah,Wright,23-12-1947,78,F,Germany,Hamburg,Home,0,2,Yes,1,Website,Other
+C0817,Individual,0,Grace,Thompson,12-05-1972,53,F,USA,California,Investment,1,1,No,0,Website,Other
+C0818,Company,0,Sterling,Co,08-09-1991,34,F,USA,Colorado,Home,0,2,No,0,Website,Corporate Buyer
+C0819,Individual,0,Jose,Bryant,15-03-1951,75,M,USA,California,Home,0,5,No,0,Website,Other
+C0820,Individual,0,Judith,Collins,22-10-1940,85,F,USA,Texas,Investment,1,4,No,0,Agency,Other
+C0821,Individual,0,Elizabeth,Moore,04-09-1957,68,F,USA,California,Home,0,5,Yes,1,Agency,Other
+C0822,Individual,0,Jessica,Weaver,19-04-1959,67,F,USA,California,Investment,1,3,Yes,1,Website,Other
+C0823,Individual,0,Nancy,Hayes,16-04-1975,51,F,USA,Oregon,Investment,1,5,Yes,1,Agency,Other
+C0824,Individual,0,Douglas,Cox,01-06-1976,49,M,USA,California,Home,0,3,No,0,Agency,Other
+C0825,Individual,0,Ruth,Hughes,26-03-1982,44,F,Mexico,Nuevo Leon,Home,0,4,Yes,1,Agency,Other
+C0826,Individual,0,Jason,Stewart,11-09-1970,55,M,USA,Ohio,Investment,1,4,Yes,1,Website,Other
+C0827,Individual,0,Ruth,Wright,23-08-1965,60,F,USA,Washington,Home,0,2,Yes,1,Website,Other
+C0828,Individual,0,Elizabeth,Stewart,10-10-1947,78,F,USA,Arizona,Investment,1,4,Yes,1,Website,Other
+C0829,Individual,0,Jonathan,Stewart,16-11-1960,65,M,USA,Utah,Investment,1,3,No,0,Website,Other
+C0830,Individual,0,William,Martin,16-05-1952,73,M,USA,Oregon,Investment,1,3,No,0,Agency,Other
+C0831,Individual,0,Judith,Martin,24-09-1977,48,F,USA,California,Home,0,2,No,0,Website,Other
+C0832,Individual,0,Dorothy,Ward,09-01-1990,36,F,USA,Nevada,Investment,1,3,Yes,1,Website,Other
+C0833,Individual,0,Roger,Green,06-11-1951,74,M,Denmark,Southern Denmark,Home,0,5,No,0,Website,Other
+C0834,Individual,0,Helen,Parker,23-12-1957,68,F,USA,California,Home,0,5,No,0,Website,Other
+C0835,Individual,0,Maria,Foster,06-06-1974,51,F,USA,California,Home,0,5,Yes,1,Website,Other
+C0836,Individual,0,Adam,Sanders,04-02-1942,84,M,USA,Ohio,Home,0,4,No,0,Website,Other
+C0837,Individual,0,Peter,Montgomery,06-06-1967,58,M,France,Brittany,Home,0,1,No,0,Website,Other
+C0838,Individual,0,Jacob,Morris,05-04-1992,34,M,USA,Nevada,Investment,1,1,Yes,1,Website,Other
+C0839,Individual,0,Elizabeth,Baker,26-01-1994,32,F,UK,England,Home,0,5,Yes,1,Agency,First-Time Buyer
+C0840,Individual,0,Elizabeth,Wilson,01-11-1981,44,F,Belgium,Brussels,Home,0,1,No,0,Website,Other
+C0841,Individual,0,Timothy,Cooper,05-02-1999,27,M,Belgium,Wallonia,Home,0,5,No,0,Website,Other
+C0842,Individual,0,Keith,Morales,27-02-1996,30,M,USA,Washington,Home,0,5,Yes,1,Client,First-Time Buyer
+C0843,Individual,0,Amanda,Hansen,04-12-2000,25,F,USA,Georgia,Home,0,4,No,0,Agency,Other
+C0844,Individual,0,Margaret,Scott,13-06-1947,78,F,USA,California,Home,0,2,No,0,Website,Other
+C0845,Individual,0,Ashley,Long,05-09-1993,32,F,USA,Washington,Home,0,3,No,0,Client,Other
+C0846,Individual,0,Martha,Harris,15-05-1976,49,F,Canada,Quebec,Investment,1,3,No,0,Agency,Global Investor
+C0847,Individual,0,Nicole,James,27-02-1988,38,F,USA,Utah,Home,0,2,Yes,1,Agency,First-Time Buyer
+C0848,Individual,0,Aaron,Hughes,22-11-1967,58,M,USA,California,Home,0,4,No,0,Agency,Other
+C0849,Individual,0,Brian,Wilson,11-04-1977,49,M,USA,Oregon,Home,0,1,Yes,1,Website,Other
+C0850,Individual,0,Judy,Stone,13-11-1983,42,F,USA,Colorado,Investment,1,5,No,0,Agency,Luxury Investor
+C0851,Individual,0,Kyle,White,16-05-1993,32,M,USA,California,Investment,1,2,Yes,1,Website,Other
+C0852,Individual,0,Carl,Brown,20-07-1989,36,M,Germany,North Rhine-Westphalia,Home,0,2,No,0,Agency,Other
+C0853,Individual,0,Gerald,Bryant,07-08-1950,75,M,USA,Utah,Home,0,4,No,0,Website,Other
+C0854,Individual,0,David,Reyes,13-02-1944,82,M,USA,California,Home,0,4,No,0,Website,Other
+C0855,Individual,0,Amanda,Foster,10-03-1973,53,F,Australia,Queensland,Home,0,4,No,0,Website,Other
+C0856,Individual,0,Janice,Chavez,16-08-1964,61,F,USA,Florida,Home,0,5,Yes,1,Website,Other
+C0857,Individual,0,Danielle,Ward,11-05-1951,74,F,USA,California,Investment,1,1,Yes,1,Website,Other
+C0858,Individual,0,Samuel,Howard,12-07-1994,31,M,USA,Nevada,Home,0,1,No,0,Website,Other
+C0859,Individual,0,Megan,Anderson,03-12-1942,83,F,USA,California,Home,0,2,Yes,1,Agency,Other
+C0860,Individual,0,Virginia,Morales,09-07-1968,57,F,USA,Utah,Home,0,5,Yes,1,Website,Other
+C0861,Individual,0,Christine,Peterson,04-08-1994,31,F,France,Brittany,Investment,1,2,No,0,Agency,Global Investor
+C0862,Individual,0,Amanda,Jordan,14-06-1981,44,F,USA,Colorado,Investment,1,1,No,0,Website,Other
+C0863,Individual,0,Brandon,Peterson,20-04-1975,51,M,Belgium,Wallonia,Home,0,5,Yes,1,Agency,Other
+C0864,Individual,0,Noah,Kim,07-07-1970,55,M,USA,Texas,Home,0,3,No,0,Website,Other
+C0865,Individual,0,Rebecca,Gray,20-05-1975,50,F,USA,Colorado,Investment,1,5,Yes,1,Website,Other
+C0866,Individual,0,Lawrence,Bryant,27-11-1987,38,M,Belgium,Brussels,Home,0,3,No,0,Agency,Other
+C0867,Individual,0,Julia,Davis,12-04-1967,59,F,USA,California,Home,0,2,No,0,Agency,Other
+C0868,Individual,0,Victoria,Rogers,21-02-1945,81,F,USA,Florida,Home,0,3,Yes,1,Agency,Other
+C0869,Individual,0,Jose,Roberts,07-03-1993,33,M,USA,California,Home,0,4,No,0,Agency,Other
+C0870,Company,0,Harmon,Co,01-09-1966,59,F,UK,Northern Ireland,Home,0,2,Yes,1,Website,Corporate Buyer
+C0871,Individual,0,Pamela,Pierce,28-11-1989,36,F,USA,Virginia,Home,0,1,Yes,1,Website,First-Time Buyer
+C0872,Individual,0,Sarah,Bennett,22-06-1943,82,F,UK,England,Home,0,4,No,0,Website,Other
+C0873,Individual,0,Gerald,Murray,09-09-1940,85,M,USA,New York,Home,0,2,No,0,Website,Other
+C0874,Individual,0,Debra,Murray,26-07-1953,72,F,Belgium,Flanders,Investment,1,2,No,0,Website,Global Investor
+C0875,Individual,0,Jeffrey,Evans,09-07-1972,53,M,Canada,Manitoba,Home,0,4,No,0,Website,Other
+C0876,Individual,0,Benjamin,Chavez,22-08-1973,52,M,USA,California,Home,0,3,No,0,Client,Other
+C0877,Individual,0,Jennifer,Weaver,22-12-1998,27,F,USA,Utah,Investment,1,2,Yes,1,Agency,Other
+C0878,Individual,0,Ashley,Hansen,28-04-1945,80,F,USA,Nevada,Home,0,4,Yes,1,Website,Other
+C0879,Individual,0,Brandon,Adams,15-03-1945,81,M,UK,Northern Ireland,Home,0,4,Yes,1,Website,Other
+C0880,Individual,0,Judith,Bennett,23-06-1941,84,F,USA,New York,Home,0,2,No,0,Website,Other
+C0881,Individual,0,Ruth,Weaver,24-09-1954,71,F,USA,Colorado,Investment,1,1,No,0,Website,Other
+C0882,Individual,0,Peter,Moore,07-07-2000,25,M,UK,Wales,Home,0,3,No,0,Website,Other
+C0883,Individual,0,Gerald,Thompson,22-10-1946,79,M,USA,Texas,Home,0,4,No,0,Client,Other
+C0884,Individual,0,Joe,Reed,07-05-1949,76,M,USA,Nevada,Home,0,2,No,0,Website,Other
+C0885,Individual,0,Michael,Williams,21-09-1941,84,M,Canada,British Columbia,Investment,1,2,Yes,1,Agency,Global Investor
+C0886,Individual,0,Joseph,Brooks,20-07-1961,64,M,USA,California,Home,0,3,Yes,1,Agency,Other
+C0887,Individual,0,Joan,Bryant,23-04-1993,32,F,USA,California,Home,0,3,No,0,Agency,Other
+C0888,Individual,0,Sharon,Montgomery,24-05-1987,38,F,Germany,Berlin,Home,0,4,Yes,1,Website,First-Time Buyer
+C0889,Individual,0,Scott,Campbell,15-10-1985,40,M,USA,Nevada,Investment,1,4,Yes,1,Website,Other
+C0890,Individual,0,Julie,Nelson,23-07-1955,70,F,USA,Virginia,Investment,1,3,Yes,1,Website,Other
+C0891,Individual,0,Raymond,Roberts,20-06-1970,55,M,Germany,North Rhine-Westphalia,Investment,1,1,Yes,1,Website,Global Investor
+C0892,Individual,0,Helen,Watson,05-06-1958,67,F,USA,California,Investment,1,2,Yes,1,Website,Other
+C0893,Individual,0,Evelyn,Thompson,23-06-1995,30,F,USA,Colorado,Home,0,3,Yes,1,Website,First-Time Buyer
+C0894,Individual,0,Carl,Evans,14-06-1953,72,M,USA,Georgia,Home,0,5,No,0,Website,Other
+C0895,Individual,0,Amanda,Rogers,25-08-1953,72,F,USA,Arizona,Investment,1,4,Yes,1,Website,Other
+C0896,Individual,0,Timothy,Jones,06-05-1970,55,M,France,Brittany,Home,0,4,Yes,1,Agency,Other
+C0897,Individual,0,Ann,Foster,04-08-1971,54,F,Australia,Victoria,Home,0,1,No,0,Website,Other
+C0898,Individual,0,Deborah,King,27-09-1953,72,F,USA,Arizona,Investment,1,5,Yes,1,Agency,Other
+C0899,Company,0,Apex,Co,26-06-1988,37,F,USA,Washington,Investment,1,2,No,0,Website,Corporate Buyer
+C0900,Individual,0,Betty,Cook,22-05-1999,26,F,Germany,North Rhine-Westphalia,Home,0,4,No,0,Agency,Other
+C0901,Individual,0,Gregory,Allen,15-02-1999,27,M,France,Brittany,Investment,1,4,No,0,Agency,Global Investor
+C0902,Company,0,Peerex,Co,11-02-1964,62,F,UK,Northern Ireland,Home,0,3,Yes,1,Agency,Corporate Buyer
+C0903,Individual,0,Christine,Morales,28-04-1992,33,F,USA,Texas,Investment,1,3,No,0,Website,Other
+C0904,Individual,0,Nancy,Brooks,08-03-1984,42,F,Russia,Saint Petersburg,Home,0,1,Yes,1,Website,Other
+C0905,Individual,0,Emma,Allen,16-05-1993,32,F,USA,Virginia,Home,0,5,Yes,1,Website,First-Time Buyer
+C0906,Individual,0,Jacqueline,Baker,13-08-1969,56,F,USA,California,Investment,1,5,No,0,Website,Luxury Investor
+C0907,Individual,0,Danielle,Scott,14-11-1973,52,F,USA,California,Home,0,3,No,0,Agency,Other
+C0908,Individual,0,Carl,Kim,17-11-1960,65,M,USA,California,Home,0,4,Yes,1,Agency,Other
+C0909,Individual,0,Brandon,Turner,10-07-1967,58,M,USA,California,Investment,1,1,Yes,1,Agency,Other
+C0910,Individual,0,Victoria,Jackson,24-11-1971,54,F,USA,Texas,Home,0,3,Yes,1,Agency,Other
+C0911,Individual,0,Donald,Long,27-03-1989,37,M,USA,California,Home,0,4,No,0,Website,Other
+C0912,Individual,0,Christina,Freeman,11-05-1949,76,F,USA,California,Home,0,1,No,0,Agency,Other
+C0913,Individual,0,Nathan,Hansen,13-01-1999,27,M,USA,California,Home,0,4,No,0,Agency,Other
+C0914,Individual,0,Helen,Freeman,12-10-1948,77,F,France,Provence,Investment,1,4,No,0,Website,Global Investor
+C0915,Individual,0,Ronald,Harris,23-01-1948,78,M,USA,Florida,Home,0,2,No,0,Agency,Other
+C0916,Individual,0,Nathan,Hansen,10-02-1988,38,M,Russia,Moscow Oblast,Home,0,2,No,0,Website,Other
+C0917,Individual,0,Kenneth,Hughes,01-08-1969,56,M,USA,Arizona,Home,0,2,Yes,1,Agency,Other
+C0918,Individual,0,Susan,Cook,21-02-2000,26,F,Australia,Western Australia,Home,0,4,No,0,Client,Other
+C0919,Individual,0,Barbara,Foster,17-08-1975,50,F,Canada,Quebec,Investment,1,5,No,0,Agency,Luxury Investor
+C0920,Individual,0,Christian,Williams,11-10-1973,52,M,USA,California,Home,0,4,No,0,Website,Other
+C0921,Individual,0,Christina,Reyes,10-03-1999,27,F,Australia,New South Wales,Home,0,4,No,0,Agency,Other
+C0922,Individual,0,Joe,Bell,28-10-1942,83,M,Australia,Victoria,Investment,1,4,Yes,1,Website,Global Investor
+C0923,Individual,0,Ruth,Richardson,26-08-1950,75,F,USA,Oregon,Home,0,3,No,0,Client,Other
+C0924,Individual,0,Emily,Wright,20-03-1988,38,F,USA,California,Home,0,4,No,0,Website,Other
+C0925,Individual,0,Michael,Ward,12-05-1944,81,M,Germany,Hamburg,Home,0,2,No,0,Website,Other
+C0926,Individual,0,Lauren,Harris,04-04-1961,65,F,USA,California,Home,0,3,No,0,Website,Other
+C0927,Individual,0,Carol,Hayes,04-11-1962,63,F,France,Ile-de-France,Home,0,4,No,0,Client,Other
+C0928,Individual,0,Jordan,Jordan,27-02-1950,76,M,USA,California,Home,0,1,Yes,1,Agency,Other
+C0929,Individual,0,Jack,Hall,23-05-1954,71,M,USA,Washington,Home,0,4,No,0,Website,Other
+C0930,Individual,0,Debra,Moore,15-04-1993,33,F,USA,Washington,Investment,1,1,Yes,1,Agency,Other
+C0931,Individual,0,Daniel,Parker,25-12-1977,48,M,USA,Nevada,Investment,1,2,Yes,1,Client,Other
+C0932,Individual,0,Kathleen,Moore,14-07-1949,76,F,USA,New York,Home,0,5,No,0,Website,Other
+C0933,Individual,0,Kimberly,Johnson,03-09-1955,70,F,USA,California,Home,0,4,No,0,Website,Other
+C0934,Individual,0,Barbara,Allen,02-10-1943,82,F,UK,Northern Ireland,Investment,1,5,Yes,1,Website,Global Investor
+C0935,Individual,0,Katherine,Cooper,17-05-2000,25,F,Canada,Manitoba,Home,0,4,No,0,Agency,Other
+C0936,Individual,0,Carolyn,Brooks,10-04-1951,75,F,USA,California,Home,0,3,No,0,Client,Other
+C0937,Individual,0,Gerald,Chavez,03-04-1982,44,M,USA,Arizona,Home,0,5,No,0,Client,Other
+C0938,Individual,0,William,Chavez,08-05-1963,62,M,Russia,Krasnodar Krai,Home,0,4,No,0,Website,Other
+C0939,Individual,0,Anna,Alexander,02-02-1978,48,F,Belgium,Brussels,Investment,1,1,No,0,Website,Global Investor
+C0940,Individual,0,Kyle,Bell,19-12-1985,40,M,USA,Virginia,Investment,1,5,No,0,Website,Luxury Investor
+C0941,Individual,0,Grace,Moore,17-07-1955,70,F,Mexico,Jalisco,Home,0,1,No,0,Agency,Other
+C0942,Individual,0,Joan,Jackson,14-12-1991,34,F,USA,California,Home,0,1,No,0,Website,Other
+C0943,Individual,0,Karen,Cox,13-09-1957,68,F,Canada,Manitoba,Investment,1,5,No,0,Website,Luxury Investor
+C0944,Individual,0,Virginia,Hughes,24-08-1956,69,F,USA,Florida,Home,0,2,No,0,Website,Other
+C0945,Individual,0,Emily,Hayes,04-09-1945,80,F,France,Provence,Home,0,4,No,0,Website,Other
+C0946,Individual,0,Ashley,Weaver,04-07-1946,79,F,USA,Nevada,Investment,1,3,Yes,1,Agency,Other
+C0947,Individual,0,Samantha,Cox,16-05-1981,44,F,USA,Texas,Home,0,2,No,0,Website,Other
+C0948,Individual,0,Emma,Nelson,16-12-1989,36,F,USA,California,Investment,1,3,Yes,1,Website,Other
+C0949,Individual,0,Julia,Price,26-06-1943,82,F,USA,Colorado,Investment,1,5,Yes,1,Client,Other
+C0950,Individual,0,Christina,Price,11-12-1991,34,F,USA,Texas,Investment,1,5,No,0,Website,Luxury Investor
+C0951,Individual,0,Rachel,Chavez,15-11-1998,27,F,Mexico,Nuevo Leon,Home,0,1,Yes,1,Client,First-Time Buyer
+C0952,Individual,0,Ann,Martin,03-09-1959,66,F,USA,Oregon,Home,0,5,No,0,Website,Other
+C0953,Company,0,Helios,Co,22-10-1995,30,M,USA,Washington,Home,0,5,Yes,1,Website,Corporate Buyer
+C0954,Individual,0,Michael,Evans,08-04-1950,76,M,France,Brittany,Investment,1,4,Yes,1,Agency,Global Investor
+C0955,Individual,0,Megan,Garcia,11-01-1969,57,F,USA,California,Home,0,1,No,0,Website,Other
+C0956,Individual,0,Donald,Jackson,10-03-1966,60,M,USA,California,Home,0,1,Yes,1,Website,Other
+C0957,Company,0,Crestwood,Co,21-05-1961,64,M,USA,Oregon,Home,0,2,Yes,1,Client,Corporate Buyer
+C0958,Individual,0,Betty,Rogers,11-07-1991,34,F,USA,Nevada,Home,0,1,Yes,1,Website,First-Time Buyer
+C0959,Individual,0,Carl,Hayes,13-09-1952,73,M,USA,California,Home,0,3,No,0,Agency,Other
+C0960,Individual,0,Linda,Bennett,01-04-1960,66,F,USA,Arizona,Investment,1,1,Yes,1,Client,Other
+C0961,Individual,0,Brandon,Morales,03-08-1974,51,M,UK,Wales,Home,0,2,Yes,1,Website,Other
+C0962,Individual,0,Nicholas,Hansen,18-07-1940,85,M,USA,California,Home,0,4,No,0,Website,Other
+C0963,Individual,0,James,Davis,09-08-1941,84,M,Canada,Alberta,Home,0,4,No,0,Agency,Other
+C0964,Individual,0,Elizabeth,Hall,19-09-1953,72,F,USA,California,Home,0,4,No,0,Website,Other
+C0965,Individual,0,Lauren,Adams,26-09-1961,64,F,USA,New York,Investment,1,3,No,0,Website,Other
+C0966,Company,0,Corvus,Co,11-10-1995,30,M,USA,California,Investment,1,3,No,0,Website,Corporate Buyer
+C0967,Individual,0,Jennifer,Moore,20-01-1959,67,F,USA,California,Home,0,2,No,0,Agency,Other
+C0968,Individual,0,Julie,Hansen,21-11-1995,30,F,USA,Arizona,Home,0,4,No,0,Website,Other
+C0969,Individual,0,Amber,Ward,27-03-1976,50,F,Russia,Tatarstan,Investment,1,1,Yes,1,Agency,Global Investor
+C0970,Individual,0,Peter,Johnson,01-12-1986,39,M,Denmark,North Denmark,Home,0,3,Yes,1,Website,First-Time Buyer
+C0971,Individual,0,Cynthia,Mitchell,02-06-1969,56,F,USA,Colorado,Investment,1,5,Yes,1,Website,Other
+C0972,Individual,0,Sandra,Evans,16-09-1964,61,F,USA,Arizona,Home,0,5,No,0,Agency,Other
+C0973,Individual,0,Charles,Stone,03-12-1992,33,M,USA,California,Investment,1,2,No,0,Client,Other
+C0974,Individual,0,Michael,Hansen,22-05-1961,64,M,USA,New York,Home,0,1,No,0,Agency,Other
+C0975,Individual,0,Gregory,Reyes,09-07-1946,79,M,USA,Utah,Home,0,4,No,0,Website,Other
+C0976,Individual,0,Ryan,Miller,18-07-1983,42,M,USA,California,Home,0,4,Yes,1,Website,Other
+C0977,Individual,0,Ryan,James,07-04-1996,30,M,USA,California,Home,0,1,No,0,Agency,Other
+C0978,Individual,0,Lauren,Brown,11-11-1963,62,F,USA,California,Home,0,4,Yes,1,Website,Other
+C0979,Individual,0,Madison,Roberts,25-02-1940,86,F,Canada,Quebec,Investment,1,4,No,0,Website,Global Investor
+C0980,Individual,0,Daniel,Davis,13-01-1942,84,M,USA,New York,Investment,1,1,Yes,1,Website,Other
+C0981,Individual,0,Jessica,Stewart,14-11-1961,64,F,USA,California,Investment,1,1,No,0,Website,Other
+C0982,Individual,0,Joyce,Jackson,08-07-1961,64,F,Canada,Manitoba,Investment,1,5,Yes,1,Agency,Global Investor
+C0983,Individual,0,Brittany,Freeman,21-06-1994,31,F,Germany,North Rhine-Westphalia,Home,0,4,No,0,Website,Other
+C0984,Individual,0,Mark,Johnson,03-12-1962,63,M,Canada,British Columbia,Home,0,5,Yes,1,Agency,Other
+C0985,Individual,0,Ruth,Griffin,15-10-1954,71,F,USA,California,Home,0,1,Yes,1,Website,Other
+C0986,Individual,0,Jacqueline,Ward,18-10-1981,44,F,Russia,Saint Petersburg,Home,0,2,No,0,Website,Other
+C0987,Individual,0,Maria,Johnson,22-10-1967,58,F,Germany,North Rhine-Westphalia,Home,0,1,Yes,1,Agency,Other
+C0988,Individual,0,Douglas,Cooper,21-04-1988,37,M,USA,Texas,Home,0,3,Yes,1,Agency,First-Time Buyer
+C0989,Individual,0,Amber,Cook,19-10-1946,79,F,USA,Oregon,Home,0,4,No,0,Website,Other
+C0990,Individual,0,Carl,Carter,21-01-1942,84,M,USA,Utah,Home,0,4,No,0,Website,Other
+C0991,Individual,0,Heather,Adams,27-03-1975,51,F,USA,Nevada,Home,0,1,No,0,Website,Other
+C0992,Individual,0,Scott,Hughes,19-11-1988,37,M,Denmark,Capital Region,Home,0,1,Yes,1,Website,First-Time Buyer
+C0993,Individual,0,Ryan,Campbell,11-03-1954,72,M,USA,California,Home,0,2,Yes,1,Website,Other
+C0994,Individual,0,Michael,Moore,26-11-1976,49,M,USA,California,Home,0,3,No,0,Website,Other
+C0995,Individual,0,Amanda,Kim,14-10-1949,76,F,Australia,New South Wales,Home,0,1,Yes,1,Website,Other
+C0996,Individual,0,Terry,Howard,11-06-1956,69,M,Canada,Manitoba,Home,0,2,Yes,1,Client,Other
+C0997,Individual,0,Terry,Collins,11-03-1950,76,M,USA,California,Investment,1,3,Yes,1,Agency,Other
+C0998,Company,0,Grandis,Co,06-05-1969,56,F,USA,Virginia,Home,0,4,No,0,Agency,Corporate Buyer
+C0999,Individual,0,Jacqueline,Cox,15-09-1969,56,F,USA,California,Investment,1,3,No,0,Agency,Other
+C1000,Individual,0,Judith,Parker,21-07-1963,62,F,USA,Utah,Home,0,2,Yes,1,Website,Other
+C1001,Individual,0,Aaron,Nelson,13-07-1981,44,M,USA,California,Home,0,3,No,0,Website,Other
+C1002,Individual,0,Scott,Hughes,08-06-1967,58,M,USA,California,Home,0,5,No,0,Website,Other
+C1003,Individual,0,Lauren,Bennett,11-08-1977,48,F,USA,Nevada,Home,0,2,No,0,Website,Other
+C1004,Individual,0,Alexander,Anderson,17-09-1982,43,M,USA,Oregon,Home,0,3,Yes,1,Website,Other
+C1005,Individual,0,Barbara,Chavez,07-06-1988,37,F,Germany,Hamburg,Home,0,3,No,0,Client,Other
+C1006,Individual,0,Stephanie,Weaver,24-12-1992,33,F,USA,Georgia,Home,0,1,No,0,Website,Other
+C1007,Individual,0,Joyce,Brooks,25-10-1948,77,F,UK,England,Home,0,4,No,0,Agency,Other
+C1008,Company,0,Sterling,Co,02-10-1987,38,M,USA,California,Home,0,2,No,0,Website,Corporate Buyer
+C1009,Individual,0,Evelyn,Bell,11-02-1950,76,F,USA,Nevada,Investment,1,4,Yes,1,Agency,Other
+C1010,Individual,0,Dennis,Moore,10-03-1964,62,M,Mexico,Jalisco,Home,0,4,No,0,Website,Other
+C1011,Individual,0,Virginia,Brooks,18-12-1952,73,F,USA,California,Investment,1,1,No,0,Website,Other
+C1012,Individual,0,Raymond,Morales,20-10-1960,65,M,USA,New York,Home,0,4,Yes,1,Website,Other
+C1013,Individual,0,Stephanie,Patterson,19-06-1994,31,F,USA,Oregon,Home,0,1,Yes,1,Website,First-Time Buyer
+C1014,Individual,0,David,Weaver,06-01-1969,57,M,USA,California,Home,0,3,Yes,1,Website,Other
+C1015,Individual,0,Kyle,Davis,01-09-1977,48,M,USA,California,Home,0,4,Yes,1,Website,Other
+C1016,Individual,0,Andrea,Wilson,05-04-1976,50,F,USA,California,Home,0,4,Yes,1,Agency,Other
+C1017,Individual,0,Megan,Baker,22-12-1968,57,F,USA,California,Home,0,1,Yes,1,Agency,Other
+C1018,Individual,0,Tiffany,Turner,19-06-1967,58,F,USA,Colorado,Home,0,5,Yes,1,Client,Other
+C1019,Individual,0,Carolyn,Stewart,27-10-1975,50,F,USA,Nevada,Home,0,2,No,0,Client,Other
+C1020,Individual,0,Deborah,Morales,23-07-1994,31,F,USA,California,Home,0,3,No,0,Agency,Other
+C1021,Individual,0,Jeffrey,Bryant,04-09-1974,51,M,USA,California,Investment,1,1,No,0,Client,Other
+C1022,Individual,0,Christina,King,17-04-1984,42,F,USA,Colorado,Home,0,1,No,0,Agency,Other
+C1023,Individual,0,Heather,Bell,28-07-1953,72,F,USA,Nevada,Home,0,1,Yes,1,Website,Other
+C1024,Individual,0,Gregory,Long,03-08-1969,56,M,USA,Arizona,Investment,1,2,No,0,Agency,Other
+C1025,Individual,0,Michelle,King,20-01-1947,79,F,USA,California,Home,0,1,No,0,Client,Other
+C1026,Individual,0,Robert,Parker,12-08-1991,34,M,USA,California,Investment,1,1,No,0,Agency,Other
+C1027,Individual,0,Gerald,White,10-12-1976,49,M,USA,California,Investment,1,1,Yes,1,Client,Other
+C1028,Individual,0,Nicholas,Cox,07-04-1942,84,M,USA,California,Home,0,1,Yes,1,Website,Other
+C1029,Individual,0,Ryan,Jackson,06-11-1949,76,M,Australia,Victoria,Home,0,1,No,0,Agency,Other
+C1030,Individual,0,Christine,Owens,20-04-1960,66,F,USA,Ohio,Home,0,4,No,0,Website,Other
+C1031,Individual,0,Alexander,Reed,13-01-1989,37,M,UK,England,Home,0,1,No,0,Website,Other
+C1032,Individual,0,Larry,Freeman,03-01-1977,49,M,USA,Nevada,Home,0,5,No,0,Website,Other
+C1033,Individual,0,Eric,Jackson,21-06-1962,63,M,France,Ile-de-France,Home,0,2,No,0,Website,Other
+C1034,Individual,0,Andrea,Wilson,20-01-1979,47,F,USA,Colorado,Home,0,5,No,0,Client,Other
+C1035,Individual,0,Jacob,Williams,10-02-1961,65,M,USA,Virginia,Home,0,2,No,0,Website,Other
+C1036,Individual,0,Martha,Collins,13-03-1988,38,F,USA,Oregon,Home,0,2,No,0,Agency,Other
+C1037,Company,0,Corvus,Co,02-01-1970,56,M,Mexico,Baja California,Home,0,2,Yes,1,Website,Corporate Buyer
+C1038,Individual,0,Gerald,Gray,25-05-1959,66,M,USA,California,Investment,1,3,No,0,Website,Other
+C1039,Individual,0,Nicholas,Carter,17-07-1962,63,M,USA,California,Home,0,1,Yes,1,Agency,Other
+C1040,Individual,0,Joseph,Young,05-04-1940,86,M,USA,California,Investment,1,5,Yes,1,Website,Other
+C1041,Individual,0,Evelyn,Morris,07-12-1990,35,F,USA,Nevada,Home,0,5,Yes,1,Website,First-Time Buyer
+C1042,Individual,0,Rebecca,Parker,03-08-1945,80,F,USA,Nevada,Home,0,2,No,0,Agency,Other
+C1043,Individual,0,Carol,Griffin,14-07-1999,26,F,USA,Washington,Home,0,5,No,0,Website,Other
+C1044,Individual,0,Eric,Howard,15-05-1971,54,M,USA,Nevada,Investment,1,5,No,0,Website,Luxury Investor
+C1045,Individual,0,Rebecca,Allen,01-04-1942,84,F,USA,New York,Home,0,3,No,0,Website,Other
+C1046,Individual,0,Maria,Wood,21-05-1969,56,F,Canada,Quebec,Home,0,4,Yes,1,Website,Other
+C1047,Individual,0,Ronald,Reyes,12-12-1984,41,M,USA,Virginia,Home,0,3,No,0,Website,Other
+C1048,Individual,0,Angela,Turner,27-01-1970,56,F,USA,Oregon,Investment,1,1,No,0,Agency,Other
+C1049,Individual,0,Tiffany,Sanders,05-11-1940,85,F,USA,California,Investment,1,5,No,0,Website,Luxury Investor
+C1050,Individual,0,Tyler,Watson,03-10-1955,70,M,USA,Georgia,Home,0,4,Yes,1,Website,Other
+C1051,Individual,0,Cheryl,Hansen,19-07-1958,67,F,USA,Virginia,Home,0,1,Yes,1,Agency,Other
+C1052,Individual,0,Kimberly,Parker,24-04-1953,72,F,USA,Utah,Home,0,1,Yes,1,Agency,Other
+C1053,Individual,0,Adam,Kim,10-11-1974,51,M,Mexico,Nuevo Leon,Home,0,2,Yes,1,Website,Other
+C1054,Individual,0,Edward,Foster,04-09-1989,36,M,USA,Arizona,Home,0,2,Yes,1,Website,First-Time Buyer
+C1055,Individual,0,Jonathan,Bennett,20-11-1972,53,M,USA,New York,Investment,1,2,Yes,1,Website,Other
+C1056,Individual,0,Larry,Wilson,19-01-1979,47,M,USA,Colorado,Home,0,1,Yes,1,Website,Other
+C1057,Individual,0,Jesse,Garcia,17-04-1994,32,M,USA,Nevada,Investment,1,5,No,0,Website,Luxury Investor
+C1058,Individual,0,Rachel,Weaver,12-06-1973,52,F,Germany,Bavaria,Home,0,3,Yes,1,Website,Other
+C1059,Individual,0,Danielle,Davis,26-06-1978,47,F,USA,California,Home,0,4,No,0,Website,Other
+C1060,Individual,0,Christian,Evans,25-12-1940,85,M,USA,Nevada,Home,0,5,No,0,Agency,Other
+C1061,Individual,0,Stephanie,Smith,01-06-1960,65,F,UK,Scotland,Home,0,1,No,0,Website,Other
+C1062,Individual,0,Billy,Foster,20-12-1975,50,M,USA,California,Home,0,4,No,0,Agency,Other
+C1063,Individual,0,Nicole,Weaver,05-12-1988,37,F,USA,New York,Investment,1,5,Yes,1,Website,Other
+C1064,Individual,0,Brandon,Pierce,06-08-1945,80,M,USA,California,Home,0,5,Yes,1,Website,Other
+C1065,Individual,0,Mark,Reyes,06-01-1955,71,M,USA,Georgia,Home,0,3,Yes,1,Client,Other
+C1066,Individual,0,Ashley,Moore,21-09-1941,84,F,Australia,Victoria,Home,0,1,No,0,Website,Other
+C1067,Individual,0,Samuel,Howard,24-12-1942,83,M,Mexico,Jalisco,Investment,1,4,No,0,Agency,Global Investor
+C1068,Individual,0,Kathleen,Carter,10-02-1984,42,F,USA,California,Home,0,3,No,0,Agency,Other
+C1069,Individual,0,Lawrence,Cox,13-06-1992,33,M,USA,Virginia,Home,0,3,Yes,1,Agency,First-Time Buyer
+C1070,Individual,0,Virginia,Rogers,26-06-1951,74,F,Germany,Bavaria,Home,0,5,No,0,Agency,Other
+C1071,Individual,0,Aaron,Johnson,11-08-1966,59,M,USA,Texas,Home,0,2,No,0,Agency,Other
+C1072,Individual,0,Kimberly,Jones,10-06-1962,63,F,USA,Utah,Home,0,3,No,0,Agency,Other
+C1073,Individual,0,Carl,Collins,02-07-1955,70,M,USA,California,Investment,1,2,No,0,Website,Other
+C1074,Individual,0,George,Foster,10-07-1954,71,M,UK,Northern Ireland,Home,0,1,No,0,Website,Other
+C1075,Individual,0,Carolyn,Watson,17-02-1975,51,F,Mexico,Baja California,Home,0,3,No,0,Website,Other
+C1076,Individual,0,Betty,Thompson,28-10-1980,45,F,USA,Florida,Investment,1,3,No,0,Agency,Other
+C1077,Individual,0,Peter,Griffin,07-03-1982,44,M,USA,Texas,Investment,1,2,No,0,Agency,Other
+C1078,Individual,0,Joshua,Howard,22-07-1940,85,M,USA,Ohio,Home,0,1,No,0,Agency,Other
+C1079,Individual,0,Steven,Hayes,19-06-1959,66,M,USA,California,Investment,1,4,Yes,1,Website,Other
+C1080,Individual,0,Hannah,Stewart,06-10-1956,69,F,UK,England,Investment,1,4,No,0,Agency,Global Investor
+C1081,Company,0,Meridian,Co,08-09-1974,51,M,Russia,Novosibirsk,Home,0,4,Yes,1,Agency,Corporate Buyer
+C1082,Individual,0,Patricia,Martin,04-02-1993,33,F,USA,Oregon,Investment,1,5,Yes,1,Website,Other
+C1083,Individual,0,Pamela,Jackson,06-10-1950,75,F,USA,Colorado,Investment,1,4,No,0,Agency,Other
+C1084,Individual,0,Sarah,Hansen,27-07-1989,36,F,France,Ile-de-France,Home,0,4,No,0,Agency,Other
+C1085,Individual,0,Sarah,Flores,18-10-1947,78,F,Australia,Queensland,Investment,1,1,No,0,Client,Global Investor
+C1086,Individual,0,Timothy,Montgomery,01-03-1956,70,M,USA,Colorado,Home,0,1,Yes,1,Website,Other
+C1087,Individual,0,Matthew,Owens,03-01-1984,42,M,USA,Colorado,Home,0,3,No,0,Website,Other
+C1088,Individual,0,Nicholas,Stewart,26-09-1998,27,M,USA,Utah,Home,0,4,Yes,1,Agency,First-Time Buyer
+C1089,Individual,0,Madison,Ward,17-09-1962,63,F,USA,Utah,Home,0,1,Yes,1,Website,Other
+C1090,Individual,0,Laura,Moore,07-09-1962,63,F,Canada,Alberta,Home,0,3,Yes,1,Client,Other
+C1091,Individual,0,Arthur,Phillips,21-07-1984,41,M,USA,Nevada,Home,0,1,Yes,1,Agency,Other
+C1092,Individual,0,Terry,Adams,24-11-1996,29,M,USA,Oregon,Investment,1,2,No,0,Website,Other
+C1093,Individual,0,Adam,Allen,13-07-1980,45,M,USA,Oregon,Home,0,1,Yes,1,Website,Other
+C1094,Individual,0,Sarah,Cook,12-02-1960,66,F,USA,Washington,Home,0,2,Yes,1,Website,Other
+C1095,Individual,0,Cynthia,Howard,26-02-1940,86,F,USA,California,Home,0,3,No,0,Agency,Other
+C1096,Individual,0,Grace,Edwards,20-05-1965,60,F,USA,New York,Home,0,2,No,0,Client,Other
+C1097,Individual,0,Teresa,Pierce,16-07-1962,63,F,Canada,Alberta,Home,0,3,Yes,1,Agency,Other
+C1098,Individual,0,Paul,Young,24-10-1976,49,M,USA,California,Investment,1,3,No,0,Client,Other
+C1099,Individual,0,Joan,Scott,26-06-1972,53,F,USA,Colorado,Home,0,3,No,0,Agency,Other
+C1100,Individual,0,Frank,Thomas,14-05-1940,85,M,Russia,Novosibirsk,Home,0,1,No,0,Website,Other
+C1101,Individual,0,Matthew,King,03-01-1964,62,M,Belgium,Flanders,Home,0,5,No,0,Website,Other
+C1102,Company,0,Harmon,Co,06-05-1960,65,M,Germany,Berlin,Home,0,2,No,0,Agency,Corporate Buyer
+C1103,Individual,0,Jose,Johnson,27-04-1961,64,M,Belgium,Wallonia,Home,0,4,No,0,Agency,Other
+C1104,Individual,0,Christian,Weaver,15-10-1998,27,M,USA,Utah,Investment,1,5,Yes,1,Website,Other
+C1105,Individual,0,Roger,Ward,14-01-1940,86,M,USA,Nevada,Home,0,3,Yes,1,Website,Other
+C1106,Individual,0,Sean,Martin,16-05-1982,43,M,USA,California,Home,0,1,No,0,Agency,Other
+C1107,Individual,0,Frank,Hayes,15-01-1948,78,M,Canada,British Columbia,Home,0,1,No,0,Website,Other
+C1108,Individual,0,Helen,Ward,12-01-1994,32,F,Australia,South Australia,Home,0,4,No,0,Website,Other
+C1109,Individual,0,Rebecca,Anderson,05-09-1967,58,F,USA,California,Home,0,1,Yes,1,Client,Other
+C1110,Individual,0,Harold,Watson,12-05-1977,48,M,USA,New York,Home,0,5,Yes,1,Website,Other
+C1111,Company,0,Corvus,Co,23-01-1967,59,M,USA,California,Home,0,4,Yes,1,Website,Corporate Buyer
+C1112,Individual,0,Donald,Green,05-01-1982,44,M,USA,Nevada,Investment,1,3,Yes,1,Website,Other
+C1113,Individual,0,Brenda,Martin,18-08-1974,51,F,USA,Texas,Investment,1,2,No,0,Client,Other
+C1114,Individual,0,Cheryl,Wood,04-02-1992,34,F,USA,California,Home,0,3,No,0,Website,Other
+C1115,Individual,0,Joseph,Bell,24-10-1973,52,M,USA,Colorado,Home,0,3,Yes,1,Agency,Other
+C1116,Individual,0,Angela,Freeman,17-12-1991,34,F,USA,California,Home,0,1,Yes,1,Agency,First-Time Buyer
+C1117,Individual,0,Rebecca,Patterson,23-02-1955,71,F,Mexico,Mexico City,Home,0,5,Yes,1,Website,Other
+C1118,Company,0,Caldera,Co,26-04-1969,56,M,UK,Scotland,Investment,1,2,Yes,1,Website,Corporate Buyer
+C1119,Individual,0,Larry,Green,14-03-1941,85,M,USA,Oregon,Home,0,1,Yes,1,Website,Other
+C1120,Individual,0,Kathleen,Carter,16-07-1979,46,F,USA,Arizona,Home,0,1,No,0,Website,Other
+C1121,Individual,0,Carolyn,Gray,02-06-1985,40,F,USA,California,Home,0,1,No,0,Client,Other
+C1122,Individual,0,Judith,Evans,04-10-1942,83,F,USA,California,Home,0,4,No,0,Website,Other
+C1123,Individual,0,Robert,Pierce,11-03-1951,75,M,USA,Virginia,Home,0,5,No,0,Agency,Other
+C1124,Individual,0,Sharon,Murray,04-02-1976,50,F,USA,Oregon,Investment,1,5,Yes,1,Website,Other
+C1125,Individual,0,Ronald,Price,03-02-1941,85,M,USA,Oregon,Home,0,3,No,0,Agency,Other
+C1126,Company,0,Elara,Co,16-02-1983,43,M,USA,Virginia,Home,0,1,Yes,1,Website,Corporate Buyer
+C1127,Individual,0,Ann,Cooper,15-06-1943,82,F,UK,England,Investment,1,1,No,0,Website,Global Investor
+C1128,Individual,0,Brian,Montgomery,05-12-1983,42,M,USA,California,Investment,1,1,No,0,Website,Other
+C1129,Individual,0,Martha,Hansen,03-09-1945,80,F,USA,Colorado,Investment,1,5,No,0,Agency,Luxury Investor
+C1130,Individual,0,Tiffany,Parker,01-03-1987,39,F,USA,Arizona,Home,0,5,No,0,Website,Other
+C1131,Individual,0,Cheryl,Kim,28-05-1984,41,F,USA,California,Investment,1,3,No,0,Website,Other
+C1132,Individual,0,Terry,Roberts,21-01-1982,44,M,USA,New York,Home,0,2,Yes,1,Website,Other
+C1133,Individual,0,Jason,Hansen,21-01-1993,33,M,USA,Oregon,Investment,1,3,No,0,Website,Other
+C1134,Individual,0,Dorothy,Bennett,10-10-1943,82,F,USA,California,Investment,1,1,No,0,Website,Other
+C1135,Individual,0,Melissa,Phillips,22-09-1999,26,F,Russia,Moscow Oblast,Investment,1,5,Yes,1,Client,Global Investor
+C1136,Individual,0,Shirley,Weaver,27-04-1965,60,F,USA,California,Home,0,3,Yes,1,Agency,Other
+C1137,Individual,0,Carol,Price,24-12-1986,39,F,USA,Nevada,Home,0,4,Yes,1,Agency,First-Time Buyer
+C1138,Individual,0,George,Green,24-08-1964,61,M,USA,Oregon,Home,0,1,No,0,Website,Other
+C1139,Individual,0,Tiffany,Green,03-03-1996,30,F,USA,California,Home,0,4,Yes,1,Client,First-Time Buyer
+C1140,Individual,0,Billy,Jackson,01-07-1976,49,M,USA,Florida,Home,0,1,Yes,1,Website,Other
+C1141,Individual,0,Kimberly,Montgomery,26-01-2000,26,F,USA,Arizona,Investment,1,3,No,0,Website,Other
+C1142,Individual,0,Julia,Hughes,10-03-1948,78,F,USA,Colorado,Home,0,2,Yes,1,Agency,Other
+C1143,Individual,0,Michael,Garcia,10-09-1994,31,M,USA,Arizona,Home,0,2,Yes,1,Website,First-Time Buyer
+C1144,Individual,0,Diane,Young,10-11-1978,47,F,USA,Georgia,Investment,1,4,No,0,Client,Other
+C1145,Individual,0,Ethan,King,04-04-1993,33,M,USA,Nevada,Home,0,5,No,0,Website,Other
+C1146,Individual,0,Richard,Weaver,14-03-1991,35,M,USA,California,Investment,1,2,No,0,Website,Other
+C1147,Individual,0,Brittany,Edwards,09-02-1978,48,F,USA,Utah,Home,0,3,No,0,Website,Other
+C1148,Individual,0,Joshua,Rogers,15-07-1991,34,M,Australia,New South Wales,Home,0,1,Yes,1,Agency,First-Time Buyer
+C1149,Individual,0,Kimberly,Thomas,06-03-1980,46,F,Russia,Tatarstan,Home,0,3,No,0,Agency,Other
+C1150,Individual,0,Tiffany,Cook,08-11-1992,33,F,USA,Nevada,Investment,1,4,No,0,Agency,Other
+C1151,Individual,0,Tyler,Anderson,14-12-1963,62,M,USA,Arizona,Investment,1,2,No,0,Website,Other
+C1152,Individual,0,Jason,Williams,16-09-1977,48,M,USA,Georgia,Home,0,1,No,0,Website,Other
+C1153,Individual,0,Scott,Sanders,14-09-1991,34,M,USA,California,Home,0,1,No,0,Website,Other
+C1154,Individual,0,Jerry,Brown,12-07-1956,69,M,USA,Utah,Home,0,5,Yes,1,Agency,Other
+C1155,Individual,0,William,Young,03-03-1977,49,M,USA,California,Home,0,5,No,0,Website,Other
+C1156,Individual,0,Dorothy,Kim,16-05-1956,69,F,USA,Virginia,Home,0,4,No,0,Agency,Other
+C1157,Individual,0,Kenneth,Davis,02-11-1944,81,M,Canada,Alberta,Investment,1,2,No,0,Website,Global Investor
+C1158,Individual,0,Joan,Pierce,19-05-1955,70,F,USA,California,Investment,1,2,No,0,Website,Other
+C1159,Individual,0,Gerald,Howard,24-03-1940,86,M,USA,Nevada,Investment,1,1,Yes,1,Website,Other
+C1160,Individual,0,Walter,Griffin,21-11-1980,45,M,USA,Florida,Home,0,2,Yes,1,Website,Other
+C1161,Individual,0,Stephen,White,12-02-1994,32,M,Canada,Alberta,Investment,1,3,Yes,1,Website,Global Investor
+C1162,Individual,0,Charles,Nelson,25-01-1962,64,M,USA,California,Investment,1,2,No,0,Website,Other
+C1163,Individual,0,Noah,Morales,26-10-1998,27,M,USA,California,Home,0,3,Yes,1,Website,First-Time Buyer
+C1164,Individual,0,Emma,Watson,11-04-1968,58,F,Belgium,Wallonia,Home,0,3,Yes,1,Agency,Other
+C1165,Individual,0,Victoria,Alexander,26-09-1994,31,F,Russia,Moscow Oblast,Home,0,1,No,0,Website,Other
+C1166,Individual,0,Scott,Hall,15-11-1991,34,M,USA,New York,Investment,1,1,No,0,Website,Other
+C1167,Individual,0,Kevin,Alexander,20-12-1967,58,M,UK,Scotland,Home,0,3,No,0,Website,Other
+C1168,Individual,0,Brittany,Reyes,25-12-1998,27,F,Germany,Hamburg,Home,0,2,Yes,1,Agency,First-Time Buyer
+C1169,Individual,0,Noah,Bryant,05-01-1994,32,M,Russia,Saint Petersburg,Home,0,5,Yes,1,Agency,First-Time Buyer
+C1170,Individual,0,Amanda,Collins,09-02-1990,36,F,USA,Nevada,Home,0,1,Yes,1,Website,First-Time Buyer
+C1171,Individual,0,Anna,Patterson,21-08-1984,41,F,USA,California,Investment,1,4,Yes,1,Website,Other
+C1172,Individual,0,Victoria,Freeman,05-11-1942,83,F,USA,Nevada,Home,0,5,No,0,Website,Other
+C1173,Individual,0,Cheryl,Price,02-11-1984,41,F,Canada,Manitoba,Investment,1,1,No,0,Website,Global Investor
+C1174,Individual,0,Kenneth,White,06-07-1982,43,M,USA,Nevada,Home,0,2,No,0,Agency,Other
+C1175,Individual,0,Evelyn,Long,27-09-1959,66,F,USA,California,Home,0,2,No,0,Website,Other
+C1176,Individual,0,Lauren,Baker,03-06-1975,50,F,USA,California,Investment,1,4,Yes,1,Agency,Other
+C1177,Individual,0,Larry,Sanders,05-09-1998,27,M,USA,California,Investment,1,2,No,0,Agency,Other
+C1178,Individual,0,Jessica,Richardson,16-07-1950,75,F,USA,California,Home,0,1,No,0,Agency,Other
+C1179,Individual,0,Melissa,Anderson,09-02-1991,35,F,USA,California,Home,0,4,No,0,Agency,Other
+C1180,Individual,0,Deborah,Miller,11-07-1995,30,F,Belgium,Brussels,Home,0,2,Yes,1,Website,First-Time Buyer
+C1181,Individual,0,Judith,Hansen,23-03-1956,70,F,USA,Nevada,Investment,1,5,No,0,Website,Luxury Investor
+C1182,Individual,0,Christopher,Murray,11-03-1961,65,M,Germany,Bavaria,Investment,1,3,Yes,1,Website,Global Investor
+C1183,Individual,0,Carl,Rogers,14-11-1993,32,M,USA,Arizona,Investment,1,1,No,0,Website,Other
+C1184,Individual,0,David,Nelson,14-04-1953,73,M,France,Ile-de-France,Home,0,2,No,0,Website,Other
+C1185,Individual,0,Ronald,Peterson,27-06-2000,25,M,USA,California,Home,0,3,No,0,Website,Other
+C1186,Individual,0,Victoria,Bennett,27-06-1978,47,F,USA,Nevada,Home,0,3,Yes,1,Website,Other
+C1187,Individual,0,Melissa,Pierce,18-03-1962,64,F,USA,Nevada,Home,0,4,No,0,Website,Other
+C1188,Individual,0,Matthew,White,01-11-1995,30,M,Canada,Alberta,Home,0,1,No,0,Client,Other
+C1189,Individual,0,Peter,Alexander,22-01-1963,63,M,USA,Florida,Home,0,2,Yes,1,Client,Other
+C1190,Individual,0,Sandra,Baker,04-08-1946,79,F,USA,Texas,Home,0,4,No,0,Client,Other
+C1191,Individual,0,Mary,Cox,17-04-1950,76,F,USA,California,Investment,1,3,No,0,Website,Other
+C1192,Individual,0,Adam,Jones,05-01-2000,26,M,USA,Florida,Home,0,5,No,0,Website,Other
+C1193,Individual,0,Amy,Owens,20-04-1975,51,F,UK,England,Home,0,1,No,0,Website,Other
+C1194,Individual,0,Melissa,Brooks,17-06-1943,82,F,USA,Colorado,Home,0,1,No,0,Website,Other
+C1195,Individual,0,Anna,Pierce,07-06-1990,35,F,USA,California,Home,0,4,Yes,1,Agency,First-Time Buyer
+C1196,Individual,0,William,Freeman,03-09-1955,70,M,USA,Nevada,Home,0,2,No,0,Agency,Other
+C1197,Individual,0,Deborah,Roberts,10-04-1959,67,F,USA,Arizona,Home,0,4,No,0,Website,Other
+C1198,Individual,0,Lisa,Young,21-01-1960,66,F,USA,New York,Home,0,1,No,0,Agency,Other
+C1199,Individual,0,Justin,Campbell,03-03-1943,83,M,USA,Colorado,Home,0,2,No,0,Website,Other
+C1200,Individual,0,Henry,Taylor,03-11-1969,56,M,USA,Utah,Home,0,4,No,0,Agency,Other
+C1201,Individual,0,Timothy,Stewart,22-03-2000,26,M,USA,Oregon,Investment,1,1,Yes,1,Website,Other
+C1202,Company,0,Telnox,Co,09-05-1985,40,M,Canada,Quebec,Investment,1,5,Yes,1,Website,Corporate Buyer
+C1203,Individual,0,Ashley,Green,18-01-1962,64,F,USA,Arizona,Home,0,2,Yes,1,Website,Other
+C1204,Individual,0,William,Reed,03-04-1992,34,M,Mexico,Puebla,Investment,1,2,Yes,1,Website,Global Investor
+C1205,Individual,0,Patrick,Pierce,15-05-1959,66,M,Belgium,Flanders,Home,0,4,No,0,Website,Other
+C1206,Individual,0,Melissa,Baker,09-12-1957,68,F,USA,California,Investment,1,5,No,0,Website,Luxury Investor
+C1207,Individual,0,Lauren,Price,24-10-1973,52,F,USA,Texas,Home,0,5,Yes,1,Agency,Other
+C1208,Individual,0,Noah,Ward,27-11-1977,48,M,USA,Colorado,Home,0,1,No,0,Website,Other
+C1209,Individual,0,Tiffany,Kim,01-07-1978,47,F,USA,California,Home,0,4,Yes,1,Website,Other
+C1210,Individual,0,Dennis,Cox,04-06-1991,34,M,USA,California,Investment,1,1,No,0,Website,Other
+C1211,Individual,0,Kathleen,Owens,10-07-1996,29,F,Canada,British Columbia,Home,0,5,Yes,1,Website,First-Time Buyer
+C1212,Individual,0,Lawrence,Gray,11-07-1957,68,M,USA,California,Home,0,1,No,0,Agency,Other
+C1213,Individual,0,Ruth,Martin,06-08-1993,32,F,Canada,Manitoba,Home,0,5,No,0,Website,Other
+C1214,Individual,0,Jennifer,Peterson,10-08-2000,25,F,USA,Florida,Home,0,1,No,0,Agency,Other
+C1215,Individual,0,Charles,Patterson,24-07-1994,31,M,USA,California,Home,0,3,No,0,Website,Other
+C1216,Individual,0,Martha,Jordan,10-07-1997,28,F,France,Normandy,Home,0,4,No,0,Website,Other
+C1217,Individual,0,William,Carter,05-01-1997,29,M,USA,California,Investment,1,4,Yes,1,Website,Other
+C1218,Individual,0,Teresa,Smith,28-12-1941,84,F,USA,California,Home,0,1,Yes,1,Website,Other
+C1219,Individual,0,Danielle,Howard,06-12-1983,42,F,USA,Arizona,Home,0,1,Yes,1,Website,Other
+C1220,Individual,0,Christina,Martin,08-09-1967,58,F,USA,Colorado,Investment,1,4,Yes,1,Website,Other
+C1221,Individual,0,Cynthia,Thomas,23-05-1984,41,F,USA,Nevada,Investment,1,2,No,0,Agency,Other
+C1222,Individual,0,Christopher,Taylor,07-01-1969,57,M,USA,Utah,Home,0,4,No,0,Website,Other
+C1223,Individual,0,Sharon,Stone,17-09-1952,73,F,USA,Washington,Home,0,4,No,0,Website,Other
+C1224,Individual,0,Paul,Carter,13-06-1942,83,M,USA,New York,Investment,1,5,Yes,1,Client,Other
+C1225,Individual,0,Larry,James,10-11-1990,35,M,USA,Oregon,Home,0,2,No,0,Website,Other
+C1226,Individual,0,Michael,Sanders,01-05-1989,36,M,USA,Utah,Home,0,4,No,0,Website,Other
+C1227,Individual,0,Alexander,Reyes,13-03-1987,39,M,USA,Colorado,Home,0,3,Yes,1,Agency,First-Time Buyer
+C1228,Individual,0,Joseph,Howard,07-07-1954,71,M,USA,California,Home,0,2,No,0,Website,Other
+C1229,Individual,0,Madison,Reyes,02-11-1994,31,F,UK,Scotland,Home,0,1,Yes,1,Website,First-Time Buyer
+C1230,Individual,0,Lawrence,Parker,18-02-1985,41,M,USA,California,Home,0,5,No,0,Client,Other
+C1231,Individual,0,Betty,Carter,09-12-1954,71,F,USA,California,Home,0,2,No,0,Agency,Other
+C1232,Individual,0,Mary,Jackson,23-09-1989,36,F,Canada,British Columbia,Home,0,3,No,0,Website,Other
+C1233,Individual,0,Brian,Scott,05-08-1979,46,M,USA,Utah,Home,0,4,No,0,Website,Other
+C1234,Individual,0,Karen,King,20-01-1957,69,F,USA,Colorado,Investment,1,1,No,0,Website,Other
+C1235,Individual,0,Michael,Morales,27-05-1957,68,M,USA,Arizona,Home,0,2,No,0,Website,Other
+C1236,Individual,0,Brandon,Cook,24-08-1972,53,M,USA,Arizona,Home,0,4,Yes,1,Website,Other
+C1237,Individual,0,Helen,Cook,25-09-1943,82,F,UK,Wales,Investment,1,4,Yes,1,Website,Global Investor
+C1238,Individual,0,Joshua,Bennett,22-04-1946,79,M,USA,Nevada,Home,0,1,Yes,1,Agency,Other
+C1239,Individual,0,Catherine,Adams,07-02-1953,73,F,USA,Oregon,Home,0,3,No,0,Agency,Other
+C1240,Individual,0,Gloria,Wright,12-11-1984,41,F,USA,Nevada,Investment,1,4,Yes,1,Website,Other
+C1241,Individual,0,Danielle,Martin,19-08-1973,52,F,USA,California,Home,0,1,No,0,Agency,Other
+C1242,Individual,0,Gerald,Collins,22-09-1961,64,M,USA,California,Home,0,3,Yes,1,Website,Other
+C1243,Individual,0,Jeffrey,Edwards,04-10-1948,77,M,USA,Colorado,Home,0,1,No,0,Website,Other
+C1244,Individual,0,Joseph,Phillips,10-06-1992,33,M,USA,Utah,Investment,1,5,Yes,1,Website,Other
+C1245,Individual,0,Edward,Reyes,10-02-1963,63,M,USA,California,Home,0,3,Yes,1,Agency,Other
+C1246,Individual,0,Joyce,Jackson,10-05-1943,82,F,Canada,Alberta,Home,0,2,No,0,Agency,Other
+C1247,Individual,0,Judy,Moore,09-04-1957,69,F,USA,Nevada,Investment,1,2,No,0,Website,Other
+C1248,Individual,0,Sara,Scott,04-07-1976,49,F,USA,Arizona,Home,0,3,No,0,Agency,Other
+C1249,Individual,0,Janet,James,14-07-1971,54,F,USA,California,Investment,1,1,No,0,Website,Other
+C1250,Individual,0,Jordan,Stewart,19-04-1950,76,M,USA,Nevada,Home,0,5,No,0,Agency,Other
+C1251,Individual,0,Aaron,Thompson,01-11-1975,50,M,USA,Texas,Investment,1,5,No,0,Website,Luxury Investor
+C1252,Individual,0,Margaret,Cook,27-02-1962,64,F,USA,Arizona,Home,0,3,Yes,1,Website,Other
+C1253,Individual,0,Jason,Flores,24-09-1991,34,M,USA,California,Home,0,2,No,0,Agency,Other
+C1254,Individual,0,Ethan,Freeman,04-04-1956,70,M,USA,California,Home,0,5,Yes,1,Agency,Other
+C1255,Individual,0,Mark,Patterson,15-09-1999,26,M,USA,California,Home,0,3,No,0,Agency,Other
+C1256,Company,0,Triton,Co,18-02-1972,54,F,USA,California,Investment,1,4,No,0,Agency,Corporate Buyer
+C1257,Individual,0,Michael,Scott,22-12-1991,34,M,USA,California,Home,0,5,Yes,1,Agency,First-Time Buyer
+C1258,Individual,0,Betty,Stone,22-06-1969,56,F,USA,Nevada,Home,0,1,No,0,Website,Other
+C1259,Individual,0,William,Edwards,19-02-1971,55,M,USA,California,Investment,1,3,Yes,1,Agency,Other
+C1260,Individual,0,Elizabeth,Ward,24-08-1992,33,F,USA,California,Home,0,2,No,0,Agency,Other
+C1261,Individual,0,Patrick,Kim,03-09-1976,49,M,USA,Utah,Home,0,3,No,0,Client,Other
+C1262,Individual,0,Dorothy,Evans,10-11-1950,75,F,USA,California,Investment,1,4,No,0,Agency,Other
+C1263,Individual,0,Lawrence,Alexander,17-11-1951,74,M,USA,California,Investment,1,3,No,0,Agency,Other
+C1264,Individual,0,Sarah,Garcia,06-12-1999,26,F,USA,California,Investment,1,1,No,0,Agency,Other
+C1265,Individual,0,Gary,White,24-03-1943,83,M,USA,Washington,Home,0,1,Yes,1,Agency,Other
+C1266,Individual,0,Christopher,Hughes,20-06-1952,73,M,UK,England,Home,0,2,No,0,Website,Other
+C1267,Individual,0,Dorothy,Peterson,07-04-1965,61,F,USA,Colorado,Home,0,3,Yes,1,Website,Other
+C1268,Individual,0,Gloria,Green,01-10-1995,30,F,UK,Northern Ireland,Investment,1,1,Yes,1,Website,Global Investor
+C1269,Individual,0,Jack,Bennett,28-09-1964,61,M,USA,California,Home,0,5,No,0,Website,Other
+C1270,Individual,0,Cheryl,Ward,18-10-1978,47,F,USA,Texas,Home,0,4,No,0,Agency,Other
+C1271,Individual,0,Noah,Anderson,10-09-1992,33,M,USA,California,Home,0,2,Yes,1,Agency,First-Time Buyer
+C1272,Individual,0,Ryan,Collins,13-05-1941,84,M,France,Occitanie,Home,0,1,Yes,1,Website,Other
+C1273,Individual,0,Gerald,Jordan,13-05-1968,57,M,Canada,Alberta,Home,0,5,No,0,Website,Other
+C1274,Individual,0,Linda,Jones,09-07-1979,46,F,USA,California,Investment,1,1,Yes,1,Website,Other
+C1275,Individual,0,Jessica,Roberts,26-02-1969,57,F,USA,Georgia,Investment,1,1,No,0,Website,Other
+C1276,Individual,0,Arthur,Griffin,09-03-1940,86,M,Australia,Victoria,Home,0,1,Yes,1,Agency,Other
+C1277,Individual,0,Lauren,Griffin,01-04-1981,45,F,USA,California,Investment,1,2,No,0,Agency,Other
+C1278,Individual,0,Arthur,Griffin,25-07-1997,28,M,USA,Utah,Home,0,4,No,0,Website,Other
+C1279,Individual,0,Peter,Martin,12-10-1943,82,M,USA,California,Home,0,4,Yes,1,Website,Other
+C1280,Individual,0,Jacob,Bennett,19-09-1953,72,M,USA,Texas,Home,0,2,Yes,1,Website,Other
+C1281,Individual,0,Deborah,Edwards,12-06-1998,27,F,Canada,Manitoba,Investment,1,2,Yes,1,Website,Global Investor
+C1282,Individual,0,Ashley,Taylor,18-05-1996,29,F,USA,Colorado,Investment,1,3,Yes,1,Agency,Other
+C1283,Individual,0,Janice,Collins,08-11-1945,80,F,USA,New York,Home,0,3,No,0,Agency,Other
+C1284,Individual,0,Patrick,Bennett,16-10-1955,70,M,USA,California,Home,0,2,No,0,Website,Other
+C1285,Individual,0,Steven,Cox,02-03-1954,72,M,USA,Utah,Home,0,4,Yes,1,Website,Other
+C1286,Individual,0,Stephen,Evans,10-07-1963,62,M,USA,California,Home,0,5,No,0,Agency,Other
+C1287,Individual,0,Diane,Hughes,07-04-1998,28,F,USA,California,Investment,1,4,No,0,Website,Other
+C1288,Individual,0,Sean,Cooper,20-01-1941,85,M,Belgium,Wallonia,Home,0,3,No,0,Agency,Other
+C1289,Individual,0,Samuel,Freeman,26-07-1973,52,M,Mexico,Jalisco,Investment,1,1,Yes,1,Agency,Global Investor
+C1290,Individual,0,Teresa,Long,24-10-1973,52,F,USA,Washington,Home,0,3,Yes,1,Website,Other
+C1291,Individual,0,Paul,Johnson,09-11-1983,42,M,USA,California,Investment,1,5,Yes,1,Website,Other
+C1292,Individual,0,Jordan,Evans,22-05-1977,48,M,USA,Texas,Investment,1,5,Yes,1,Website,Other
+C1293,Individual,0,Anna,Wright,01-08-1972,53,F,USA,California,Home,0,1,No,0,Agency,Other
+C1294,Individual,0,Henry,Davis,09-02-1963,63,M,Canada,Ontario,Investment,1,3,Yes,1,Agency,Global Investor
+C1295,Individual,0,Anna,Bryant,21-04-1992,33,F,USA,California,Investment,1,1,Yes,1,Website,Other
+C1296,Individual,0,Keith,Hughes,02-06-1963,62,M,USA,Virginia,Home,0,1,No,0,Website,Other
+C1297,Company,0,Vertex,Co,06-09-1983,42,M,Germany,Berlin,Home,0,5,No,0,Website,Corporate Buyer
+C1298,Individual,0,Margaret,Taylor,04-08-1968,57,F,USA,California,Home,0,2,No,0,Agency,Other
+C1299,Individual,0,Karen,James,05-05-1944,81,F,USA,California,Investment,1,3,No,0,Website,Other
+C1300,Individual,0,Judith,Collins,06-01-1961,65,F,USA,California,Home,0,2,No,0,Website,Other
+C1301,Individual,0,Benjamin,Hayes,17-12-1955,70,M,USA,Virginia,Home,0,2,No,0,Agency,Other
+C1302,Individual,0,Jerry,Anderson,19-04-1996,30,M,USA,Arizona,Investment,1,5,No,0,Website,Luxury Investor
+C1303,Individual,0,Christian,Miller,22-08-1962,63,M,USA,Arizona,Home,0,3,Yes,1,Website,Other
+C1304,Individual,0,Angela,Cook,08-06-1985,40,F,USA,California,Investment,1,1,No,0,Website,Other
+C1305,Individual,0,Catherine,Anderson,17-09-1978,47,F,USA,Georgia,Home,0,4,No,0,Website,Other
+C1306,Individual,0,Kathleen,Morales,18-03-1948,78,F,USA,Washington,Home,0,5,No,0,Website,Other
+C1307,Individual,0,Rachel,Rogers,14-02-1993,33,F,USA,Colorado,Home,0,5,No,0,Agency,Other
+C1308,Individual,0,Timothy,Sanders,04-03-2000,26,M,USA,California,Investment,1,5,No,0,Agency,Luxury Investor
+C1309,Individual,0,David,Reyes,06-12-1999,26,M,USA,California,Home,0,5,No,0,Website,Other
+C1310,Individual,0,Ann,Roberts,04-05-1955,70,F,USA,New York,Home,0,5,No,0,Agency,Other
+C1311,Individual,0,Christopher,Ward,14-08-1940,85,M,UK,England,Home,0,4,Yes,1,Client,Other
+C1312,Individual,0,Timothy,Stone,03-09-1942,83,M,USA,New York,Home,0,5,No,0,Website,Other
+C1313,Individual,0,Heather,Reed,17-03-1972,54,F,Australia,Western Australia,Investment,1,3,No,0,Website,Global Investor
+C1314,Individual,0,Rachel,Miller,17-09-1964,61,F,USA,Arizona,Home,0,3,No,0,Website,Other
+C1315,Individual,0,Joshua,Garcia,24-12-1948,77,M,USA,Colorado,Home,0,3,No,0,Agency,Other
+C1316,Individual,0,Emma,King,09-05-1993,32,F,USA,Colorado,Home,0,2,Yes,1,Website,First-Time Buyer
+C1317,Company,0,Atlas,Co,27-11-1973,52,M,USA,Utah,Home,0,2,Yes,1,Website,Corporate Buyer
+C1318,Individual,0,William,Montgomery,18-01-1943,83,M,USA,Texas,Home,0,1,No,0,Website,Other
+C1319,Individual,0,Grace,James,17-08-1954,71,F,USA,Florida,Home,0,3,Yes,1,Client,Other
+C1320,Individual,0,Peter,Reyes,03-05-1969,56,M,USA,California,Investment,1,1,No,0,Website,Other
+C1321,Individual,0,Christopher,Reed,11-09-1990,35,M,USA,Colorado,Investment,1,5,No,0,Client,Luxury Investor
+C1322,Individual,0,Barbara,Reyes,26-12-1994,31,F,USA,California,Home,0,5,No,0,Agency,Other
+C1323,Individual,0,Nicholas,Moore,28-07-1963,62,M,USA,Utah,Home,0,3,No,0,Website,Other
+C1324,Individual,0,Carl,Edwards,21-04-1992,33,M,USA,Arizona,Investment,1,2,Yes,1,Agency,Other
+C1325,Individual,0,George,Jones,09-12-1974,51,M,Canada,Alberta,Home,0,5,Yes,1,Agency,Other
+C1326,Individual,0,Brandon,Mitchell,22-05-1944,81,M,USA,Colorado,Investment,1,4,No,0,Website,Other
+C1327,Individual,0,Betty,Carter,14-05-1993,32,F,USA,California,Home,0,4,Yes,1,Website,First-Time Buyer
+C1328,Individual,0,Sandra,Cooper,23-07-1956,69,F,USA,Washington,Home,0,4,No,0,Website,Other
+C1329,Individual,0,Scott,Parker,28-04-1968,57,M,USA,California,Investment,1,3,Yes,1,Agency,Other
+C1330,Individual,0,Kelly,James,02-05-1975,50,F,USA,Colorado,Investment,1,2,No,0,Agency,Other
+C1331,Individual,0,Christina,Bennett,06-10-1986,39,F,USA,California,Investment,1,1,No,0,Agency,Other
+C1332,Individual,0,Michael,Howard,11-12-1995,30,M,USA,Washington,Investment,1,5,Yes,1,Agency,Other
+C1333,Individual,0,Jack,Hansen,27-03-1988,38,M,USA,Nevada,Investment,1,2,Yes,1,Website,Other
+C1334,Individual,0,Victoria,Nelson,08-12-1965,60,F,USA,California,Home,0,5,Yes,1,Agency,Other
+C1335,Individual,0,Elizabeth,Hall,01-05-1982,43,F,USA,Oregon,Investment,1,2,Yes,1,Website,Other
+C1336,Individual,0,Joyce,Thompson,09-12-1948,77,F,USA,California,Home,0,5,No,0,Client,Other
+C1337,Individual,0,Jennifer,Johnson,20-09-1953,72,F,USA,California,Investment,1,5,No,0,Website,Luxury Investor
+C1338,Individual,0,Christine,James,01-12-1968,57,F,USA,California,Home,0,2,Yes,1,Website,Other
+C1339,Company,0,Rexon,Co,24-02-1961,65,M,USA,Nevada,Home,0,4,Yes,1,Website,Corporate Buyer
+C1340,Company,0,Forsyte,Co,05-12-1988,37,M,USA,Colorado,Home,0,5,No,0,Website,Corporate Buyer
+C1341,Individual,0,Julie,Cox,23-09-1952,73,F,USA,Colorado,Home,0,5,Yes,1,Website,Other
+C1342,Individual,0,Maria,Griffin,21-02-1964,62,F,USA,California,Home,0,1,Yes,1,Agency,Other
+C1343,Individual,0,Megan,Turner,13-03-1995,31,F,Canada,Ontario,Home,0,5,No,0,Agency,Other
+C1344,Individual,0,Carl,Phillips,24-05-1974,51,M,USA,Florida,Home,0,1,No,0,Agency,Other
+C1345,Individual,0,Mary,Parker,25-04-1956,69,F,USA,Texas,Home,0,5,No,0,Website,Other
+C1346,Company,0,Triton,Co,18-03-1987,39,F,USA,Colorado,Investment,1,4,No,0,Agency,Corporate Buyer
+C1347,Individual,0,Mark,James,13-02-1956,70,M,USA,Washington,Home,0,2,No,0,Client,Other
+C1348,Individual,0,Peter,Harris,16-07-1998,27,M,USA,Oregon,Home,0,4,Yes,1,Client,First-Time Buyer
+C1349,Individual,0,Joyce,Johnson,14-02-1982,44,F,USA,Virginia,Investment,1,3,No,0,Website,Other
+C1350,Individual,0,Julia,King,17-05-1991,34,F,Germany,Hamburg,Home,0,5,No,0,Website,Other
+C1351,Individual,0,Judith,Long,24-06-1987,38,F,Australia,South Australia,Home,0,2,No,0,Client,Other
+C1352,Individual,0,Benjamin,Gray,16-03-1989,37,M,USA,California,Home,0,2,Yes,1,Agency,First-Time Buyer
+C1353,Individual,0,Debra,Jackson,15-10-1997,28,F,Canada,Alberta,Home,0,1,No,0,Agency,Other
+C1354,Individual,0,Patrick,Johnson,09-04-1941,85,M,USA,Florida,Home,0,5,No,0,Website,Other
+C1355,Individual,0,Shirley,Owens,22-11-1966,59,F,USA,California,Investment,1,2,Yes,1,Client,Other
+C1356,Individual,0,Jonathan,Morales,26-03-1994,32,M,USA,Oregon,Investment,1,4,No,0,Agency,Other
+C1357,Individual,0,Danielle,Patterson,01-03-1987,39,F,USA,California,Home,0,5,Yes,1,Website,First-Time Buyer
+C1358,Individual,0,Gregory,Taylor,05-01-1943,83,M,USA,Texas,Home,0,4,No,0,Agency,Other
+C1359,Individual,0,Gary,Owens,25-07-1975,50,M,USA,Virginia,Home,0,3,No,0,Agency,Other
+C1360,Individual,0,Billy,Nelson,27-11-1990,35,M,USA,Virginia,Home,0,4,No,0,Agency,Other
+C1361,Individual,0,Ashley,Owens,21-07-1943,82,F,USA,California,Home,0,3,No,0,Client,Other
+C1362,Individual,0,Laura,Jordan,13-04-1965,61,F,USA,California,Investment,1,1,Yes,1,Agency,Other
+C1363,Individual,0,James,Stone,04-06-1981,44,M,USA,Georgia,Home,0,5,Yes,1,Agency,Other
+C1364,Individual,0,Andrea,Watson,23-12-1998,27,F,USA,California,Investment,1,1,No,0,Website,Other
+C1365,Individual,0,Tiffany,Sanders,16-03-1969,57,F,Belgium,Brussels,Investment,1,5,Yes,1,Website,Global Investor
+C1366,Individual,0,George,Thompson,27-07-1995,30,M,USA,California,Home,0,1,No,0,Website,Other
+C1367,Individual,0,Stephanie,Jordan,11-01-1953,73,F,Germany,Berlin,Home,0,2,No,0,Client,Other
+C1368,Individual,0,Jose,Gray,22-11-1947,78,M,USA,California,Home,0,5,Yes,1,Client,Other
+C1369,Individual,0,Peter,Garcia,07-10-1983,42,M,France,Brittany,Home,0,4,Yes,1,Agency,Other
+C1370,Individual,0,Frank,Evans,04-06-1965,60,M,USA,Colorado,Investment,1,1,No,0,Agency,Other
+C1371,Individual,0,Timothy,Thomas,19-06-1989,36,M,UK,England,Home,0,2,Yes,1,Website,First-Time Buyer
+C1372,Individual,0,Lisa,Turner,21-11-1981,44,F,USA,Washington,Investment,1,2,No,0,Website,Other
+C1373,Individual,0,Melissa,Evans,11-10-1992,33,F,USA,California,Home,0,3,Yes,1,Website,First-Time Buyer
+C1374,Company,0,Quasar,Co,25-01-1990,36,M,France,Ile-de-France,Home,0,3,Yes,1,Agency,Corporate Buyer
+C1375,Individual,0,Carolyn,Flores,22-11-1972,53,F,USA,California,Investment,1,4,Yes,1,Agency,Other
+C1376,Individual,0,Carolyn,Edwards,23-06-1987,38,F,USA,Arizona,Investment,1,3,Yes,1,Agency,Other
+C1377,Individual,0,Laura,Long,04-01-1984,42,F,USA,Utah,Investment,1,2,No,0,Website,Other
+C1378,Individual,0,Maria,Morales,19-11-1976,49,F,USA,California,Investment,1,1,No,0,Website,Other
+C1379,Individual,0,Kevin,Gray,11-06-1970,55,M,UK,Scotland,Home,0,2,No,0,Website,Other
+C1380,Individual,0,Michael,Hughes,15-10-1949,76,M,Canada,Alberta,Investment,1,4,No,0,Website,Global Investor
+C1381,Individual,0,Eric,Cox,16-06-1962,63,M,Germany,Hesse,Home,0,3,Yes,1,Website,Other
+C1382,Individual,0,Adam,James,19-05-1951,74,M,USA,Oregon,Home,0,2,No,0,Website,Other
+C1383,Individual,0,Noah,Moore,11-11-1992,33,M,USA,California,Home,0,2,No,0,Agency,Other
+C1384,Individual,0,Mary,Young,10-03-1988,38,F,USA,California,Home,0,2,Yes,1,Agency,First-Time Buyer
+C1385,Individual,0,Kenneth,Owens,01-06-1946,79,M,USA,California,Home,0,1,No,0,Agency,Other
+C1386,Individual,0,Harold,Howard,23-08-1947,78,M,USA,Washington,Home,0,4,Yes,1,Website,Other
+C1387,Individual,0,Jose,Reed,27-05-1943,82,M,Germany,Hamburg,Investment,1,4,No,0,Website,Global Investor
+C1388,Individual,0,Hannah,Stone,20-04-1999,27,F,USA,Washington,Home,0,3,No,0,Website,Other
+C1389,Individual,0,Jordan,Montgomery,03-07-1952,73,M,UK,Scotland,Home,0,2,No,0,Website,Other
+C1390,Individual,0,Lauren,Thomas,21-07-1979,46,F,USA,Nevada,Home,0,3,No,0,Website,Other
+C1391,Individual,0,Barbara,Campbell,06-03-1974,52,F,USA,Utah,Home,0,1,No,0,Website,Other
+C1392,Individual,0,Jose,Johnson,05-06-1990,35,M,USA,Colorado,Home,0,4,Yes,1,Agency,First-Time Buyer
+C1393,Individual,0,Virginia,Miller,09-07-1981,44,F,Mexico,Baja California,Investment,1,1,No,0,Agency,Global Investor
+C1394,Individual,0,Debra,Hansen,26-02-1977,49,F,USA,Nevada,Home,0,4,No,0,Website,Other
+C1395,Individual,0,Megan,Campbell,27-09-1988,37,F,Canada,Alberta,Investment,1,4,No,0,Website,Global Investor
+C1396,Individual,0,Steven,Foster,02-06-1971,54,M,Canada,Manitoba,Investment,1,3,Yes,1,Website,Global Investor
+C1397,Individual,0,Linda,Chavez,10-03-1983,43,F,USA,Nevada,Home,0,4,No,0,Website,Other
+C1398,Individual,0,Alexander,Jones,13-12-1966,59,M,USA,California,Home,0,5,Yes,1,Website,Other
+C1399,Individual,0,Lauren,Evans,23-08-1978,47,F,Canada,British Columbia,Home,0,5,No,0,Agency,Other
+C1400,Individual,0,Maria,Jones,24-10-1991,34,F,UK,Northern Ireland,Home,0,4,No,0,Client,Other
+C1401,Individual,0,Virginia,Brooks,24-03-1999,27,F,USA,Virginia,Investment,1,1,No,0,Website,Other
+C1402,Individual,0,Helen,Jordan,28-09-1968,57,F,USA,Utah,Home,0,3,No,0,Agency,Other
+C1403,Individual,0,Pamela,Scott,22-09-1983,42,F,USA,Oregon,Home,0,2,No,0,Website,Other
+C1404,Individual,0,Sharon,Williams,22-07-1950,75,F,USA,California,Home,0,4,No,0,Agency,Other
+C1405,Individual,0,Ryan,Williams,08-06-1955,70,M,USA,Oregon,Home,0,5,No,0,Agency,Other
+C1406,Individual,0,Sara,Wood,01-09-1970,55,F,USA,California,Home,0,3,No,0,Website,Other
+C1407,Individual,0,Sharon,Hansen,22-03-1956,70,F,USA,California,Home,0,1,No,0,Agency,Other
+C1408,Company,0,Grandis,Co,13-11-1963,62,F,USA,California,Home,0,2,No,0,Agency,Corporate Buyer
+C1409,Individual,0,Katherine,Price,01-08-1957,68,F,USA,Oregon,Investment,1,2,No,0,Website,Other
+C1410,Individual,0,Jennifer,Edwards,16-12-1965,60,F,USA,Nevada,Home,0,2,No,0,Agency,Other
+C1411,Individual,0,Anthony,Watson,04-04-1987,39,M,USA,California,Home,0,2,No,0,Client,Other
+C1412,Company,0,Optima,Co,28-06-1985,40,F,USA,Nevada,Home,0,2,No,0,Agency,Corporate Buyer
+C1413,Individual,0,Margaret,Rogers,18-09-1968,57,F,USA,California,Home,0,4,No,0,Agency,Other
+C1414,Individual,0,Michelle,Wright,01-05-1975,50,F,USA,Florida,Home,0,4,No,0,Website,Other
+C1415,Individual,0,Tyler,Murray,14-07-1959,66,M,USA,California,Investment,1,1,No,0,Website,Other
+C1416,Individual,0,Bryan,Peterson,01-07-1954,71,M,USA,Oregon,Home,0,2,No,0,Agency,Other
+C1417,Individual,0,Dennis,Williams,26-10-1953,72,M,UK,Scotland,Home,0,5,No,0,Website,Other
+C1418,Individual,0,Kyle,Cox,06-04-1954,72,M,USA,Ohio,Investment,1,2,No,0,Website,Other
+C1419,Individual,0,Jason,Peterson,08-08-1971,54,M,Germany,Hamburg,Investment,1,4,Yes,1,Website,Global Investor
+C1420,Company,0,Terova,Co,20-10-1981,44,M,UK,Wales,Home,0,5,No,0,Website,Corporate Buyer
+C1421,Individual,0,James,Jones,14-11-1957,68,M,USA,Colorado,Home,0,1,No,0,Website,Other
+C1422,Individual,0,Billy,Hansen,15-01-1955,71,M,USA,Florida,Investment,1,1,Yes,1,Website,Other
+C1423,Individual,0,Jack,Brooks,21-09-1955,70,M,UK,Northern Ireland,Home,0,4,Yes,1,Website,Other
+C1424,Individual,0,Judy,Harris,12-03-1954,72,F,USA,Utah,Home,0,2,Yes,1,Agency,Other
+C1425,Individual,0,Raymond,Taylor,16-12-1971,54,M,Belgium,Flanders,Home,0,3,No,0,Website,Other
+C1426,Individual,0,Christina,Campbell,20-05-1964,61,F,USA,Washington,Home,0,2,No,0,Website,Other
+C1427,Individual,0,Julia,Richardson,10-05-1955,70,F,Australia,Victoria,Home,0,5,No,0,Website,Other
+C1428,Individual,0,Nicole,Allen,05-12-1953,72,F,USA,Oregon,Home,0,4,Yes,1,Agency,Other
+C1429,Individual,0,Jesse,Stewart,01-10-1991,34,M,USA,Nevada,Investment,1,5,No,0,Agency,Luxury Investor
+C1430,Individual,0,Patrick,Allen,11-09-1963,62,M,USA,Nevada,Home,0,4,No,0,Website,Other
+C1431,Individual,0,Melissa,Griffin,01-07-1943,82,F,Germany,Hesse,Home,0,3,Yes,1,Website,Other
+C1432,Individual,0,Larry,Weaver,26-12-1951,74,M,USA,Utah,Home,0,3,No,0,Agency,Other
+C1433,Individual,0,Christian,Mitchell,12-04-1953,73,M,Germany,Hamburg,Home,0,4,No,0,Website,Other
+C1434,Company,0,Terova,Co,25-06-1985,40,F,USA,California,Investment,1,5,No,0,Agency,Corporate Buyer
+C1435,Individual,0,Zachary,Morales,08-04-1967,59,M,USA,Texas,Investment,1,2,No,0,Agency,Other
+C1436,Individual,0,Kyle,Wright,09-10-1998,27,M,USA,California,Home,0,2,No,0,Website,Other
+C1437,Individual,0,Gerald,Stewart,08-04-1997,29,M,USA,Arizona,Investment,1,5,No,0,Agency,Luxury Investor
+C1438,Individual,0,Benjamin,Taylor,04-08-1988,37,M,USA,California,Home,0,2,Yes,1,Agency,First-Time Buyer
+C1439,Individual,0,Helen,Morales,14-10-2000,25,F,USA,Virginia,Home,0,2,No,0,Agency,Other
+C1440,Individual,0,Mary,Phillips,20-07-1952,73,F,USA,Colorado,Investment,1,2,No,0,Agency,Other
+C1441,Individual,0,Helen,Campbell,08-09-1945,80,F,USA,California,Investment,1,5,No,0,Website,Luxury Investor
+C1442,Individual,0,Timothy,Foster,17-06-2000,25,M,USA,Colorado,Home,0,2,Yes,1,Client,First-Time Buyer
+C1443,Individual,0,Betty,Hughes,22-11-1979,46,F,USA,Florida,Home,0,2,No,0,Website,Other
+C1444,Individual,0,Frank,Alexander,25-06-1981,44,M,USA,Colorado,Home,0,3,No,0,Website,Other
+C1445,Individual,0,Gregory,Hall,26-07-1988,37,M,USA,Florida,Home,0,5,No,0,Website,Other
+C1446,Individual,0,Amber,Gray,09-12-1951,74,F,USA,Ohio,Home,0,4,No,0,Website,Other
+C1447,Individual,0,Janet,Rogers,14-05-1972,53,F,USA,Nevada,Investment,1,4,Yes,1,Client,Other
+C1448,Individual,0,Henry,Ward,15-03-1959,67,M,Russia,Tatarstan,Home,0,1,No,0,Website,Other
+C1449,Individual,0,Nicole,Cox,14-06-1999,26,F,USA,California,Investment,1,5,No,0,Website,Luxury Investor
+C1450,Individual,0,Pamela,White,06-04-1996,30,F,USA,Virginia,Home,0,5,No,0,Website,Other
+C1451,Individual,0,Hannah,Turner,19-10-1983,42,F,USA,California,Home,0,1,No,0,Website,Other
+C1452,Individual,0,Kelly,Edwards,05-08-1993,32,F,Belgium,Wallonia,Home,0,3,No,0,Client,Other
+C1453,Individual,0,Kenneth,Stone,07-10-1981,44,M,USA,California,Home,0,2,No,0,Agency,Other
+C1454,Individual,0,Ann,Kim,23-05-1948,77,F,USA,California,Investment,1,1,No,0,Client,Other
+C1455,Individual,0,Christina,Nelson,15-06-1989,36,F,USA,Colorado,Home,0,3,Yes,1,Agency,First-Time Buyer
+C1456,Company,0,Quasar,Co,26-06-1992,33,F,USA,Oregon,Investment,1,1,Yes,1,Website,Corporate Buyer
+C1457,Individual,0,Julie,Foster,27-01-1949,77,F,USA,California,Home,0,3,Yes,1,Agency,Other
+C1458,Individual,0,Keith,Reed,16-09-1950,75,M,USA,Arizona,Home,0,1,No,0,Website,Other
+C1459,Individual,0,Terry,Hall,28-09-1949,76,M,USA,Arizona,Home,0,5,No,0,Website,Other
+C1460,Individual,0,Pamela,Long,05-12-1972,53,F,UK,England,Home,0,1,Yes,1,Agency,Other
+C1461,Individual,0,Gloria,Reyes,13-01-1944,82,F,USA,California,Home,0,5,No,0,Website,Other
+C1462,Individual,0,Virginia,Allen,19-04-1984,42,F,Germany,Hamburg,Investment,1,3,No,0,Agency,Global Investor
+C1463,Individual,0,Lawrence,Ward,28-12-1943,82,M,USA,California,Home,0,2,Yes,1,Website,Other
+C1464,Individual,0,Terry,Weaver,25-01-1940,86,M,USA,Arizona,Home,0,1,No,0,Website,Other
+C1465,Individual,0,Edward,Stewart,09-07-1990,35,M,USA,Ohio,Home,0,3,Yes,1,Website,First-Time Buyer
+C1466,Individual,0,Ashley,Howard,28-08-1999,26,F,Belgium,Flanders,Investment,1,2,No,0,Website,Global Investor
+C1467,Individual,0,Rebecca,Adams,19-07-1951,74,F,USA,California,Home,0,5,No,0,Client,Other
+C1468,Individual,0,Jason,Martin,24-08-1940,85,M,Canada,Manitoba,Home,0,3,No,0,Website,Other
+C1469,Individual,0,Keith,Richardson,17-05-1970,55,M,USA,Colorado,Home,0,1,No,0,Website,Other
+C1470,Individual,0,Alexander,Richardson,27-05-1940,85,M,USA,Colorado,Investment,1,3,Yes,1,Agency,Other
+C1471,Individual,0,Judith,Williams,24-05-1940,85,F,UK,Northern Ireland,Home,0,1,Yes,1,Website,Other
+C1472,Individual,0,Paul,Flores,23-03-1991,35,M,USA,Washington,Home,0,1,No,0,Website,Other
+C1473,Individual,0,Maria,Freeman,14-03-1974,52,F,USA,California,Home,0,2,No,0,Agency,Other
+C1474,Individual,0,Kevin,Brown,10-04-1969,57,M,USA,Oregon,Home,0,3,No,0,Website,Other
+C1475,Individual,0,Raymond,Brown,02-08-1944,81,M,Mexico,Jalisco,Home,0,4,Yes,1,Agency,Other
+C1476,Individual,0,Kevin,Jackson,08-06-2000,25,M,USA,Nevada,Home,0,1,No,0,Agency,Other
+C1477,Company,0,Zynex,Co,10-04-1968,58,F,USA,California,Investment,1,1,No,0,Agency,Corporate Buyer
+C1478,Individual,0,Emily,Reed,12-09-1958,67,F,Canada,British Columbia,Investment,1,1,No,0,Agency,Global Investor
+C1479,Individual,0,Paul,Carter,26-03-1968,58,M,USA,California,Investment,1,1,No,0,Website,Other
+C1480,Individual,0,Danielle,White,09-04-1985,41,F,USA,Virginia,Investment,1,3,No,0,Client,Other
+C1481,Company,0,Caldera,Co,04-12-1984,41,F,USA,Arizona,Investment,1,3,No,0,Website,Corporate Buyer
+C1482,Individual,0,Kimberly,Murray,24-01-1953,73,F,USA,Oregon,Home,0,2,Yes,1,Website,Other
+C1483,Individual,0,Gary,Hall,01-06-1975,50,M,USA,Colorado,Home,0,3,Yes,1,Agency,Other
+C1484,Individual,0,Christina,Nelson,09-10-1971,54,F,USA,Colorado,Home,0,3,No,0,Client,Other
+C1485,Individual,0,Rachel,Scott,26-06-1984,41,F,USA,Washington,Investment,1,4,No,0,Website,Other
+C1486,Individual,0,Madison,Campbell,14-06-1996,29,F,UK,Wales,Home,0,5,Yes,1,Website,First-Time Buyer
+C1487,Individual,0,Sandra,Martin,10-12-1965,60,F,USA,New York,Home,0,3,No,0,Agency,Other
+C1488,Individual,0,Keith,Scott,07-09-1975,50,M,USA,Florida,Investment,1,2,No,0,Website,Other
+C1489,Individual,0,Gloria,Montgomery,19-03-1951,75,F,USA,Arizona,Home,0,5,No,0,Agency,Other
+C1490,Individual,0,Dennis,Hall,06-11-1994,31,M,UK,Wales,Investment,1,5,Yes,1,Client,Global Investor
+C1491,Individual,0,Rebecca,Evans,10-07-1997,28,F,USA,Georgia,Home,0,4,No,0,Agency,Other
+C1492,Individual,0,Mary,Taylor,18-12-1984,41,F,Germany,Bavaria,Home,0,2,No,0,Agency,Other
+C1493,Individual,0,Thomas,Bennett,16-03-1992,34,M,USA,Washington,Home,0,4,Yes,1,Agency,First-Time Buyer
+C1494,Individual,0,Nicholas,Cooper,09-04-1996,30,M,USA,New York,Home,0,1,No,0,Client,Other
+C1495,Individual,0,Jason,Hughes,09-11-1991,34,M,Denmark,Capital Region,Home,0,1,No,0,Website,Other
+C1496,Individual,0,Bryan,Patterson,15-11-1986,39,M,USA,Florida,Home,0,5,No,0,Agency,Other
+C1497,Individual,0,Samuel,Parker,13-01-1940,86,M,USA,California,Investment,1,4,No,0,Agency,Other
+C1498,Individual,0,Nicole,Carter,03-02-1967,59,F,Mexico,Puebla,Investment,1,5,No,0,Website,Luxury Investor
+C1499,Individual,0,Lauren,Gray,04-11-1997,28,F,Russia,Saint Petersburg,Home,0,3,Yes,1,Agency,First-Time Buyer
+C1500,Individual,0,Shirley,Ward,04-01-1995,31,F,Australia,Victoria,Home,0,2,No,0,Agency,Other
+C1501,Individual,0,Brenda,White,16-12-1951,74,F,USA,Oregon,Investment,1,4,No,0,Agency,Other
+C1502,Individual,0,Elizabeth,Weaver,27-10-1994,31,F,UK,Wales,Home,0,5,Yes,1,Website,First-Time Buyer
+C1503,Company,0,Triton,Co,21-08-1986,39,M,USA,Arizona,Investment,1,5,No,0,Website,Corporate Buyer
+C1504,Individual,0,Patrick,Hughes,19-08-1946,79,M,USA,California,Home,0,4,No,0,Website,Other
+C1505,Individual,0,William,Cook,14-05-1994,31,M,USA,Virginia,Home,0,3,No,0,Agency,Other
+C1506,Individual,0,Larry,Price,11-01-1950,76,M,USA,Utah,Investment,1,3,No,0,Website,Other
+C1507,Individual,0,Joyce,Cooper,28-03-1951,75,F,USA,Florida,Home,0,3,No,0,Agency,Other
+C1508,Individual,0,Benjamin,Morris,03-12-1994,31,M,UK,Scotland,Home,0,3,No,0,Agency,Other
+C1509,Individual,0,Rebecca,Campbell,16-12-1946,79,F,USA,California,Home,0,3,No,0,Website,Other
+C1510,Company,0,Altira,Co,01-12-1962,63,M,USA,California,Home,0,5,No,0,Agency,Corporate Buyer
+C1511,Individual,0,Ann,Hansen,20-07-1989,36,F,France,Provence,Home,0,2,Yes,1,Website,First-Time Buyer
+C1512,Individual,0,Anna,Young,18-06-1955,70,F,USA,Nevada,Home,0,4,Yes,1,Client,Other
+C1513,Individual,0,Danielle,Morales,08-06-1995,30,F,USA,Florida,Home,0,2,No,0,Website,Other
+C1514,Individual,0,Linda,Bryant,08-12-1986,39,F,USA,New York,Home,0,4,No,0,Website,Other
+C1515,Individual,0,Angela,Williams,16-10-1946,79,F,USA,Nevada,Investment,1,5,No,0,Website,Luxury Investor
+C1516,Individual,0,Grace,Wood,23-05-1953,72,F,USA,Texas,Home,0,4,No,0,Website,Other
+C1517,Individual,0,Benjamin,Chavez,23-02-1978,48,M,USA,California,Investment,1,2,No,0,Agency,Other
+C1518,Individual,0,Teresa,Rogers,08-10-1994,31,F,Australia,Victoria,Home,0,5,Yes,1,Agency,First-Time Buyer
+C1519,Individual,0,Kyle,Freeman,19-08-1972,53,M,USA,California,Home,0,1,No,0,Agency,Other
+C1520,Individual,0,Patrick,Griffin,05-12-1945,80,M,USA,Utah,Home,0,1,No,0,Website,Other
+C1521,Individual,0,Bryan,Foster,25-12-1973,52,M,USA,Nevada,Home,0,4,No,0,Agency,Other
+C1522,Individual,0,Debra,Mitchell,14-09-1964,61,F,USA,Washington,Home,0,5,No,0,Website,Other
+C1523,Company,0,Horizon,Co,22-07-1981,44,M,Australia,Victoria,Investment,1,3,No,0,Website,Corporate Buyer
+C1524,Individual,0,Jordan,Wilson,24-07-1967,58,M,USA,Virginia,Home,0,2,No,0,Client,Other
+C1525,Individual,0,Timothy,Brown,24-08-1959,66,M,USA,California,Home,0,1,No,0,Agency,Other
+C1526,Individual,0,Victoria,Howard,05-08-1956,69,F,USA,California,Home,0,3,No,0,Website,Other
+C1527,Individual,0,Martha,Thomas,13-05-1989,36,F,USA,California,Home,0,1,No,0,Agency,Other
+C1528,Individual,0,Jennifer,Weaver,02-09-1997,28,F,Germany,Hamburg,Home,0,1,Yes,1,Website,First-Time Buyer
+C1529,Company,0,Helios,Co,19-04-1989,37,M,USA,California,Home,0,4,No,0,Website,Corporate Buyer
+C1530,Individual,0,Sarah,Wright,20-11-1988,37,F,USA,California,Home,0,2,No,0,Website,Other
+C1531,Individual,0,Bryan,Cox,15-03-1964,62,M,France,Brittany,Investment,1,2,No,0,Website,Global Investor
+C1532,Individual,0,Linda,Freeman,26-09-1998,27,F,USA,Texas,Home,0,3,Yes,1,Website,First-Time Buyer
+C1533,Individual,0,Anthony,Bryant,05-10-1988,37,M,Canada,British Columbia,Home,0,4,No,0,Agency,Other
+C1534,Individual,0,Sandra,Pierce,08-06-1996,29,F,USA,California,Home,0,4,Yes,1,Website,First-Time Buyer
+C1535,Individual,0,Jeremy,Stone,03-09-1994,31,M,UK,England,Investment,1,3,No,0,Agency,Global Investor
+C1536,Individual,0,Sara,Baker,05-06-1982,43,F,USA,Washington,Home,0,3,No,0,Website,Other
+C1537,Individual,0,Lisa,Foster,04-08-1999,26,F,USA,Arizona,Home,0,5,No,0,Website,Other
+C1538,Individual,0,Jessica,Kim,07-01-1947,79,F,USA,California,Investment,1,5,No,0,Website,Luxury Investor
+C1539,Individual,0,Terry,Brown,13-05-1997,28,M,USA,Nevada,Home,0,1,No,0,Agency,Other
+C1540,Individual,0,Roger,Cox,02-12-1957,68,M,USA,California,Home,0,2,Yes,1,Client,Other
+C1541,Individual,0,Carl,Adams,20-11-1964,61,M,USA,California,Home,0,2,No,0,Website,Other
+C1542,Individual,0,Gary,Cook,27-07-1989,36,M,USA,Nevada,Home,0,1,Yes,1,Website,First-Time Buyer
+C1543,Individual,0,Virginia,Peterson,10-11-1955,70,F,USA,New York,Investment,1,3,No,0,Agency,Other
+C1544,Individual,0,Heather,Evans,27-04-1947,78,F,Russia,Tatarstan,Home,0,3,No,0,Website,Other
+C1545,Individual,0,Elizabeth,Price,23-11-1992,33,F,USA,California,Investment,1,1,Yes,1,Website,Other
+C1546,Individual,0,Sarah,Scott,06-06-1966,59,F,Mexico,Puebla,Home,0,4,Yes,1,Agency,Other
+C1547,Individual,0,Margaret,Martin,03-04-1975,51,F,USA,Florida,Home,0,2,Yes,1,Agency,Other
+C1548,Company,0,Telnox,Co,26-12-1967,58,M,USA,California,Home,0,2,Yes,1,Website,Corporate Buyer
+C1549,Individual,0,Gary,Reyes,15-06-1961,64,M,Mexico,Nuevo Leon,Home,0,4,No,0,Client,Other
+C1550,Individual,0,Jason,Rogers,01-10-1998,27,M,USA,California,Home,0,2,No,0,Agency,Other
+C1551,Individual,0,Aaron,Howard,17-05-1991,34,M,USA,California,Home,0,2,No,0,Agency,Other
+C1552,Individual,0,Peter,Wilson,20-04-1947,79,M,USA,California,Investment,1,2,Yes,1,Agency,Other
+C1553,Company,0,Horizon,Co,27-03-1990,36,M,USA,Utah,Home,0,4,No,0,Agency,Corporate Buyer
+C1554,Individual,0,Gregory,Cox,04-03-1998,28,M,Germany,Bavaria,Home,0,1,No,0,Website,Other
+C1555,Individual,0,Julia,Martin,25-04-1946,79,F,UK,England,Home,0,5,No,0,Website,Other
+C1556,Individual,0,Grace,Wood,20-11-1982,43,F,USA,Colorado,Investment,1,2,No,0,Agency,Other
+C1557,Individual,0,Joan,Griffin,15-03-1942,84,F,USA,New York,Home,0,2,Yes,1,Website,Other
+C1558,Individual,0,Tyler,Phillips,12-03-1944,82,M,Mexico,Baja California,Home,0,4,No,0,Website,Other
+C1559,Individual,0,Sara,Mitchell,27-03-1975,51,F,UK,England,Home,0,2,No,0,Website,Other
+C1560,Individual,0,Christina,Hughes,15-07-1940,85,F,USA,California,Home,0,4,Yes,1,Client,Other
+C1561,Individual,0,Jeffrey,Green,28-04-1964,61,M,Mexico,Nuevo Leon,Investment,1,5,No,0,Agency,Luxury Investor
+C1562,Individual,0,Maria,Morris,05-07-1987,38,F,USA,California,Home,0,4,No,0,Client,Other
+C1563,Individual,0,Susan,Baker,18-06-1987,38,F,USA,Utah,Home,0,5,No,0,Website,Other
+C1564,Individual,0,Jason,Wood,06-11-1964,61,M,USA,Washington,Investment,1,5,No,0,Website,Luxury Investor
+C1565,Individual,0,Kenneth,Bennett,08-08-1980,45,M,Mexico,Jalisco,Home,0,4,No,0,Agency,Other
+C1566,Individual,0,Anthony,Wilson,01-01-1995,31,M,USA,California,Home,0,3,No,0,Website,Other
+C1567,Individual,0,Frank,Wilson,11-10-1977,48,M,USA,Georgia,Home,0,4,No,0,Client,Other
+C1568,Individual,0,Betty,Owens,06-03-1990,36,F,USA,California,Home,0,5,No,0,Website,Other
+C1569,Individual,0,Pamela,Turner,05-11-1993,32,F,USA,California,Investment,1,1,Yes,1,Website,Other
+C1570,Individual,0,Amanda,Williams,27-12-1963,62,F,USA,Ohio,Home,0,5,No,0,Website,Other
+C1571,Individual,0,Ethan,Morales,03-06-1978,47,M,USA,California,Home,0,2,No,0,Website,Other
+C1572,Individual,0,Donald,Baker,10-06-1960,65,M,Australia,Queensland,Home,0,3,No,0,Agency,Other
+C1573,Individual,0,Amanda,Richardson,07-05-1946,79,F,USA,California,Home,0,1,No,0,Website,Other
+C1574,Individual,0,Gary,Morris,14-08-1984,41,M,USA,California,Home,0,4,No,0,Website,Other
+C1575,Individual,0,Paul,Freeman,19-12-2000,25,M,USA,California,Home,0,2,No,0,Website,Other
+C1576,Individual,0,Heather,Cook,28-09-1977,48,F,USA,Nevada,Investment,1,3,Yes,1,Website,Other
+C1577,Individual,0,Ethan,Edwards,15-02-1983,43,M,Germany,Bavaria,Home,0,3,No,0,Website,Other
+C1578,Individual,0,Mark,Turner,12-03-1996,30,M,USA,California,Investment,1,2,No,0,Website,Other
+C1579,Individual,0,Robert,Bell,03-10-1945,80,M,USA,Arizona,Investment,1,4,No,0,Website,Other
+C1580,Individual,0,Jordan,Martin,05-12-1997,28,M,USA,Georgia,Investment,1,1,Yes,1,Website,Other
+C1581,Individual,0,James,Reyes,08-11-1950,75,M,USA,California,Investment,1,1,No,0,Website,Other
+C1582,Individual,0,Harold,Baker,20-08-1955,70,M,France,Ile-de-France,Home,0,4,Yes,1,Client,Other
+C1583,Individual,0,Peter,Scott,03-01-1968,58,M,USA,California,Home,0,2,No,0,Agency,Other
+C1584,Company,0,Nexus,Co,12-08-1985,40,M,France,Brittany,Investment,1,1,Yes,1,Website,Corporate Buyer
+C1585,Individual,0,Kevin,Watson,10-10-1960,65,M,Canada,Ontario,Home,0,5,No,0,Website,Other
+C1586,Individual,0,Carolyn,Roberts,21-01-1967,59,F,Germany,Berlin,Home,0,3,No,0,Website,Other
+C1587,Individual,0,Carl,Cooper,02-12-1943,82,M,Canada,Quebec,Investment,1,4,Yes,1,Agency,Global Investor
+C1588,Individual,0,Patricia,Thomas,25-10-1980,45,F,USA,Utah,Investment,1,5,No,0,Website,Luxury Investor
+C1589,Individual,0,Christina,Ward,12-08-1953,72,F,USA,California,Investment,1,4,No,0,Agency,Other
+C1590,Company,0,Elara,Co,19-06-1979,46,F,USA,Oregon,Home,0,1,No,0,Website,Corporate Buyer
+C1591,Individual,0,Christine,Brooks,15-08-1971,54,F,USA,California,Investment,1,4,No,0,Website,Other
+C1592,Individual,0,Heather,Allen,01-06-1975,50,F,USA,Texas,Investment,1,2,Yes,1,Agency,Other
+C1593,Individual,0,Anthony,Williams,05-08-1975,50,M,USA,California,Home,0,1,No,0,Website,Other
+C1594,Individual,0,Kathleen,Green,24-10-1969,56,F,USA,Colorado,Home,0,2,No,0,Agency,Other
+C1595,Individual,0,Charles,Reed,20-08-1955,70,M,USA,California,Home,0,5,No,0,Website,Other
+C1596,Individual,0,Frank,Hall,10-11-1979,46,M,Germany,Berlin,Investment,1,4,No,0,Website,Global Investor
+C1597,Individual,0,Rachel,Cox,28-12-1949,76,F,USA,Nevada,Investment,1,4,Yes,1,Website,Other
+C1598,Individual,0,Angela,Adams,23-06-1940,85,F,USA,Georgia,Home,0,4,Yes,1,Agency,Other
+C1599,Individual,0,Stephanie,Thompson,19-11-1980,45,F,USA,Virginia,Investment,1,5,Yes,1,Website,Other
+C1600,Individual,0,Jennifer,Rogers,13-02-1968,58,F,Belgium,Wallonia,Home,0,5,No,0,Website,Other
+C1601,Individual,0,Tiffany,Parker,13-08-1996,29,F,Russia,Krasnodar Krai,Home,0,3,No,0,Website,Other
+C1602,Individual,0,Harold,Turner,01-11-1986,39,M,USA,Nevada,Investment,1,4,No,0,Website,Other
+C1603,Individual,0,Hannah,Rogers,07-09-1962,63,F,UK,England,Home,0,5,No,0,Website,Other
+C1604,Individual,0,Ronald,Kim,10-09-1949,76,M,USA,Texas,Home,0,4,No,0,Website,Other
+C1605,Individual,0,Joshua,Collins,21-01-1999,27,M,UK,England,Investment,1,4,Yes,1,Website,Global Investor
+C1606,Individual,0,Zachary,Howard,20-03-1965,61,M,USA,Washington,Home,0,1,Yes,1,Agency,Other
+C1607,Individual,0,Emma,Hall,11-03-1963,63,F,USA,California,Home,0,3,No,0,Agency,Other
+C1608,Individual,0,Heather,Pierce,14-11-1999,26,F,UK,England,Home,0,4,Yes,1,Website,First-Time Buyer
+C1609,Individual,0,Justin,Reed,02-10-1964,61,M,USA,California,Investment,1,2,No,0,Website,Other
+C1610,Individual,0,Kenneth,White,23-03-1967,59,M,USA,California,Investment,1,3,No,0,Website,Other
+C1611,Individual,0,Sarah,Bryant,02-09-1975,50,F,USA,Nevada,Investment,1,4,No,0,Website,Other
+C1612,Individual,0,Jason,Price,25-02-1990,36,M,USA,California,Home,0,1,No,0,Agency,Other
+C1613,Individual,0,Ryan,Griffin,08-01-1998,28,M,Denmark,Southern Denmark,Home,0,2,Yes,1,Agency,First-Time Buyer
+C1614,Individual,0,Julie,Williams,16-05-1968,57,F,USA,Utah,Investment,1,4,No,0,Website,Other
+C1615,Individual,0,Jason,Mitchell,01-08-1963,62,M,USA,Utah,Home,0,5,No,0,Agency,Other
+C1616,Individual,0,Aaron,Nelson,01-09-1991,34,M,UK,Wales,Investment,1,5,Yes,1,Website,Global Investor
+C1617,Individual,0,Michelle,Baker,09-10-1952,73,F,USA,California,Home,0,3,No,0,Website,Other
+C1618,Individual,0,Linda,Price,22-11-1962,63,F,USA,Washington,Home,0,2,Yes,1,Website,Other
+C1619,Individual,0,Jason,Baker,24-10-1952,73,M,Belgium,Wallonia,Home,0,2,No,0,Website,Other
+C1620,Individual,0,Jacob,Morales,07-05-1944,81,M,USA,California,Home,0,1,Yes,1,Website,Other
+C1621,Individual,0,Carl,Wood,15-06-1954,71,M,USA,Oregon,Investment,1,2,No,0,Agency,Other
+C1622,Individual,0,Angela,Taylor,01-02-1961,65,F,USA,Oregon,Home,0,1,Yes,1,Website,Other
+C1623,Individual,0,Julia,Hall,12-01-1994,32,F,USA,Oregon,Home,0,4,No,0,Website,Other
+C1624,Individual,0,Jennifer,Stewart,04-01-1951,75,F,USA,California,Home,0,4,Yes,1,Website,Other
+C1625,Individual,0,Harold,Wright,03-02-2000,26,M,Australia,Western Australia,Home,0,4,No,0,Agency,Other
+C1626,Individual,0,Jennifer,Morales,24-02-1970,56,F,France,Provence,Home,0,2,Yes,1,Website,Other
+C1627,Individual,0,David,Bryant,14-08-1973,52,M,USA,California,Investment,1,1,No,0,Website,Other
+C1628,Company,0,Lumina,Co,13-10-1993,32,F,France,Normandy,Home,0,4,Yes,1,Website,Corporate Buyer
+C1629,Individual,0,Stephanie,Roberts,26-08-1956,69,F,USA,Utah,Home,0,5,No,0,Agency,Other
+C1630,Company,0,Grandis,Co,06-05-1994,31,F,USA,Virginia,Investment,1,1,Yes,1,Website,Corporate Buyer
+C1631,Individual,0,Joan,Patterson,12-03-1966,60,F,UK,Northern Ireland,Home,0,5,No,0,Website,Other
+C1632,Individual,0,Victoria,Wright,12-07-1963,62,F,USA,California,Investment,1,3,Yes,1,Agency,Other
+C1633,Individual,0,Sara,Bennett,03-07-1977,48,F,Canada,Ontario,Home,0,2,No,0,Website,Other
+C1634,Individual,0,Sara,King,11-01-1944,82,F,USA,Georgia,Investment,1,2,No,0,Website,Other
+C1635,Individual,0,Lawrence,Moore,27-04-1948,77,M,France,Brittany,Home,0,1,No,0,Website,Other
+C1636,Company,0,Zynex,Co,10-01-1987,39,F,USA,Arizona,Home,0,5,Yes,1,Website,Corporate Buyer
+C1637,Individual,0,Jacob,Cook,11-02-1969,57,M,Mexico,Nuevo Leon,Home,0,5,No,0,Agency,Other
+C1638,Individual,0,Cynthia,Peterson,14-12-1978,47,F,France,Occitanie,Investment,1,1,Yes,1,Agency,Global Investor
+C1639,Individual,0,Ronald,Smith,26-09-1943,82,M,USA,Colorado,Home,0,1,No,0,Website,Other
+C1640,Individual,0,Helen,Adams,04-11-1966,59,F,USA,California,Home,0,1,Yes,1,Website,Other
+C1641,Individual,0,Charles,Phillips,14-02-1972,54,M,USA,Utah,Home,0,1,No,0,Agency,Other
+C1642,Individual,0,Maria,Adams,20-07-1981,44,F,Canada,British Columbia,Home,0,5,No,0,Website,Other
+C1643,Individual,0,Carl,Rogers,09-01-1978,48,M,France,Ile-de-France,Home,0,4,No,0,Agency,Other
+C1644,Individual,0,Megan,Freeman,22-06-1944,81,F,USA,California,Home,0,1,No,0,Client,Other
+C1645,Individual,0,Shirley,Chavez,08-02-1995,31,F,Australia,New South Wales,Investment,1,1,No,0,Website,Global Investor
+C1646,Individual,0,Billy,Patterson,10-06-1998,27,M,USA,Washington,Investment,1,4,Yes,1,Agency,Other
+C1647,Individual,0,Paul,Stone,25-11-1945,80,M,USA,Ohio,Home,0,4,Yes,1,Agency,Other
+C1648,Individual,0,Julia,Wood,21-09-1949,76,F,Australia,New South Wales,Home,0,3,No,0,Website,Other
+C1649,Individual,0,Melissa,Price,02-03-1982,44,F,USA,Oregon,Home,0,4,Yes,1,Agency,Other
+C1650,Individual,0,Edward,Griffin,01-04-1969,57,M,USA,Washington,Investment,1,2,No,0,Website,Other
+C1651,Individual,0,Ryan,Bell,19-11-1945,80,M,USA,California,Investment,1,4,No,0,Website,Other
+C1652,Individual,0,Paul,Weaver,15-01-1964,62,M,USA,Nevada,Investment,1,4,Yes,1,Client,Other
+C1653,Individual,0,Sara,White,02-08-1974,51,F,USA,Colorado,Investment,1,4,Yes,1,Website,Other
+C1654,Individual,0,Judith,Brooks,05-04-1968,58,F,USA,California,Home,0,1,No,0,Website,Other
+C1655,Individual,0,Sara,Cox,16-05-1965,60,F,USA,Texas,Investment,1,2,No,0,Website,Other
+C1656,Individual,0,Jacob,Baker,05-05-1991,34,M,Belgium,Wallonia,Investment,1,4,Yes,1,Website,Global Investor
+C1657,Individual,0,Donald,Kim,19-05-1958,67,M,USA,California,Home,0,2,No,0,Website,Other
+C1658,Individual,0,Ronald,Patterson,07-08-1970,55,M,USA,California,Home,0,5,No,0,Agency,Other
+C1659,Individual,0,Joshua,Thompson,05-09-1946,79,M,Denmark,Zealand,Home,0,4,No,0,Website,Other
+C1660,Individual,0,Henry,Richardson,27-04-1940,85,M,USA,Nevada,Home,0,4,Yes,1,Website,Other
+C1661,Individual,0,Ronald,Cox,20-08-1975,50,M,USA,Washington,Home,0,4,No,0,Agency,Other
+C1662,Individual,0,Gary,Montgomery,16-05-1967,58,M,Russia,Tatarstan,Home,0,4,No,0,Website,Other
+C1663,Individual,0,Joshua,Garcia,13-05-1977,48,M,USA,Colorado,Investment,1,3,No,0,Agency,Other
+C1664,Individual,0,Judith,Hayes,25-07-1969,56,F,France,Occitanie,Investment,1,5,No,0,Agency,Luxury Investor
+C1665,Individual,0,Harold,Bell,16-12-1995,30,M,USA,Arizona,Home,0,5,No,0,Website,Other
+C1666,Individual,0,Brenda,Edwards,08-09-1962,63,F,USA,Ohio,Home,0,2,No,0,Website,Other
+C1667,Individual,0,Stephanie,Cook,14-11-1967,58,F,USA,California,Investment,1,4,No,0,Agency,Other
+C1668,Individual,0,Scott,Green,12-11-1957,68,M,Australia,Victoria,Home,0,5,No,0,Website,Other
+C1669,Individual,0,Steven,Collins,07-04-1960,66,M,Canada,Alberta,Investment,1,3,Yes,1,Agency,Global Investor
+C1670,Individual,0,Angela,Watson,09-12-1970,55,F,USA,Colorado,Home,0,3,Yes,1,Website,Other
+C1671,Individual,0,Ashley,Howard,13-09-1948,77,F,USA,California,Home,0,3,No,0,Agency,Other
+C1672,Individual,0,Jacqueline,Morales,09-04-1974,52,F,USA,Nevada,Investment,1,4,No,0,Website,Other
+C1673,Individual,0,Katherine,Martin,04-03-1992,34,F,USA,Washington,Home,0,1,Yes,1,Website,First-Time Buyer
+C1674,Individual,0,Emily,Jackson,22-12-1941,84,F,USA,California,Home,0,5,Yes,1,Website,Other
+C1675,Individual,0,Emma,Reyes,08-04-1985,41,F,Canada,Alberta,Investment,1,5,No,0,Website,Luxury Investor
+C1676,Individual,0,Amy,Allen,19-09-1999,26,F,USA,Washington,Home,0,2,No,0,Website,Other
+C1677,Individual,0,Kevin,Thomas,20-12-1964,61,M,USA,Texas,Home,0,1,Yes,1,Website,Other
+C1678,Individual,0,Gary,Sanders,06-03-1961,65,M,USA,California,Home,0,1,Yes,1,Agency,Other
+C1679,Individual,0,Christina,Nelson,28-02-1986,40,F,USA,Nevada,Investment,1,4,No,0,Website,Other
+C1680,Individual,0,Danielle,Howard,25-09-1999,26,F,USA,California,Investment,1,4,No,0,Agency,Other
+C1681,Individual,0,Carl,Alexander,27-07-1961,64,M,USA,Oregon,Home,0,3,Yes,1,Client,Other
+C1682,Individual,0,Amanda,Brooks,11-04-1987,39,F,USA,Nevada,Home,0,2,No,0,Website,Other
+C1683,Individual,0,Amber,Patterson,19-11-1999,26,F,USA,Oregon,Investment,1,1,No,0,Client,Other
+C1684,Individual,0,Grace,Cooper,01-07-1977,48,F,USA,Colorado,Investment,1,4,No,0,Website,Other
+C1685,Individual,0,Kathleen,Parker,16-05-1977,48,F,USA,California,Home,0,5,No,0,Agency,Other
+C1686,Individual,0,David,Howard,25-01-1977,49,M,USA,California,Investment,1,2,Yes,1,Agency,Other
+C1687,Individual,0,Eric,Anderson,15-05-1967,58,M,USA,California,Home,0,4,Yes,1,Website,Other
+C1688,Individual,0,Amanda,Flores,28-04-1996,29,F,USA,Oregon,Home,0,5,No,0,Client,Other
+C1689,Individual,0,Virginia,King,26-01-1985,41,F,USA,Oregon,Investment,1,1,Yes,1,Client,Other
+C1690,Individual,0,Terry,Martin,18-08-1951,74,M,Denmark,North Denmark,Home,0,2,Yes,1,Agency,Other
+C1691,Individual,0,Robert,Reed,25-03-1946,80,M,USA,Arizona,Home,0,5,No,0,Website,Other
+C1692,Individual,0,Joseph,Patterson,08-03-1991,35,M,Canada,Ontario,Home,0,5,Yes,1,Agency,First-Time Buyer
+C1693,Individual,0,Donald,Turner,20-11-1990,35,M,Belgium,Flanders,Home,0,1,No,0,Website,Other
+C1694,Individual,0,Gloria,Foster,18-07-1957,68,F,USA,Virginia,Home,0,5,No,0,Agency,Other
+C1695,Individual,0,Tiffany,Peterson,13-12-1955,70,F,Belgium,Flanders,Home,0,5,No,0,Website,Other
+C1696,Individual,0,Emily,Jones,20-02-1987,39,F,USA,Florida,Home,0,1,No,0,Website,Other
+C1697,Individual,0,Maria,Brown,07-08-1980,45,F,Belgium,Brussels,Home,0,2,No,0,Client,Other
+C1698,Individual,0,Zachary,Stone,05-12-1950,75,M,UK,Northern Ireland,Home,0,4,Yes,1,Website,Other
+C1699,Individual,0,Peter,Phillips,15-07-1969,56,M,Australia,Western Australia,Home,0,3,Yes,1,Agency,Other
+C1700,Individual,0,Nicholas,Young,04-11-1943,82,M,USA,Nevada,Home,0,3,No,0,Website,Other
+C1701,Individual,0,Karen,Montgomery,27-06-1982,43,F,USA,Arizona,Home,0,1,No,0,Website,Other
+C1702,Individual,0,Frank,Alexander,04-01-1990,36,M,USA,Washington,Investment,1,5,Yes,1,Website,Other
+C1703,Individual,0,Gerald,Cox,13-08-1999,26,M,USA,Texas,Investment,1,4,No,0,Agency,Other
+C1704,Individual,0,Susan,Flores,15-02-1963,63,F,Denmark,Capital Region,Home,0,4,No,0,Agency,Other
+C1705,Individual,0,Kenneth,Howard,23-11-1979,46,M,USA,Virginia,Investment,1,3,Yes,1,Website,Other
+C1706,Individual,0,Matthew,Jordan,13-05-1976,49,M,USA,California,Home,0,3,Yes,1,Website,Other
+C1707,Individual,0,Adam,Allen,19-09-1973,52,M,USA,Georgia,Home,0,1,Yes,1,Website,Other
+C1708,Individual,0,Andrea,Wilson,06-08-1986,39,F,Germany,Hesse,Home,0,1,Yes,1,Agency,First-Time Buyer
+C1709,Individual,0,Danielle,Cox,09-08-1946,79,F,USA,Arizona,Investment,1,3,No,0,Agency,Other
+C1710,Individual,0,Joe,Flores,26-05-1957,68,M,Canada,Alberta,Investment,1,2,Yes,1,Website,Global Investor
+C1711,Individual,0,Debra,Hayes,24-08-1981,44,F,USA,California,Investment,1,3,Yes,1,Website,Other
+C1712,Individual,0,Ryan,Turner,04-03-1971,55,M,France,Occitanie,Home,0,5,No,0,Website,Other
+C1713,Individual,0,Julia,Cook,08-02-1981,45,F,USA,Oregon,Home,0,1,No,0,Website,Other
+C1714,Individual,0,Nathan,Brooks,05-07-1948,77,M,USA,Colorado,Home,0,3,No,0,Website,Other
+C1715,Individual,0,Hannah,Watson,13-04-1963,63,F,USA,Florida,Home,0,3,Yes,1,Agency,Other
+C1716,Individual,0,Michelle,Montgomery,13-10-1980,45,F,USA,California,Home,0,1,No,0,Website,Other
+C1717,Individual,0,Martha,Thomas,21-12-1941,84,F,USA,California,Home,0,4,Yes,1,Website,Other
+C1718,Individual,0,Janet,Peterson,06-01-1995,31,F,USA,California,Home,0,1,No,0,Website,Other
+C1719,Company,0,Halcyon,Co,10-05-1960,65,M,USA,Florida,Home,0,2,No,0,Agency,Corporate Buyer
+C1720,Individual,0,Danielle,Kim,10-10-1996,29,F,USA,California,Home,0,5,Yes,1,Website,First-Time Buyer
+C1721,Individual,0,Carl,Weaver,10-12-1986,39,M,USA,Nevada,Home,0,2,No,0,Agency,Other
+C1722,Individual,0,Jacqueline,Morris,23-11-1982,43,F,USA,Nevada,Home,0,3,No,0,Website,Other
+C1723,Individual,0,Carol,Allen,02-02-1998,28,F,Canada,Quebec,Home,0,2,Yes,1,Agency,First-Time Buyer
+C1724,Individual,0,Justin,Cook,19-06-1956,69,M,USA,Virginia,Home,0,4,No,0,Website,Other
+C1725,Individual,0,Sharon,Patterson,12-01-1959,67,F,USA,Nevada,Home,0,3,Yes,1,Website,Other
+C1726,Individual,0,Diane,Scott,15-08-1948,77,F,UK,Northern Ireland,Home,0,3,No,0,Website,Other
+C1727,Individual,0,Katherine,Morales,06-12-1945,80,F,USA,New York,Home,0,3,No,0,Website,Other
+C1728,Individual,0,Kimberly,Garcia,08-03-1944,82,F,USA,Oregon,Home,0,3,Yes,1,Client,Other
+C1729,Individual,0,Robert,Richardson,26-06-1955,70,M,Canada,British Columbia,Home,0,3,Yes,1,Website,Other
+C1730,Individual,0,Jeffrey,Young,22-11-1979,46,M,Mexico,Puebla,Investment,1,5,Yes,1,Agency,Global Investor
+C1731,Individual,0,Nathan,Garcia,19-12-1971,54,M,USA,California,Home,0,4,Yes,1,Website,Other
+C1732,Individual,0,Megan,Wilson,15-07-1970,55,F,Canada,Alberta,Investment,1,2,No,0,Agency,Global Investor
+C1733,Individual,0,Helen,Jones,22-04-1948,77,F,USA,California,Home,0,3,Yes,1,Agency,Other
+C1734,Individual,0,Zachary,Roberts,14-01-1975,51,M,USA,California,Home,0,5,No,0,Website,Other
+C1735,Individual,0,Amber,Miller,07-10-1969,56,F,USA,Utah,Investment,1,3,No,0,Website,Other
+C1736,Individual,0,Ann,Cook,21-09-1989,36,F,USA,California,Investment,1,4,Yes,1,Website,Other
+C1737,Individual,0,Jennifer,Jackson,24-12-1992,33,F,USA,California,Investment,1,3,No,0,Website,Other
+C1738,Individual,0,Sharon,Hall,25-02-1977,49,F,USA,California,Home,0,5,No,0,Website,Other
+C1739,Individual,0,Steven,Smith,25-02-1985,41,M,Russia,Novosibirsk,Investment,1,3,Yes,1,Website,Global Investor
+C1740,Individual,0,Ashley,Alexander,15-09-1951,74,F,USA,California,Home,0,5,Yes,1,Website,Other
+C1741,Individual,0,Alexander,Wright,18-04-1976,50,M,USA,Virginia,Home,0,5,No,0,Website,Other
+C1742,Company,0,Crestwood,Co,14-08-1988,37,F,USA,California,Home,0,5,No,0,Agency,Corporate Buyer
+C1743,Individual,0,Linda,Bell,26-07-1946,79,F,Belgium,Flanders,Home,0,1,No,0,Client,Other
+C1744,Individual,0,Brian,Green,16-11-1961,64,M,Russia,Krasnodar Krai,Investment,1,1,No,0,Website,Global Investor
+C1745,Individual,0,Ann,Sanders,21-06-1976,49,F,USA,California,Home,0,1,No,0,Website,Other
+C1746,Individual,0,Jennifer,Cox,14-06-1959,66,F,Belgium,Flanders,Home,0,3,No,0,Website,Other
+C1747,Individual,0,Bryan,Flores,19-02-1965,61,M,USA,Colorado,Home,0,5,No,0,Client,Other
+C1748,Individual,0,Albert,Jones,11-11-1950,75,M,USA,California,Home,0,4,Yes,1,Website,Other
+C1749,Individual,0,Brandon,Moore,27-05-1956,69,M,USA,California,Home,0,3,No,0,Website,Other
+C1750,Company,0,Stratos,Co,12-01-1991,35,M,USA,Colorado,Home,0,3,No,0,Website,Corporate Buyer
+C1751,Individual,0,Christine,Scott,28-02-1955,71,F,USA,Ohio,Home,0,5,No,0,Website,Other
+C1752,Individual,0,Jonathan,Cook,06-02-1980,46,M,USA,California,Investment,1,1,Yes,1,Website,Other
+C1753,Individual,0,Arthur,Peterson,18-12-1945,80,M,USA,Georgia,Investment,1,3,Yes,1,Website,Other
+C1754,Individual,0,Frank,Gray,11-11-1995,30,M,USA,Virginia,Home,0,2,Yes,1,Website,First-Time Buyer
+C1755,Individual,0,Mark,Griffin,26-08-1998,27,M,USA,Nevada,Home,0,1,Yes,1,Website,First-Time Buyer
+C1756,Individual,0,Daniel,Cook,21-03-1990,36,M,USA,Utah,Home,0,1,No,0,Website,Other
+C1757,Individual,0,Brian,Hayes,01-07-1985,40,M,Germany,Bavaria,Home,0,3,No,0,Client,Other
+C1758,Individual,0,Carl,Pierce,14-01-1985,41,M,USA,Oregon,Investment,1,4,Yes,1,Agency,Other
+C1759,Individual,0,Jose,Stone,10-10-1974,51,M,USA,California,Investment,1,1,No,0,Website,Other
+C1760,Individual,0,Mary,Harris,07-10-1975,50,F,Belgium,Brussels,Home,0,2,No,0,Website,Other
+C1761,Individual,0,Nicholas,Thompson,08-01-1955,71,M,USA,Washington,Home,0,1,No,0,Website,Other
+C1762,Individual,0,Larry,Harris,21-01-1964,62,M,USA,Virginia,Home,0,1,No,0,Website,Other
+C1763,Individual,0,Kimberly,Young,26-11-1954,71,F,USA,New York,Home,0,3,No,0,Website,Other
+C1764,Individual,0,Kelly,Baker,05-11-1946,79,F,USA,Nevada,Home,0,2,No,0,Agency,Other
+C1765,Individual,0,Pamela,Reyes,01-05-1997,28,F,USA,Colorado,Home,0,1,Yes,1,Client,First-Time Buyer
+C1766,Individual,0,Sharon,Bennett,05-05-1993,32,F,USA,California,Home,0,4,No,0,Website,Other
+C1767,Individual,0,Joe,Sanders,21-05-1978,47,M,USA,Colorado,Home,0,3,No,0,Website,Other
+C1768,Individual,0,Cynthia,Hughes,01-03-1943,83,F,Russia,Saint Petersburg,Home,0,4,No,0,Website,Other
+C1769,Company,0,Forsyte,Co,22-10-1985,40,M,USA,Oregon,Home,0,1,Yes,1,Client,Corporate Buyer
+C1770,Individual,0,Betty,Parker,17-11-1945,80,F,USA,Washington,Home,0,1,Yes,1,Agency,Other
+C1771,Company,0,Atlas,Co,22-06-1975,50,M,USA,Georgia,Home,0,3,Yes,1,Client,Corporate Buyer
+C1772,Company,0,Forsyte,Co,13-01-1975,51,F,Canada,Alberta,Investment,1,5,Yes,1,Agency,Corporate Buyer
+C1773,Individual,0,Kenneth,Williams,25-12-1980,45,M,USA,Nevada,Investment,1,3,Yes,1,Agency,Other
+C1774,Individual,0,Frank,James,26-12-1984,41,M,USA,Oregon,Home,0,4,No,0,Agency,Other
+C1775,Individual,0,Betty,Howard,07-10-1970,55,F,USA,California,Home,0,3,No,0,Agency,Other
+C1776,Individual,0,Martha,Mitchell,01-09-1973,52,F,France,Occitanie,Home,0,1,No,0,Website,Other
+C1777,Individual,0,Jason,Long,24-09-1974,51,M,USA,California,Investment,1,5,No,0,Client,Luxury Investor
+C1778,Individual,0,Jeffrey,Cox,09-01-1994,32,M,USA,Georgia,Investment,1,4,Yes,1,Website,Other
+C1779,Individual,0,Sharon,Thomas,20-04-1979,47,F,USA,California,Home,0,5,No,0,Client,Other
+C1780,Individual,0,Richard,Patterson,18-05-1956,69,M,USA,Utah,Investment,1,1,No,0,Website,Other
+C1781,Individual,0,Betty,Thomas,08-10-1968,57,F,USA,California,Home,0,4,No,0,Website,Other
+C1782,Individual,0,Ann,King,04-12-1999,26,F,UK,England,Investment,1,1,No,0,Website,Global Investor
+C1783,Individual,0,Jacob,Garcia,07-03-1954,72,M,USA,California,Home,0,3,No,0,Website,Other
+C1784,Individual,0,Albert,Moore,24-02-1998,28,M,Australia,Western Australia,Home,0,3,No,0,Client,Other
+C1785,Individual,0,Lauren,Allen,27-02-1956,70,F,USA,Colorado,Home,0,1,Yes,1,Website,Other
+C1786,Individual,0,Adam,White,07-03-1995,31,M,USA,California,Home,0,1,No,0,Website,Other
+C1787,Individual,0,Stephen,Flores,22-09-1955,70,M,USA,Georgia,Investment,1,5,No,0,Agency,Luxury Investor
+C1788,Individual,0,Zachary,James,27-10-1989,36,M,USA,California,Home,0,3,No,0,Website,Other
+C1789,Individual,0,Edward,Brooks,25-07-1982,43,M,USA,Colorado,Home,0,5,Yes,1,Agency,Other
+C1790,Individual,0,Jacob,Hansen,18-02-1940,86,M,USA,Nevada,Investment,1,5,No,0,Client,Luxury Investor
+C1791,Individual,0,Gerald,Scott,26-04-1966,59,M,USA,California,Home,0,5,No,0,Agency,Other
+C1792,Individual,0,Terry,Pierce,17-06-1995,30,M,USA,California,Home,0,3,No,0,Agency,Other
+C1793,Individual,0,Richard,James,05-04-1969,57,M,USA,Utah,Investment,1,1,No,0,Website,Other
+C1794,Individual,0,Douglas,Chavez,25-12-1995,30,M,USA,Colorado,Home,0,3,No,0,Website,Other
+C1795,Individual,0,William,Brown,01-12-1945,80,M,USA,California,Home,0,5,Yes,1,Website,Other
+C1796,Individual,0,Betty,Hughes,21-09-1950,75,F,USA,California,Investment,1,5,Yes,1,Client,Other
+C1797,Individual,0,Katherine,Howard,26-02-1957,69,F,USA,Oregon,Home,0,3,Yes,1,Website,Other
+C1798,Individual,0,Bryan,Peterson,10-08-1966,59,M,USA,Arizona,Investment,1,1,Yes,1,Website,Other
+C1799,Individual,0,Cheryl,Freeman,11-01-1950,76,F,USA,Colorado,Home,0,5,No,0,Agency,Other
+C1800,Individual,0,James,Campbell,13-04-1944,82,M,USA,Oregon,Home,0,1,No,0,Client,Other
+C1801,Individual,0,Jose,Howard,08-02-1964,62,M,USA,California,Home,0,5,Yes,1,Website,Other
+C1802,Individual,0,Jack,Morris,26-03-1948,78,M,USA,Nevada,Investment,1,1,No,0,Client,Other
+C1803,Individual,0,Susan,Bennett,14-04-1987,39,F,Canada,Quebec,Investment,1,5,No,0,Agency,Luxury Investor
+C1804,Individual,0,Albert,Kim,03-03-1989,37,M,USA,California,Home,0,1,No,0,Website,Other
+C1805,Individual,0,Austin,Kim,09-01-1953,73,M,UK,Northern Ireland,Investment,1,3,No,0,Website,Global Investor
+C1806,Individual,0,Martha,Turner,13-04-1967,59,F,Australia,New South Wales,Investment,1,2,No,0,Agency,Global Investor
+C1807,Individual,0,Angela,Allen,05-02-1957,69,F,France,Brittany,Home,0,5,No,0,Website,Other
+C1808,Individual,0,Victoria,Stewart,08-01-1990,36,F,USA,Washington,Investment,1,2,No,0,Client,Other
+C1809,Individual,0,Laura,White,03-05-1981,44,F,USA,New York,Home,0,4,Yes,1,Agency,Other
+C1810,Individual,0,Maria,Collins,06-01-1945,81,F,USA,Texas,Home,0,3,No,0,Agency,Other
+C1811,Individual,0,Stephanie,Williams,16-02-1958,68,F,USA,California,Home,0,3,Yes,1,Agency,Other
+C1812,Individual,0,Ryan,White,18-04-1977,49,M,France,Provence,Home,0,5,Yes,1,Website,Other
+C1813,Individual,0,Walter,Jordan,02-12-1947,78,M,Germany,Hamburg,Investment,1,3,Yes,1,Website,Global Investor
+C1814,Individual,0,Scott,Roberts,07-04-1987,39,M,Denmark,North Denmark,Home,0,2,No,0,Website,Other
+C1815,Individual,0,Aaron,Carter,26-03-1949,77,M,USA,California,Home,0,5,No,0,Agency,Other
+C1816,Individual,0,Sean,Miller,08-04-1962,64,M,Canada,Quebec,Home,0,2,No,0,Website,Other
+C1817,Individual,0,Cynthia,Garcia,28-07-1944,81,F,USA,Virginia,Home,0,1,No,0,Agency,Other
+C1818,Individual,0,Christine,Wood,17-08-1994,31,F,USA,Washington,Investment,1,5,Yes,1,Website,Other
+C1819,Individual,0,William,Brown,11-02-1963,63,M,Russia,Krasnodar Krai,Home,0,1,No,0,Website,Other
+C1820,Individual,0,Nicholas,Howard,21-08-1979,46,M,France,Provence,Home,0,3,No,0,Website,Other
+C1821,Individual,0,Adam,Smith,22-10-1944,81,M,USA,Nevada,Home,0,5,No,0,Website,Other
+C1822,Individual,0,Frank,Weaver,28-02-1996,30,M,USA,Oregon,Investment,1,5,Yes,1,Website,Other
+C1823,Individual,0,Jacob,Watson,11-08-1967,58,M,USA,Oregon,Home,0,4,Yes,1,Website,Other
+C1824,Individual,0,Jeffrey,Weaver,05-09-1962,63,M,USA,California,Home,0,3,No,0,Website,Other
+C1825,Individual,0,Eric,Jones,28-12-1956,69,M,Mexico,Nuevo Leon,Home,0,2,No,0,Agency,Other
+C1826,Individual,0,Jack,Williams,08-06-1951,74,M,USA,Ohio,Home,0,4,No,0,Client,Other
+C1827,Individual,0,Donald,Thompson,02-01-1973,53,M,USA,New York,Home,0,5,Yes,1,Website,Other
+C1828,Individual,0,William,Wood,15-11-1991,34,M,USA,California,Investment,1,2,Yes,1,Website,Other
+C1829,Individual,0,Rachel,Ward,17-07-1997,28,F,USA,California,Home,0,5,Yes,1,Agency,First-Time Buyer
+C1830,Individual,0,Virginia,Owens,20-03-1959,67,F,USA,Arizona,Home,0,3,No,0,Website,Other
+C1831,Individual,0,Janice,Smith,15-09-1950,75,F,Russia,Tatarstan,Home,0,3,No,0,Website,Other
+C1832,Individual,0,Henry,Garcia,21-04-1987,38,M,USA,Oregon,Investment,1,1,Yes,1,Website,Other
+C1833,Individual,0,Jennifer,Weaver,17-01-1948,78,F,USA,Arizona,Investment,1,1,Yes,1,Website,Other
+C1834,Individual,0,Zachary,Phillips,13-03-1963,63,M,Belgium,Flanders,Investment,1,5,No,0,Agency,Luxury Investor
+C1835,Individual,0,Nicole,Pierce,25-10-1959,66,F,Canada,Alberta,Investment,1,4,Yes,1,Agency,Global Investor
+C1836,Individual,0,Judy,Wood,08-10-1960,65,F,USA,California,Investment,1,1,Yes,1,Website,Other
+C1837,Individual,0,Julia,Freeman,06-04-1950,76,F,USA,California,Home,0,2,Yes,1,Client,Other
+C1838,Individual,0,Joyce,Morales,14-01-1965,61,F,Canada,Alberta,Investment,1,1,No,0,Agency,Global Investor
+C1839,Individual,0,Kyle,Gray,21-01-1943,83,M,USA,California,Investment,1,2,No,0,Agency,Other
+C1840,Individual,0,Gerald,Weaver,22-06-1986,39,M,UK,England,Investment,1,3,No,0,Website,Global Investor
+C1841,Individual,0,Austin,Williams,27-05-1947,78,M,USA,New York,Home,0,4,No,0,Website,Other
+C1842,Company,0,Rexon,Co,08-10-1978,47,M,Canada,Alberta,Home,0,3,Yes,1,Agency,Corporate Buyer
+C1843,Individual,0,Jose,Stone,18-06-1952,73,M,Germany,Hesse,Home,0,4,No,0,Website,Other
+C1844,Individual,0,Grace,Howard,21-07-1978,47,F,USA,Ohio,Home,0,1,No,0,Agency,Other
+C1845,Individual,0,Joshua,Green,11-09-1949,76,M,USA,California,Investment,1,1,Yes,1,Website,Other
+C1846,Individual,0,Sara,Allen,26-10-1985,40,F,Russia,Novosibirsk,Home,0,5,Yes,1,Agency,Other
+C1847,Individual,0,Brian,Griffin,01-04-1952,74,M,USA,Utah,Home,0,4,No,0,Website,Other
+C1848,Individual,0,Sarah,Davis,17-07-1993,32,F,USA,California,Home,0,2,No,0,Website,Other
+C1849,Individual,0,Joseph,Wilson,02-09-1976,49,M,Canada,Alberta,Investment,1,3,Yes,1,Website,Global Investor
+C1850,Individual,0,Gregory,Miller,25-07-1971,54,M,USA,New York,Investment,1,5,Yes,1,Agency,Other
+C1851,Individual,0,Kimberly,Miller,08-06-1954,71,F,UK,England,Home,0,3,Yes,1,Agency,Other
+C1852,Individual,0,Julie,Hall,15-12-1997,28,F,USA,Virginia,Home,0,4,No,0,Website,Other
+C1853,Individual,0,Jennifer,Owens,24-02-1949,77,F,USA,Virginia,Investment,1,4,No,0,Website,Other
+C1854,Company,0,Rexon,Co,23-03-1960,66,M,France,Ile-de-France,Investment,1,1,No,0,Client,Corporate Buyer
+C1855,Individual,0,Gloria,Hansen,07-02-1984,42,F,USA,California,Home,0,2,Yes,1,Website,Other
+C1856,Company,0,Altira,Co,24-05-1994,31,M,USA,Virginia,Home,0,2,No,0,Website,Corporate Buyer
+C1857,Individual,0,Walter,Johnson,22-03-1987,39,M,USA,California,Investment,1,2,Yes,1,Website,Other
+C1858,Individual,0,Amy,Hayes,05-06-1958,67,F,USA,Colorado,Home,0,5,No,0,Website,Other
+C1859,Individual,0,Zachary,Taylor,18-11-1943,82,M,USA,California,Home,0,5,Yes,1,Client,Other
+C1860,Company,0,Caldera,Co,17-07-1970,55,F,USA,California,Home,0,4,Yes,1,Agency,Corporate Buyer
+C1861,Individual,0,Nathan,Evans,08-01-1982,44,M,USA,California,Investment,1,3,Yes,1,Website,Other
+C1862,Individual,0,Joshua,Long,22-08-1953,72,M,USA,California,Home,0,1,Yes,1,Website,Other
+C1863,Individual,0,Megan,Hansen,04-03-1948,78,F,UK,Scotland,Home,0,3,No,0,Website,Other
+C1864,Individual,0,Hannah,Weaver,25-04-1972,53,F,USA,New York,Home,0,5,Yes,1,Website,Other
+C1865,Individual,0,Sean,Rogers,11-01-1974,52,M,USA,Arizona,Investment,1,4,No,0,Website,Other
+C1866,Individual,0,Joyce,Martin,23-08-1971,54,F,USA,Nevada,Home,0,2,No,0,Agency,Other
+C1867,Individual,0,Robert,Richardson,13-01-1952,74,M,USA,California,Home,0,2,Yes,1,Website,Other
+C1868,Individual,0,Michelle,Thomas,28-11-1975,50,F,UK,Wales,Home,0,1,No,0,Website,Other
+C1869,Individual,0,Margaret,Campbell,05-10-1975,50,F,Mexico,Nuevo Leon,Home,0,5,No,0,Client,Other
+C1870,Individual,0,Lawrence,Moore,13-10-1980,45,M,USA,Washington,Investment,1,1,No,0,Agency,Other
+C1871,Individual,0,Amy,Reyes,18-10-1961,64,F,USA,Texas,Home,0,1,Yes,1,Website,Other
+C1872,Individual,0,Raymond,Jones,23-10-1940,85,M,Mexico,Mexico City,Home,0,5,No,0,Client,Other
+C1873,Individual,0,Cheryl,Collins,10-03-1959,67,F,Canada,British Columbia,Home,0,5,No,0,Agency,Other
+C1874,Individual,0,Justin,Cooper,18-11-1972,53,M,USA,Colorado,Investment,1,1,No,0,Agency,Other
+C1875,Individual,0,Melissa,Roberts,13-09-1943,82,F,USA,Nevada,Home,0,2,No,0,Client,Other
+C1876,Company,0,Bravada,Co,17-03-1981,45,M,USA,Ohio,Investment,1,4,Yes,1,Website,Corporate Buyer
+C1877,Individual,0,Walter,Bryant,16-09-1961,64,M,USA,Arizona,Home,0,5,No,0,Agency,Other
+C1878,Individual,0,Paul,Rogers,07-10-1967,58,M,USA,Washington,Home,0,5,No,0,Agency,Other
+C1879,Individual,0,Deborah,Roberts,23-01-1977,49,F,USA,New York,Home,0,3,No,0,Website,Other
+C1880,Individual,0,Joan,Morales,22-01-1998,28,F,USA,California,Home,0,5,Yes,1,Client,First-Time Buyer
+C1881,Individual,0,Brenda,Phillips,13-09-1989,36,F,USA,Oregon,Home,0,2,Yes,1,Website,First-Time Buyer
+C1882,Individual,0,Deborah,Turner,22-03-1960,66,F,USA,Virginia,Investment,1,3,No,0,Website,Other
+C1883,Individual,0,Sean,Peterson,11-02-1941,85,M,USA,California,Home,0,1,No,0,Agency,Other
+C1884,Individual,0,Terry,Bell,06-08-1954,71,M,USA,Nevada,Home,0,5,Yes,1,Website,Other
+C1885,Individual,0,Ryan,Bell,26-10-1967,58,M,Germany,Hamburg,Home,0,1,Yes,1,Agency,Other
+C1886,Individual,0,Maria,Richardson,16-11-1999,26,F,USA,California,Home,0,5,No,0,Website,Other
+C1887,Individual,0,Emma,Campbell,07-01-1986,40,F,USA,Oregon,Investment,1,1,No,0,Agency,Other
+C1888,Individual,0,Donald,Griffin,06-08-1962,63,M,USA,California,Home,0,3,No,0,Website,Other
+C1889,Individual,0,Matthew,Richardson,10-07-1987,38,M,USA,California,Home,0,4,Yes,1,Website,First-Time Buyer
+C1890,Individual,0,Mark,Nelson,12-03-1954,72,M,Canada,Ontario,Home,0,4,No,0,Client,Other
+C1891,Individual,0,Gary,James,02-06-1972,53,M,USA,Oregon,Home,0,2,No,0,Agency,Other
+C1892,Individual,0,Nancy,Jones,06-06-1951,74,F,USA,Nevada,Investment,1,5,Yes,1,Agency,Other
+C1893,Individual,0,Ann,Davis,27-12-1962,63,F,USA,Washington,Home,0,1,Yes,1,Website,Other
+C1894,Individual,0,Joyce,Hall,11-03-1944,82,F,USA,Texas,Investment,1,4,No,0,Website,Other
+C1895,Company,0,Caldera,Co,07-01-1969,57,M,USA,Nevada,Investment,1,4,No,0,Agency,Corporate Buyer
+C1896,Individual,0,Andrew,Bryant,17-06-1955,70,M,USA,Virginia,Investment,1,3,No,0,Agency,Other
+C1897,Individual,0,Catherine,Rogers,27-12-1950,75,F,Canada,Ontario,Home,0,2,No,0,Website,Other
+C1898,Individual,0,Daniel,James,05-01-1979,47,M,USA,New York,Home,0,1,Yes,1,Website,Other
+C1899,Individual,0,Joe,Mitchell,05-04-1996,30,M,UK,England,Home,0,3,No,0,Website,Other
+C1900,Individual,0,Rachel,Griffin,07-09-1998,27,F,UK,England,Investment,1,4,No,0,Client,Global Investor
+C1901,Individual,0,Justin,Stewart,17-09-1982,43,M,Canada,British Columbia,Home,0,4,No,0,Agency,Other
+C1902,Company,0,Grandis,Co,09-11-1980,45,M,USA,Colorado,Investment,1,2,No,0,Agency,Corporate Buyer
+C1903,Individual,0,Nicole,Bennett,01-12-1991,34,F,USA,Nevada,Home,0,2,No,0,Website,Other
+C1904,Individual,0,Christian,Nelson,23-03-1949,77,M,USA,Texas,Home,0,2,Yes,1,Website,Other
+C1905,Individual,0,James,Morris,02-02-1961,65,M,USA,Virginia,Home,0,1,No,0,Website,Other
+C1906,Individual,0,Michelle,Adams,15-09-1955,70,F,USA,California,Home,0,2,No,0,Agency,Other
+C1907,Individual,0,Kyle,Wright,12-03-1950,76,M,USA,Colorado,Home,0,3,No,0,Website,Other
+C1908,Individual,0,Andrea,Moore,28-03-1976,50,F,USA,California,Home,0,2,No,0,Website,Other
+C1909,Individual,0,Heather,Pierce,04-12-1985,40,F,USA,California,Investment,1,2,No,0,Agency,Other
+C1910,Company,0,Telnox,Co,04-10-1985,40,M,USA,California,Home,0,2,Yes,1,Agency,Corporate Buyer
+C1911,Individual,0,Noah,Murray,11-01-1989,37,M,USA,California,Home,0,5,No,0,Agency,Other
+C1912,Individual,0,Amanda,Jackson,26-07-1954,71,F,USA,Utah,Investment,1,1,No,0,Website,Other
+C1913,Individual,0,Gary,King,12-11-1980,45,M,France,Provence,Home,0,5,No,0,Website,Other
+C1914,Individual,0,Brenda,Gray,24-08-1993,32,F,UK,Scotland,Home,0,4,Yes,1,Website,First-Time Buyer
+C1915,Individual,0,Angela,Williams,09-06-1964,61,F,USA,Arizona,Investment,1,4,No,0,Client,Other
+C1916,Individual,0,Zachary,Weaver,15-10-1948,77,M,USA,California,Investment,1,2,No,0,Website,Other
+C1917,Individual,0,Angela,Montgomery,16-09-1971,54,F,Australia,New South Wales,Home,0,2,No,0,Client,Other
+C1918,Individual,0,Dorothy,Murray,17-09-1940,85,F,USA,California,Home,0,1,No,0,Client,Other
+C1919,Company,0,Vantage,Co,19-01-1968,58,F,USA,Nevada,Investment,1,1,No,0,Website,Corporate Buyer
+C1920,Individual,0,Jonathan,Pierce,26-10-1969,56,M,Germany,North Rhine-Westphalia,Home,0,5,No,0,Agency,Other
+C1921,Individual,0,Carolyn,Adams,24-12-1956,69,F,France,Provence,Home,0,5,No,0,Website,Other
+C1922,Individual,0,Jessica,Garcia,09-01-1988,38,F,USA,California,Home,0,1,No,0,Agency,Other
+C1923,Individual,0,Sarah,Cooper,07-03-1947,79,F,Mexico,Jalisco,Investment,1,1,Yes,1,Client,Global Investor
+C1924,Individual,0,Joe,Cooper,03-01-1958,68,M,USA,California,Home,0,3,No,0,Client,Other
+C1925,Individual,0,Jordan,Baker,19-01-1942,84,M,USA,Colorado,Home,0,2,No,0,Agency,Other
+C1926,Individual,0,Joshua,Watson,05-11-1997,28,M,Mexico,Puebla,Home,0,1,Yes,1,Website,First-Time Buyer
+C1927,Individual,0,Victoria,Long,05-11-1952,73,F,USA,California,Investment,1,1,Yes,1,Website,Other
+C1928,Individual,0,Paul,Scott,20-02-1998,28,M,Australia,New South Wales,Home,0,4,Yes,1,Client,First-Time Buyer
+C1929,Individual,0,Angela,Baker,24-10-1941,84,F,Mexico,Jalisco,Home,0,1,Yes,1,Agency,Other
+C1930,Individual,0,Rachel,Adams,22-01-1966,60,F,USA,Colorado,Investment,1,3,No,0,Agency,Other
+C1931,Individual,0,Melissa,Jackson,01-05-1995,30,F,USA,Utah,Home,0,5,Yes,1,Website,First-Time Buyer
+C1932,Individual,0,Dorothy,Allen,13-05-1962,63,F,USA,California,Investment,1,2,No,0,Website,Other
+C1933,Company,0,Oasis,Co,05-04-1994,32,F,Australia,Queensland,Home,0,1,No,0,Client,Corporate Buyer
+C1934,Individual,0,Noah,Montgomery,25-03-1978,48,M,France,Ile-de-France,Investment,1,4,Yes,1,Client,Global Investor
+C1935,Individual,0,Ashley,Young,14-04-1983,43,F,USA,Arizona,Home,0,5,No,0,Website,Other
+C1936,Individual,0,Jeffrey,Brown,24-02-1984,42,M,Russia,Krasnodar Krai,Home,0,1,Yes,1,Agency,Other
+C1937,Individual,0,Ashley,Richardson,16-03-1961,65,F,USA,Arizona,Home,0,3,Yes,1,Website,Other
+C1938,Individual,0,Peter,Anderson,28-07-1973,52,M,Canada,Quebec,Home,0,4,Yes,1,Website,Other
+C1939,Individual,0,Gloria,White,09-06-1979,46,F,USA,Florida,Investment,1,1,Yes,1,Agency,Other
+C1940,Individual,0,Barbara,Turner,01-02-1997,29,F,Canada,Manitoba,Home,0,4,No,0,Agency,Other
+C1941,Individual,0,Maria,James,20-05-1943,82,F,USA,Nevada,Home,0,5,No,0,Client,Other
+C1942,Company,0,Stratos,Co,10-11-1984,41,F,USA,Nevada,Home,0,2,Yes,1,Agency,Corporate Buyer
+C1943,Individual,0,Eric,Long,04-01-1973,53,M,USA,Arizona,Home,0,1,No,0,Website,Other
+C1944,Individual,0,Henry,Pierce,15-02-1986,40,M,USA,California,Investment,1,1,No,0,Website,Other
+C1945,Individual,0,Sean,Johnson,26-02-1967,59,M,Mexico,Mexico City,Investment,1,3,No,0,Website,Global Investor
+C1946,Individual,0,Mark,Bell,15-01-1955,71,M,USA,California,Home,0,1,No,0,Agency,Other
+C1947,Individual,0,Walter,Mitchell,02-02-1979,47,M,USA,Nevada,Home,0,3,No,0,Website,Other
+C1948,Individual,0,Melissa,Harris,01-04-1955,71,F,USA,Arizona,Home,0,2,No,0,Agency,Other
+C1949,Individual,0,Christina,James,20-07-1955,70,F,USA,Colorado,Home,0,2,Yes,1,Agency,Other
+C1950,Individual,0,Edward,Weaver,27-03-1975,51,M,USA,Ohio,Home,0,4,No,0,Agency,Other
+C1951,Individual,0,Alexander,Murray,08-09-1996,29,M,USA,Utah,Home,0,1,Yes,1,Website,First-Time Buyer
+C1952,Company,0,Optima,Co,06-05-1992,33,M,USA,Nevada,Home,0,3,No,0,Agency,Corporate Buyer
+C1953,Individual,0,Donald,Miller,16-10-1972,53,M,Germany,Bavaria,Home,0,1,Yes,1,Website,Other
+C1954,Individual,0,Judy,Roberts,03-09-1966,59,F,Australia,Western Australia,Investment,1,3,No,0,Website,Global Investor
+C1955,Individual,0,Benjamin,Wright,20-05-1998,27,M,Canada,Quebec,Home,0,1,No,0,Website,Other
+C1956,Individual,0,Julie,Weaver,21-08-1967,58,F,USA,Oregon,Home,0,2,No,0,Agency,Other
+C1957,Individual,0,Adam,Howard,24-09-1962,63,M,USA,California,Home,0,4,Yes,1,Website,Other
+C1958,Individual,0,Susan,Foster,09-10-1970,55,F,USA,California,Home,0,3,No,0,Website,Other
+C1959,Individual,0,Judy,Morales,20-02-1942,84,F,USA,Texas,Home,0,1,No,0,Website,Other
+C1960,Individual,0,Dorothy,Brown,02-08-1987,38,F,USA,Colorado,Home,0,2,Yes,1,Website,First-Time Buyer
+C1961,Individual,0,William,Campbell,26-09-1994,31,M,USA,California,Home,0,5,No,0,Agency,Other
+C1962,Individual,0,Kimberly,Harris,01-08-1995,30,F,Mexico,Puebla,Home,0,5,No,0,Agency,Other
+C1963,Company,0,Terova,Co,01-03-1968,58,M,USA,Texas,Home,0,5,No,0,Website,Corporate Buyer
+C1964,Individual,0,Kevin,Martin,17-06-1972,53,M,USA,Virginia,Home,0,5,No,0,Agency,Other
+C1965,Individual,0,Sean,Wright,09-01-1997,29,M,USA,California,Home,0,4,No,0,Agency,Other
+C1966,Individual,0,Ronald,Howard,10-02-1964,62,M,Canada,British Columbia,Home,0,1,No,0,Agency,Other
+C1967,Individual,0,Roger,Bryant,09-10-1957,68,M,USA,Oregon,Investment,1,4,No,0,Agency,Other
+C1968,Individual,0,Judy,Griffin,02-11-1958,67,F,USA,California,Investment,1,3,Yes,1,Client,Other
+C1969,Individual,0,Jesse,James,14-06-1993,32,M,USA,Colorado,Investment,1,2,Yes,1,Agency,Other
+C1970,Individual,0,Raymond,Howard,25-02-1978,48,M,USA,Arizona,Investment,1,4,Yes,1,Website,Other
+C1971,Individual,0,Emma,Jordan,18-07-1976,49,F,USA,Virginia,Home,0,5,No,0,Website,Other
+C1972,Individual,0,Carol,Wilson,05-01-1972,54,F,USA,California,Home,0,4,Yes,1,Website,Other
+C1973,Company,0,Oasis,Co,13-09-1993,32,M,USA,Washington,Home,0,4,Yes,1,Agency,Corporate Buyer
+C1974,Individual,0,Keith,Peterson,09-04-1950,76,M,USA,Nevada,Home,0,5,Yes,1,Agency,Other
+C1975,Individual,0,Dorothy,Campbell,05-08-1975,50,F,Belgium,Wallonia,Home,0,4,No,0,Agency,Other
+C1976,Individual,0,Albert,Wilson,03-05-1995,30,M,USA,Florida,Home,0,5,No,0,Client,Other
+C1977,Individual,0,Jason,Bennett,07-04-1994,32,M,USA,Virginia,Home,0,1,No,0,Website,Other
+C1978,Company,0,Summit,Co,06-02-1967,59,F,USA,California,Investment,1,5,Yes,1,Website,Corporate Buyer
+C1979,Individual,0,Brian,Richardson,25-05-1942,83,M,USA,Colorado,Home,0,3,Yes,1,Agency,Other
+C1980,Individual,0,Barbara,Green,09-05-1956,69,F,USA,Texas,Investment,1,4,No,0,Website,Other
+C1981,Individual,0,Sarah,Flores,09-12-1992,33,F,Canada,Quebec,Home,0,5,No,0,Agency,Other
+C1982,Individual,0,Jose,Long,05-09-1947,78,M,USA,California,Home,0,4,Yes,1,Website,Other
+C1983,Individual,0,Ryan,Reed,13-03-1961,65,M,UK,Northern Ireland,Home,0,3,No,0,Website,Other
+C1984,Individual,0,Jesse,Watson,18-10-1956,69,M,USA,California,Home,0,4,No,0,Website,Other
+C1985,Individual,0,Gregory,Bell,11-05-1963,62,M,UK,Scotland,Home,0,1,Yes,1,Agency,Other
+C1986,Individual,0,Thomas,Griffin,23-04-1977,48,M,USA,New York,Investment,1,1,No,0,Website,Other
+C1987,Individual,0,Douglas,Davis,18-10-1986,39,M,Belgium,Wallonia,Investment,1,5,No,0,Website,Luxury Investor
+C1988,Individual,0,Henry,Thompson,19-09-1994,31,M,USA,California,Home,0,5,Yes,1,Website,First-Time Buyer
+C1989,Individual,0,William,Montgomery,19-11-1959,66,M,USA,Texas,Home,0,3,No,0,Agency,Other
+C1990,Individual,0,Scott,Howard,28-11-1976,49,M,USA,Texas,Investment,1,5,No,0,Agency,Luxury Investor
+C1991,Individual,0,Susan,Reed,09-07-1950,75,F,USA,California,Home,0,3,No,0,Website,Other
+C1992,Individual,0,Rachel,Hansen,19-01-1943,83,F,USA,Texas,Home,0,3,Yes,1,Website,Other
+C1993,Individual,0,Douglas,Thompson,09-06-1985,40,M,USA,New York,Home,0,2,No,0,Website,Other
+C1994,Individual,0,Nicole,Miller,21-07-1994,31,F,USA,Oregon,Investment,1,3,Yes,1,Website,Other
+C1995,Individual,0,Michelle,Scott,05-03-1993,33,F,USA,California,Investment,1,4,No,0,Agency,Other
+C1996,Individual,0,Samantha,Brooks,20-06-1992,33,F,USA,Nevada,Home,0,1,Yes,1,Website,First-Time Buyer
+C1997,Individual,0,Matthew,Cox,27-09-1942,83,M,USA,Arizona,Home,0,4,Yes,1,Website,Other
+C1998,Individual,0,Mark,Patterson,13-09-1963,62,M,USA,Virginia,Home,0,5,Yes,1,Website,Other
+C1999,Individual,0,Lawrence,Montgomery,15-06-1944,81,M,USA,Ohio,Home,0,4,Yes,1,Client,Other
+C2000,Individual,0,Amanda,James,24-03-1996,30,F,USA,Georgia,Home,0,1,Yes,1,Agency,First-Time Buyer
